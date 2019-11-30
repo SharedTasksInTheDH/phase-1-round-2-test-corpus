@@ -1,0 +1,287 @@
+FP0,FP,narrative_level number=”3”,,70,15889
+FP1,FP,narrator participation=”heterodiegetic”,,70,15889
+FP2,FP,narrative_level number=”3” words=2888,,70,15889
+FP3,FP,narrative_levelchange completion=“complete“,,70,15889
+MS0,MS,"narrator participation=""heterodiegetic""",,70,4389
+MS1,MS,"narrative_level number=""2""",,70,4389
+MS2,MS,"narrative_levelchange completion=""never opened""",,70,4389
+MS3,MS,"narrative_level number=""1""",,4390,4669
+MS4,MS,"narrator participation=""autodiegetic""",,4390,4669
+MS5,MS,"narrative_levelchange completion=""complete""",,4390,4669
+MS6,MS,narrator_change,,4390,4399
+MS7,MS,change_narratee,,4390,4399
+MS8,MS,level_change,,4390,4399
+MS9,MS,"narrative_level number=""2""",,4670,11521
+MS10,MS,"narrator participation=""heterodiegetic""",,4670,11521
+MS11,MS,"narrative_levelchange completion=""complete""",,4670,11521
+MS12,MS,narrator_change,,4670,4674
+MS13,MS,change_narratee,,4670,4674
+MS14,MS,level_change,,4670,4674
+MS15,MS,"narrator participation=""autodiegetic""",,11522,11677
+MS16,MS,"narrative_level number=""1""",,11522,11677
+MS17,MS,"narrative_levelchange completion=""complete""",,11522,11677
+MS18,MS,level_change,,11522,11525
+MS19,MS,narrator_change,,11522,11525
+MS20,MS,change_narratee,,11522,11525
+MS21,MS,"narrator participation=""heterodiegetic""",,11678,11686
+MS22,MS,"narrative_level number=""2""",,11678,11686
+MS23,MS,"narrative_levelchange completion=""complete""",,11678,11686
+MS24,MS,level_change,,11678,11680
+MS25,MS,narrator_change,,11678,11680
+MS26,MS,change_narratee,,11678,11680
+MS27,MS,"narrative_level number=""1""",,11687,12265
+MS28,MS,"narrator participation=""autodiegetic""",,11687,12265
+MS29,MS,"narrative_levelchange completion=""complete""",,11687,12265
+MS30,MS,level_change,,11687,11690
+MS31,MS,narrator_change,,11687,11690
+MS32,MS,change_narratee,,11687,11690
+MS33,MS,"narrative_level number=""1"" words=196",,12251,12265
+MS34,MS,"narrator participation=""heterodiegetic""",,12266,15889
+MS35,MS,"narrative_level number=""2""",,12266,15889
+MS36,MS,"narrative_levelchange completion=""complete""",,12266,15889
+MS37,MS,level_change,,12266,12268
+MS38,MS,narrator_change,,12266,12268
+MS39,MS,change_narratee,,12266,12268
+MS40,MS,"narrative_level number=""2"" words=2692",,15886,15889
+FP0,FP,narrative_level number=”3”,,60,22616
+FP1,FP,narrative_level number=”3” words=4286,,60,22616
+FP2,FP,narrative_levelchange completion=“complete“,,60,22616
+FP3,FP,narrator participation=”heterodiegetic”,,60,2129
+MS0,MS,"narratorparticipation=""heterodiegetic""",,60,22616
+MS1,MS,"narrative_level number=""1""",,60,22616
+MS2,MS,"narrative_level number=""1"" words=4286",,22611,22616
+FP0,FP,narrator participation=”autodiegetic”,,48,3515
+FP1,FP,narrative_level number=”2”,,48,3515
+FP2,FP,narrative_level number=”2” words=926,,48,3515
+FP3,FP,narrative_levelchange completion=”never_opened”,,48,3515
+FP4,FP,narrator participation=”homodiegetic”,,3519,8247
+FP5,FP,narrative_level number=”1”,,3519,8247
+FP6,FP,narrative_level number=”1” words=1064,,3519,8247
+FP7,FP,narrative_levelchange completion=”complete”,,3519,8247
+FP8,FP,level_change,,3519,3525
+FP9,FP,narrator_change,,3519,3525
+FP10,FP,change_narratee,,3519,3525
+FP11,FP,level_change,,8249,8253
+FP12,FP,narrator_change,,8249,8253
+FP13,FP,change_narratee,,8249,8253
+FP14,FP,narrator participation=”autodiegetic”,,8251,8629
+FP15,FP,narrator participation=”autodiegetic”,,8251,8629
+FP16,FP,narrator participation=”autodiegetic”,,8251,8629
+FP17,FP,narrator participation=”autodiegetic”,,8251,8629
+FP18,FP,narrative_level number=”2” words=926,,8251,8629
+FP19,FP,narrator participation=”autodiegetic”,,8251,8629
+FP20,FP,narrator participation=”autodiegetic”,,8251,8629
+FP21,FP,narrator participation=”autodiegetic”,,8251,8629
+FP22,FP,narrative_level number=”2”,,8251,8629
+FP23,FP,narrator participation=”autodiegetic”,,8251,8629
+FP24,FP,narrator participation=”autodiegetic”,,8251,8629
+FP25,FP,narrator participation=”autodiegetic”,,8251,8629
+FP26,FP,narrative_levelchange completion=”never_closed”,,8251,8629
+FP27,FP,narrator participation=”homodiegetic”,,8633,9877
+FP28,FP,narrative_level number=”1”,,8633,9877
+FP29,FP,narrative_level number=”1” words=1064,,8633,9877
+FP30,FP,narrative_levelchange completion=”complete”,,8633,9877
+FP31,FP,level_change,,8633,8636
+FP32,FP,narrator_change,,8633,8636
+FP33,FP,change_narratee,,8633,8636
+FP34,FP,narrator participation=”autodiegetic”,,9881,10917
+FP35,FP,narrative_level number=”2”,,9881,10917
+FP36,FP,narrative_level number=”2” words=926,,9881,10917
+FP37,FP,narrative_levelchange completion=”never_closed”,,9881,10917
+FP38,FP,change_narratee,,9881,9885
+FP39,FP,level_change,,9881,9885
+FP40,FP,narrator_change,,9881,9885
+MS0,MS,"narrative_level number=""2""",,33,3515
+MS1,MS,"narrator participation=""autodiegetic""",,33,3515
+MS2,MS,"narrative_levelchange completion=""never opened""",,33,3515
+MS3,MS,"narrator participation=""homodiegetic""",,3519,9489
+MS4,MS,"narrative_level number=""1""",,3519,9489
+MS5,MS,"narrative_levelchange completion=""complete""",,3519,9489
+MS6,MS,level_change,,3519,3525
+MS7,MS,"narrative_level number=""1"" words=1057",,9482,9489
+MS8,MS,"narrator participation=""autodiegetic""",,9490,10917
+MS9,MS,"narrative_levelchange completion=""never closed""",,9490,10917
+MS10,MS,"boundary transgression=""metalepsis""",,9490,9530
+MS11,MS,level_change,,9490,9494
+MS12,MS,"narrative_level number=""2"" words=936",,10911,10917
+FP0,FP,narrative_level number=”3”,,32,3642
+FP1,FP,narrative_level number=”3” words=4624,,32,3642
+FP2,FP,narrator participation=”heterodiegetic”,,32,3642
+FP3,FP,narrative_levelchange completion=”complete”,,32,3642
+FP4,FP,narrative_level number=”2”,,3646,3692
+FP5,FP,narrative_level number=”2” words=167,,3646,3692
+FP6,FP,narrator participation=”homodiegetic”,,3646,3692
+FP7,FP,narrative_levelchange completion=”complete”,,3646,3692
+FP8,FP,level_change,,3646,3650
+FP9,FP,narrator_change,,3646,3650
+FP10,FP,change_narratee,,3646,3650
+FP11,FP,narrative_level number=”3” words=4624,,3693,3709
+FP12,FP,narrator participation=”heterodiegetic”,,3693,3709
+FP13,FP,narrative_levelchange completion=”complete”,,3693,3709
+FP14,FP,narrative_level number=”3” words=4624,,3693,3709
+FP15,FP,level_change,,3693,3702
+FP16,FP,narrator_change,,3693,3702
+FP17,FP,change_narratee,,3693,3702
+FP18,FP,narrative_level number=”2”,,3710,3906
+FP19,FP,narrative_level number=”2” words=167,,3710,3906
+FP20,FP,narrator participation=”homodiegetic”,,3710,3906
+FP21,FP,narrative_levelchange completion=”complete”,,3710,3906
+FP22,FP,narrator_change,,3710,3713
+FP23,FP,change_narratee,,3710,3713
+FP24,FP,level_change,,3710,3713
+FP25,FP,change_narratee,,3901,3906
+FP26,FP,level_change,,3901,3906
+FP27,FP,narrator_change,,3901,3906
+FP28,FP,narrative_level number=”3”,,3910,10394
+FP29,FP,narrative_levelchange completion=”complete”,,3910,10394
+FP30,FP,narrator participation=”heterodiegetic”,,3910,10394
+FP31,FP,narrative_level number=”3” words=4624,,3910,10394
+FP32,FP,narrative_level number=”2”,,10391,10784
+FP33,FP,narrative_levelchange completion=”complete”,,10391,10784
+FP34,FP,narrator participation=”homodiegetic”,,10391,10784
+FP35,FP,narrative_level number=”2” words=167,,10391,10784
+FP36,FP,narrator_change,,10768,10770
+FP37,FP,change_narratee,,10768,10770
+FP38,FP,level_change,,10768,10770
+FP39,FP,narrative_level number=”2”,,10770,10796
+FP40,FP,narrative_levelchange completion=”complete”,,10770,10796
+FP41,FP,narrator participation=”homodiegetic”,,10770,10796
+FP42,FP,narrative_level number=”2” words=167,,10770,10796
+FP43,FP,narrator_change,,10770,10774
+FP44,FP,narrative_level number=”3”,,10797,10869
+FP45,FP,narrative_levelchange completion=”complete”,,10797,10869
+FP46,FP,narrator participation=”heterodiegetic”,,10797,10869
+FP47,FP,narrative_level number=”3” words=4624,,10797,10869
+FP48,FP,narrator_change,,10797,10801
+FP49,FP,change_narratee,,10797,10801
+FP50,FP,level_change,,10797,10801
+FP51,FP,narrator_change,,10869,10870
+FP52,FP,change_narratee,,10869,10870
+FP53,FP,level_change,,10869,10870
+FP54,FP,narrative_level number=”2”,,10870,10917
+FP55,FP,narrative_levelchange completion=”complete”,,10870,10917
+FP56,FP,narrator participation=”homodiegetic”,,10870,10917
+FP57,FP,narrative_level number=”2” words=167,,10870,10917
+FP58,FP,narrator_change,,10917,10918
+FP59,FP,change_narratee,,10917,10918
+FP60,FP,level_change,,10917,10918
+FP61,FP,narrative_level number=”3”,,10918,10994
+FP62,FP,narrative_levelchange completion=”complete”,,10918,10994
+FP63,FP,narrator participation=”heterodiegetic”,,10918,10994
+FP64,FP,narrative_level number=”3” words=4624,,10918,10994
+FP65,FP,change_narratee,,10994,10995
+FP66,FP,level_change,,10994,10995
+FP67,FP,narrator_change,,10994,10995
+FP68,FP,narrative_level number=”2”,,10995,11124
+FP69,FP,narrative_levelchange completion=”complete”,,10995,11124
+FP70,FP,narrator participation=”homodiegetic”,,10995,11124
+FP71,FP,narrative_level number=”2” words=167,,10995,11124
+FP72,FP,change_narratee,,11124,11125
+FP73,FP,narrator_change,,11124,11125
+FP74,FP,level_change,,11124,11125
+FP75,FP,narrative_level number=”3”,,11222,26191
+FP76,FP,narrative_levelchange completion=”complete”,,11222,26191
+FP77,FP,narrator participation=”heterodiegetic”,,11222,26191
+FP78,FP,narrative_level number=”3” words=4624,,11222,26191
+MS0,MS,"narrative_level number=""2""",,32,3642
+MS1,MS,"narrator participation=""heterodiegetic""",,32,3642
+MS2,MS,"narrative_levelchange completion=""never opened""",,32,3642
+MS3,MS,"narrative_level number=""1""",,3646,3692
+MS4,MS,"narrator participation=""homodiegetic""",,3646,3692
+MS5,MS,"narrative_levelchnage completion=""complete""",,3646,3692
+MS6,MS,narrative_levelchange,,3646,3652
+MS7,MS,narrator_change,,3646,3652
+MS8,MS,change_narratee,,3646,3652
+MS9,MS,"narrative_level number=""2""",,3693,3709
+MS10,MS,"narrator participation=""heterodiegetic""",,3693,3709
+MS11,MS,"narrative_levelchnage completion=""complete""",,3693,3709
+MS12,MS,narrative_levelchange,,3693,3702
+MS13,MS,narrator_change,,3693,3702
+MS14,MS,change_narratee,,3693,3702
+MS15,MS,"narrative_level number=""1""",,3710,3906
+MS16,MS,"narrator participation=""homodiegetic""",,3710,3906
+MS17,MS,"narrative_levelchnage completion=""complete""",,3710,3906
+MS18,MS,narrative_levelchange,,3710,3713
+MS19,MS,narrator_change,,3710,3713
+MS20,MS,change_narratee,,3710,3713
+MS21,MS,"narrative_level number=""2""",,3910,10387
+MS22,MS,"narrator participation=""heterodiegetic""",,3910,10387
+MS23,MS,"narrative_levelchnage completion=""complete""",,3910,10387
+MS24,MS,narrative_levelchange,,3910,3916
+MS25,MS,narrator_change,,3910,3916
+MS26,MS,change_narratee,,3910,3916
+MS27,MS,"narrative_level number=""1""",,10391,10796
+MS28,MS,"narrative_levelchnage completion=""complete""",,10391,10796
+MS29,MS,"narrator participation=""autodiegetic""",,10391,10766
+MS30,MS,narrative_levelchange,,10391,10399
+MS31,MS,narrator_change,,10391,10399
+MS32,MS,change_narratee,,10391,10399
+MS33,MS,"narrator participation=""homodiegetic""",,10770,10796
+MS34,MS,narrator_change,,10770,10774
+MS35,MS,change_narratee,,10770,10774
+MS36,MS,"narrative_level number=""2""",,10797,10869
+MS37,MS,"narrator participation=""heterodiegetic""",,10797,10869
+MS38,MS,"narrative_levelchnage completion=""complete""",,10797,10869
+MS39,MS,narrative_levelchange,,10797,10801
+MS40,MS,narrator_change,,10797,10801
+MS41,MS,change_narratee,,10797,10801
+MS42,MS,"narrative_level number=""1""",,10870,10917
+MS43,MS,"narrator participation=""homodiegetic""",,10870,10917
+MS44,MS,"narrative_levelchnage completion=""complete""",,10870,10917
+MS45,MS,narrative_levelchange,,10870,10874
+MS46,MS,narrator_change,,10870,10874
+MS47,MS,change_narratee,,10870,10874
+MS48,MS,"narrative_level number=""2""",,10918,10994
+MS49,MS,"narrator participation=""heterodiegetic""",,10918,10994
+MS50,MS,"narrative_levelchnage completion=""complete""",,10918,10994
+MS51,MS,narrative_levelchange,,10918,10921
+MS52,MS,narrator_change,,10918,10921
+MS53,MS,change_narratee,,10918,10921
+MS54,MS,"narrative_level number=""1""",,10995,11124
+MS55,MS,"narrator participation=""homodiegetic""",,10995,11124
+MS56,MS,"narrative_levelchnage completion=""complete""",,10995,11124
+MS57,MS,narrative_levelchange,,10995,10999
+MS58,MS,narrator_change,,10995,10999
+MS59,MS,change_narratee,,10995,10999
+MS60,MS,"narrative_level number=""2""",,11128,11827
+MS61,MS,"narrator participation=""heterodiegetic""",,11128,11827
+MS62,MS,"narrative_levelchnage completion=""complete""",,11128,11827
+MS63,MS,narrative_levelchange,,11128,11132
+MS64,MS,narrator_change,,11128,11132
+MS65,MS,change_narratee,,11128,11132
+MS66,MS,"narrative_level number=""1""",,11831,12087
+MS67,MS,"narrator participation=""autodiegetic""",,11831,12087
+MS68,MS,"narrative_levelchnage completion=""complete""",,11831,12087
+MS69,MS,narrative_levelchange,,11831,11833
+MS70,MS,narrator_change,,11831,11833
+MS71,MS,change_narratee,,11831,11833
+MS72,MS,"narrative_level number=""2""",,12091,15853
+MS73,MS,"narrator participation=""heterodiegetic""",,12091,15853
+MS74,MS,"narrative_levelchnage completion=""complete""",,12091,15853
+MS75,MS,narrative_levelchange,,12091,12093
+MS76,MS,narrator_change,,12091,12093
+MS77,MS,change_narratee,,12091,12093
+MS78,MS,"narrative_level number=""1""",,15857,16546
+MS79,MS,"narrator participation=""homodiegetic""",,15857,16546
+MS80,MS,"narrative_levelchnage completion=""complete""",,15857,16546
+MS81,MS,narrative_levelchange,,15857,15859
+MS82,MS,narrator_change,,15857,15859
+MS83,MS,change_narratee,,15857,15859
+MS84,MS,narrator_change,,16072,16078
+MS85,MS,change_narratee,,16072,16078
+MS86,MS,narrator_change,,16115,16119
+MS87,MS,change_narratee,,16115,16119
+MS88,MS,narrator_change,,16160,16163
+MS89,MS,change_narratee,,16160,16163
+MS90,MS,narrator_change,,16399,16406
+MS91,MS,change_narratee,,16399,16406
+MS92,MS,narrator_change,,16453,16455
+MS93,MS,change_narratee,,16453,16455
+MS94,MS,"narrative_level number=""1"" words=351",,16537,16546
+MS95,MS,"narrative_level number=""2""",,16550,26191
+MS96,MS,"narrator participation=""heterodiegetic""",,16550,26191
+MS97,MS,"narrative_levelchange completion=""never closed""",,16550,26191
+MS98,MS,narrator_change,,16550,16553
+MS99,MS,change_narratee,,16550,16553
+MS100,MS,narrative_levelchange,,16550,16553
+MS101,MS,"narrative_level number=""2"" words=4440",,26185,26191

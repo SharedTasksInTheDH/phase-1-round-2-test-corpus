@@ -1,0 +1,676 @@
+AS0,AS,"level DEGREE=""1""",,60,700
+AS1,AS,"level DEGREE = ""2""",,701,826
+AS2,AS,Prolepsis,,828,968
+AS3,AS,"level DEGREE=""1""",,828,968
+AS4,AS,"level DEGREE = ""2""",,971,1893
+AS5,AS,"level DEGREE = ""2""",,1900,2404
+AS6,AS,"fid PERS=""Alice""",,2160,2214
+AS7,AS,"level DEGREE = ""2""",,2411,7188
+AS8,AS,"fid PERS=""Alice""",,2635,2652
+AS9,AS,"fid PERS=""Alice""",,5461,5509
+AS10,AS,Analepsis,,5557,5620
+AS11,AS,Analepsis,,6316,6824
+AS12,AS,"level DEGREE = ""2""",,7195,8342
+AS13,AS,"level DEGREE = ""2""",,8349,8467
+AS14,AS,"level DEGREE = ""2""",,8476,8801
+AS15,AS,"level DEGREE = ""2""",,8808,14760
+AS16,AS,"level DEGREE = ""2""",,14767,16270
+AS17,AS,"level DEGREE = ""2""",,16277,18782
+AS18,AS,Analepsis,,16772,16814
+AS19,AS,"level DEGREE = ""2""",,18789,19635
+AS20,AS,"level DEGREE = ""2""",,19642,19827
+AS21,AS,"level DEGREE = ""2""",,19834,20212
+AS22,AS,"level DEGREE=""1""",,20213,20969
+AS23,AS,"level DEGREE=""1""",,21431,21588
+AS24,AS,"level DEGREE=""1""",,22063,22616
+AS0,AS,"Level DEGREE=""1""",,48,3515
+AS1,AS,Prolepsis,,364,419
+AS2,AS,Analepsis,,1393,1509
+AS3,AS,"Level DEGREE=""2""",,3519,5938
+AS4,AS,"Level DEGREE=""1""",,5942,6479
+AS5,AS,"Level DEGREE=""2""",,6480,6596
+AS6,AS,"Level DEGREE=""1""",,6597,6870
+AS7,AS,"Level DEGREE=""2""",,6871,6892
+AS8,AS,"Level DEGREE=""1""",,6895,6906
+AS9,AS,"Level DEGREE=""2""",,6909,8247
+AS10,AS,"Level DEGREE=""1""",,8251,8629
+AS11,AS,Analepsis,,8266,8317
+AS12,AS,"Level DEGREE=""2""",,8633,9489
+AS13,AS,"Level DEGREE=""1""",,9490,10930
+AS14,AS,Analepsis,,9490,9530
+AS15,AS,Analepsis,,9994,10285
+AS16,AS,Analepsis,,10457,10604
+AS17,AS,Analepsis,,10679,10789
+AS0,AS,"level DEGREE=""1""",,32,3642
+AS1,AS,"Soc PERS=""Bertha Young""",,318,853
+AS2,AS,Analepsis,,2400,2705
+AS3,AS,"Level DEGREE=""2""",,3647,3690
+AS4,AS,"level DEGREE=""1""",,3693,3709
+AS5,AS,"Level DEGREE=""2""",,3711,3905
+AS6,AS,"level DEGREE=""1""",,3910,10485
+AS7,AS,"fid PERS=""Bertha Young""",,4494,4617
+AS8,AS,"fid PERS=""Bertha Young""",,8874,8943
+AS9,AS,Analepsis,,9675,9723
+AS10,AS,"fid PERS=""Bertha Young""",,9895,9951
+AS11,AS,Analepsis,,10111,10192
+AS12,AS,"Level DEGREE=""2""",,10486,10765
+AS13,AS,"Level DEGREE=""2""",,10771,10795
+AS14,AS,"level DEGREE=""1""",,10797,10994
+AS15,AS,"Level DEGREE=""2""",,10996,11123
+AS16,AS,"level DEGREE=""1""",,11128,11827
+AS17,AS,"fid PERS=""Bertha Young""",,11222,11455
+AS18,AS,"Level DEGREE=""2""",,11832,12083
+AS19,AS,"level DEGREE=""1""",,12091,12315
+AS20,AS,"Level DEGREE=""2""",,12317,12374
+AS21,AS,"level DEGREE=""1""",,12379,15853
+AS22,AS,"fid PERS=""Bertha Young""",,12987,13026
+AS23,AS,"fid PERS=""Bertha Young""",,13665,13696
+AS24,AS,"fid PERS=""Bertha Young""",,13886,13997
+AS25,AS,"fid PERS=""Bertha Young""",,14001,14070
+AS26,AS,"fid PERS=""Bertha Young""",,15046,15191
+AS27,AS,"Level DEGREE=""2""",,15858,16067
+AS28,AS,"level DEGREE=""1""",,16072,16156
+AS29,AS,"Level DEGREE=""2""",,16161,16202
+AS30,AS,"Level DEGREE=""3""",,16203,16373
+AS31,AS,"Level DEGREE=""2""",,16374,16394
+AS32,AS,"level DEGREE=""1""",,16399,16449
+AS33,AS,"Level DEGREE=""2""",,16454,16545
+AS34,AS,"level DEGREE=""1""",,16550,26191
+AS35,AS,"Soc PERS=""Bertha Young""",,17326,17989
+AS36,AS,"Soc PERS=""Bertha Young""",,19741,20159
+AS37,AS,Analepsis,,22524,22838
+AS38,AS,"Soc PERS=""Bertha Young""",,22839,23065
+AS39,AS,"fid PERS=""Bertha Young""",,22961,22961
+AS40,AS,"fid PERS=""Bertha Young""",,24175,24233
+AS0,AS,"Levle DEGREE=""1""",,187,2216
+AS1,AS,Prolepsis,,322,404
+AS2,AS,"fid PERS=""1st person narrator""",,490,537
+AS3,AS,Analepsis,,574,727
+AS4,AS,Analepsis,,1288,1408
+AS5,AS,Analepsis,,2066,2134
+AS6,AS,"Level DEGREE=""2""",,2220,9695
+AS7,AS,Prolepsis,,2868,3019
+AS8,AS,Analepsis,,3480,3632
+AS9,AS,Analepsis,,4395,4569
+AS10,AS,Analepsis,,4641,4724
+AS11,AS,Analepsis,,4844,4880
+AS12,AS,Analepsis,,5736,5799
+AS13,AS,Analepsis,,6027,6118
+AS14,AS,Analepsis,,8491,8616
+AS15,AS,Analepsis,,8968,9345
+AS0,AS,"Level DEGREE=""1""",,44,9337
+AS1,AS,Analepsis,,1915,1970
+AS2,AS,Analepsis,,2824,2934
+AS3,AS,Analepsis,,8404,8445
+AS4,AS,"Level DEGREE=""2""",,9338,9959
+AS5,AS,"Level DEGREE=""1""",,9959,12068
+AS6,AS,Analepsis,,11893,11918
+AS0,AS,"Level DEGREE=""1""",,43,10783
+AS1,AS,"fid PERS=""Adam""",,51,114
+AS2,AS,"fid PERS=""Adam""",,332,362
+AS3,AS,Analepsis,,424,459
+AS4,AS,"fid PERS=""Adam""",,611,671
+AS5,AS,Prolepsis,,976,1017
+AS6,AS,Analepsis,,1141,1447
+AS7,AS,Analepsis,,1582,1624
+AS8,AS,Analepsis,,2032,2116
+AS9,AS,"fid PERS=""Adam""",,2551,2585
+AS10,AS,Analepsis,,2916,2957
+AS11,AS,"fid PERS=""Adam""",,2987,3034
+AS12,AS,Analepsis,,3035,3139
+AS13,AS,"fid PERS=""Adam""",,3600,3675
+AS14,AS,Analepsis,,3690,3766
+AS15,AS,"soc PERS=""Adam""",,3934,4094
+AS16,AS,Analepsis,,4108,4168
+AS17,AS,"fid PERS=""Adam""",,4169,4190
+AS18,AS,Analepsis,,4232,4359
+AS19,AS,Analepsis,,4525,4701
+AS20,AS,Analepsis,,4827,5191
+AS21,AS,Prolepsis,,5192,5248
+AS22,AS,Prolepsis,,5192,5248
+AS23,AS,Analepsis,,5641,5661
+AS24,AS,Analepsis,,5894,5984
+AS25,AS,Analepsis,,6069,6171
+AS26,AS,Analepsis,,6187,6244
+AS27,AS,"fid PERS=""Adam""",,6245,6294
+AS28,AS,Analepsis,,6295,6320
+AS29,AS,"fid PERS=""Adam""",,6484,6612
+AS30,AS,Analepsis,,6628,6842
+AS31,AS,Analepsis,,7056,7198
+AS32,AS,Prolepsis,,7331,7364
+AS33,AS,Analepsis,,7493,7527
+AS34,AS,Analepsis,,7556,7618
+AS35,AS,"fid PERS=""Adam""",,7924,8108
+AS36,AS,"fid PERS=""Adam""",,8109,8109
+AS37,AS,Analepsis,,8224,9384
+AS38,AS,Analepsis,,9496,10318
+AS39,AS,"fid PERS=""Adam""",,10371,10407
+AS40,AS,"Level DEGREE=""2""",,10784,10866
+AS41,AS,"Level DEGREE=""1""",,10785,10785
+AS42,AS,"Level DEGREE=""1""",,10867,10935
+AS43,AS,"Level DEGREE=""2""",,10936,11031
+AS44,AS,"Level DEGREE=""1""",,11032,11829
+AS45,AS,Analepsis,,11059,11220
+AS46,AS,Analepsis,,11317,11360
+AS47,AS,"Level DEGREE=""2""",,11830,11943
+AS48,AS,"Level DEGREE=""1""",,11943,22472
+AS49,AS,Analepsis,,12071,12336
+AS50,AS,Analepsis,,12517,12672
+AS51,AS,"fid PERS=""Adam""",,13012,13055
+AS52,AS,Analepsis,,13468,13562
+AS53,AS,"fid PERS=""Adam""",,14133,14149
+AS54,AS,"fid PERS=""Adam""",,14271,14429
+AS55,AS,Analepsis,,14643,14734
+AS56,AS,Analepsis,,14993,15025
+AS57,AS,Analepsis,,15645,15801
+AS58,AS,Analepsis,,15809,16043
+AS59,AS,Analepsis,,16210,16357
+AS60,AS,Analepsis,,16426,16548
+AS61,AS,"fid PERS=""Adam""",,16549,16619
+AS62,AS,"fid PERS=""Adam""",,16694,16804
+AS63,AS,Analepsis,,16805,16851
+AS64,AS,Analepsis,,17502,17974
+AS65,AS,Analepsis,,18238,18260
+AS66,AS,"fid PERS=""Adam""",,18352,18434
+AS67,AS,"fid PERS=""Adam""",,18459,18480
+AS68,AS,"fid PERS=""Adam""",,18598,18633
+AS69,AS,"fid PERS=""Adam""",,18722,18799
+AS70,AS,Analepsis,,18946,19031
+AS71,AS,"fid PERS=""Adam""",,19102,19149
+AS72,AS,Analepsis,,19174,19195
+AS73,AS,"fid PERS=""Adam""",,19196,19219
+AS74,AS,Analepsis,,19328,19345
+AS75,AS,"fid PERS=""Adam""",,19424,19560
+AS76,AS,Analepsis,,19585,19670
+AS77,AS,Analepsis,,19745,19853
+AS78,AS,"fid PERS=""Adam""",,19854,20075
+AS79,AS,Prolepsis,,20229,20571
+AS80,AS,Analepsis,,20597,20741
+AS81,AS,Analepsis,,20872,21123
+AS82,AS,"fid PERS=""Adam""",,21634,21689
+AS83,AS,Analepsis,,21841,21866
+AS84,AS,Analepsis,,22216,22255
+AS0,AS,"Level DEGREE=""1""",,13,9039
+AS1,AS,"Level DEGREE=""2""",,9040,9402
+AS2,AS,"Level DEGREE=""1""",,9408,10452
+AS3,AS,"Level DEGREE=""2""",,10456,12798
+AS4,AS,"Level DEGREE=""1""",,12798,13440
+AS0,AS,"level DEGREE=""1""",,96,5712
+AS1,AS,"fid PERS=""narrator""",,478,518
+AS2,AS,Prolepsis,,519,545
+AS3,AS,"fid PERS=""narrator""",,714,741
+AS4,AS,"level DEGREE=""1""",,5775,8839
+AS5,AS,"fid PERS=""narrator""",,7420,7429
+AS0,AS,"Level DEGREE=""1""",,39,5867
+AS1,AS,"Level DEGREE=""2""",,5864,5903
+AS2,AS,"Level DEGREE=""1""",,5903,5923
+AS3,AS,"Level DEGREE=""2""",,5919,6107
+AS4,AS,"Level DEGREE=""1""",,6107,6318
+AS5,AS,"Level DEGREE=""2""",,6319,7155
+AS6,AS,Analepsis,,6411,7155
+AS7,AS,"Level DEGREE=""1""",,7155,8472
+AS8,AS,"Level DEGREE=""2""",,8473,8992
+AS9,AS,"Level DEGREE=""1""",,8992,9275
+AS10,AS,"Level DEGREE=""2""",,9276,9956
+AS11,AS,"Level DEGREE=""1""",,9956,10331
+AS12,AS,"Level DEGREE=""2""",,10332,10846
+AS13,AS,"Level DEGREE=""1""",,10846,10965
+AS14,AS,"Level DEGREE=""2""",,10964,10991
+AS15,AS,"Level DEGREE=""1""",,10991,11015
+AS16,AS,"Level DEGREE=""2""",,11014,11261
+AS17,AS,"Level DEGREE=""1""",,11261,11551
+AS18,AS,"Level DEGREE=""2""",,11550,11574
+AS19,AS,"Level DEGREE=""1""",,11574,11599
+AS20,AS,"Level DEGREE=""2""",,11598,11714
+AS21,AS,"Level DEGREE=""1""",,11714,15689
+AS22,AS,"Level DEGREE=""2""",,15690,16146
+AS23,AS,Prolepsis,,15749,15790
+AS24,AS,Analepsis,,15951,16096
+AS25,AS,"Level DEGREE=""1""",,16146,16306
+AS26,AS,"Level DEGREE=""2""",,16305,16610
+AS27,AS,"Level DEGREE=""1""",,16610,17205
+AS28,AS,"Level DEGREE=""2""",,17206,17840
+AS29,AS,"Level DEGREE=""1""",,17840,18054
+AS30,AS,"Level DEGREE=""2""",,18053,18326
+AS31,AS,Prolepsis,,18053,18127
+AS32,AS,"Level DEGREE=""1""",,18326,18483
+AS33,AS,"Level DEGREE=""2""",,18480,18519
+AS34,AS,"Level DEGREE=""1""",,18519,18540
+AS35,AS,"Level DEGREE=""2""",,18539,18693
+AS36,AS,Prolepsis,,18641,18693
+AS37,AS,"Level DEGREE=""1""",,18693,19157
+AS38,AS,"Level DEGREE=""2""",,19158,19378
+AS39,AS,"Level DEGREE=""1""",,19378,19629
+AS40,AS,"Level DEGREE=""2""",,19627,19644
+AS41,AS,"Level DEGREE=""1""",,19644,19698
+AS42,AS,"Level DEGREE=""2""",,19697,20077
+AS43,AS,"Level DEGREE=""1""",,20077,20331
+AS44,AS,"Level DEGREE=""2""",,20330,20609
+AS45,AS,"Level DEGREE=""1""",,20609,20616
+AS46,AS,"Level DEGREE=""2""",,20615,20666
+AS47,AS,"Level DEGREE=""1""",,20666,20693
+AS48,AS,"Level DEGREE=""2""",,20688,20959
+AS49,AS,"Level DEGREE=""1""",,20959,20966
+AS50,AS,"Level DEGREE=""2""",,20965,20991
+AS51,AS,"Level DEGREE=""1""",,20991,21014
+AS52,AS,"Level DEGREE=""2""",,21011,21284
+AS53,AS,Prolepsis,,21167,21197
+AS54,AS,"Level DEGREE=""1""",,21284,22498
+AS55,AS,"Level DEGREE=""2""",,22494,22571
+AS56,AS,Prolepsis,,22494,22571
+AS57,AS,"Level DEGREE=""1""",,22571,22823
+AS58,AS,"Level DEGREE=""2""",,22820,22839
+AS59,AS,"Level DEGREE=""1""",,22839,22898
+AS60,AS,"Level DEGREE=""2""",,22897,23030
+AS61,AS,Prolepsis,,22904,23030
+AS62,AS,"Level DEGREE=""1""",,23030,23120
+AS63,AS,"Level DEGREE=""2""",,23119,23173
+AS64,AS,Prolepsis,,23119,23152
+AS65,AS,"Level DEGREE=""1""",,23173,23273
+AS66,AS,"Level DEGREE=""2""",,23270,23296
+AS67,AS,Prolepsis,,23270,23296
+AS68,AS,"Level DEGREE=""1""",,23296,23310
+AS69,AS,Prolepsis,,23309,23428
+AS70,AS,"Level DEGREE=""2""",,23309,23428
+AS71,AS,"Level DEGREE=""1""",,23428,23927
+AS0,AS,"Level DEGREE=""1""",,60,6072
+AS1,AS,"fid PERS=""captain""",,2351,2571
+AS2,AS,Analepsis,,6084,8829
+AS3,AS,"Level DEGREE=""1""",,6084,7507
+AS4,AS,"Level DEGREE=""2""",,7504,7542
+AS5,AS,"Level DEGREE=""1""",,7542,7562
+AS6,AS,"Level DEGREE=""2""",,7559,7901
+AS7,AS,"Level DEGREE=""1""",,7901,8348
+AS8,AS,"Level DEGREE=""2""",,8347,8371
+AS9,AS,"Level DEGREE=""1""",,8371,8387
+AS10,AS,"Level DEGREE=""2""",,8386,8557
+AS11,AS,"Level DEGREE=""1""",,8557,8829
+AS12,AS,"Level DEGREE=""1""",,8842,8985
+AS13,AS,"Level DEGREE=""1""",,8842,8842
+AS14,AS,"Level DEGREE=""1""",,9015,9483
+AS15,AS,"Level DEGREE=""1""",,9499,20321
+AS16,AS,"fid PERS=""Peyton Farquhar""",,10263,10306
+AS17,AS,"soc PERS=""Peyton Farquhar""",,11054,11156
+AS18,AS,"Level DEGREE=""1""",,20371,21230
+AS0,AS,"Level DEGREE = ""1""",,70,7393
+AS1,AS,Analepsis,,3888,3930
+AS2,AS,"Level DEGREE = ""1""",,7400,8745
+AS3,AS,"Level DEGREE = ""1""",,8753,9753
+AS4,AS,Analepsis,,9134,9184
+AS5,AS,"Level DEGREE = ""1""",,9762,9873
+AS6,AS,"Level DEGREE = ""2""",,9875,10085
+AS7,AS,"Level DEGREE = ""1""",,10086,10633
+AS8,AS,Analepsis,,10148,10305
+AS9,AS,Analepsis,,10517,10633
+AS10,AS,"Level DEGREE = ""1""",,10641,12257
+AS11,AS,Analepsis,,10753,10807
+AS12,AS,Analepsis,,11013,11047
+AS13,AS,"Level DEGREE = ""1""",,12266,12762
+AS14,AS,Analepsis,,12328,12397
+AS15,AS,Analepsis,,12462,12497
+AS16,AS,Analepsis,,12539,12581
+AS17,AS,"Level DEGREE = ""1""",,12770,13918
+AS18,AS,"Level DEGREE = ""1""",,13926,14274
+AS19,AS,Analepsis,,14016,14063
+AS20,AS,"Level DEGREE = ""1""",,14282,14489
+AS21,AS,"Level DEGREE = ""1""",,14497,15867
+KH0,KH,"Level, Degree= 1",,70,15889
+KH1,KH,"fid, PERS= Lenz",,523,766
+KH2,KH,"fid, PERS= Lenz",,876,1252
+KH3,KH,"fid, PERS= Lenz",,2207,2419
+KH4,KH,"fid, PERS= Lenz",,2461,2529
+KH5,KH,"fid, PERS= Lenz",,2619,2789
+KH6,KH,"fid, PERS= Lenz",,2903,2932
+KH7,KH,"fid, PERS= Lenz",,3277,3559
+KH8,KH,"fid, PERS= Lenz",,3659,3827
+KH9,KH,"fid, PERS= Lenz",,3868,3887
+KH10,KH,"fid, PERS= Lenz",,4134,4150
+KH11,KH,"fid, PERS= Lenz",,4744,4796
+KH12,KH,"fid, PERS= Lenz",,5149,5177
+KH13,KH,"fid, PERS= Lenz",,5233,5373
+KH14,KH,"fid, PERS= Lenz",,5774,6003
+KH15,KH,"fid, PERS= Lenz",,6087,6348
+KH16,KH,"fid, PERS= Lenz",,6409,6452
+KH17,KH,"fid, PERS= Lenz",,6659,6790
+KH18,KH,"fid, PERS= Lenz",,6671,6744
+KH19,KH,"fid, PERS= Lenz",,7517,7809
+KH20,KH,"fid, PERS= Oberlin",,7858,7961
+KH21,KH,"fid, PERS= Lenz",,7963,8563
+KH22,KH,"fid, PERS= Lenz",,8647,8751
+KH23,KH,"fid, PERS= Lenz",,9134,9297
+KH24,KH,"fid, PERS= Lenz",,9359,9575
+KH25,KH,"fid, PERS= Lenz",,10709,10983
+KH26,KH,"fid, PERS= Oberlin",,11049,11247
+KH27,KH,"fid, PERS= Lenz",,14082,14274
+KH28,KH,"fid, PERS= Oberlin",,14361,14432
+KH29,KH,"fid, PERS= Lenz",,14590,14633
+KH30,KH,"fid, PERS= Lenz",,14740,14771
+KH31,KH,"fid, PERS= Lenz",,15373,15489
+KH32,KH,"fid, PERS= Lenz",,15751,15867
+KH0,KH,"Level, Degree=1",,60,592
+KH1,KH,"fid, PERS= Alice",,60,164
+KH2,KH,"fid, PERS= Alice",,364,592
+KH3,KH,"Level, Degree 2",,593,20035
+KH4,KH,"fid, PERS= Alice",,701,785
+KH5,KH,prolepsis,,827,970
+KH6,KH,"fid, PERS= Alice",,827,970
+KH7,KH,"fid, PERS= Alice",,1144,1269
+KH8,KH,"fid, PERS= Alice",,1426,1491
+KH9,KH,"fid, PERS= Alice",,2178,2214
+KH10,KH,"fid, PERS= Alice",,2509,2634
+KH11,KH,"fid, PERS= Alice",,3233,3313
+KH12,KH,"fid, PERS= Alice",,3314,3347
+KH13,KH,"fid, PERS= Alice",,4384,4428
+KH14,KH,"fid, PERS= Alice",,4557,4635
+KH15,KH,"fid, PERS= Alice",,5167,5289
+KH16,KH,"fid, PERS= Alice",,5704,5908
+KH17,KH,"fid, PERS= Alice",,6320,6451
+KH18,KH,analepsis,,6320,6451
+KH19,KH,"fid, PERS= Alice",,6686,6824
+KH20,KH,analepsis,,6686,6824
+KH21,KH,"fid, PERS= Alice",,8002,8129
+KH22,KH,analepsis,,8002,8129
+KH23,KH,"fid, PERS= Alice",,9562,9615
+KH24,KH,"fid, PERS= Alice",,10295,10313
+KH25,KH,analepsis,,10295,10313
+KH26,KH,"fid, PERS= Alice",,10419,10452
+KH27,KH,"fid, PERS= Alice",,10913,10947
+KH28,KH,analepsis,,10913,10947
+KH29,KH,"fid, PERS= Alice",,11850,11997
+KH30,KH,"fid, PERS= Alice",,13293,13345
+KH31,KH,"fid, PERS= Alice",,13389,13469
+KH32,KH,"fid, PERS= Alice",,14040,14154
+KH33,KH,"fid, PERS= Alice",,15213,15361
+KH34,KH,"fid, PERS= Alice",,16772,16814
+KH35,KH,analepsis,,16772,16814
+KH36,KH,"fid, PERS= Alice",,17159,17199
+KH37,KH,"fid, PERS= Alice",,18789,18962
+KH38,KH,"Level, Degree=1",,20036,20969
+KH39,KH,"fid, PERS= Alice",,20655,20733
+KH40,KH,"fid, PERS= Sister",,20842,20899
+KH41,KH,"Level, Degree 2",,20971,21424
+KH42,KH,"Level, Degree=1",,21431,22094
+KH43,KH,"fid, PERS= Sister",,21512,21588
+KH44,KH,"fid, PERS= Sister",,21905,21915
+KH45,KH,"Level, Degree 2",,22095,22616
+KH0,KH,"Level, Degree=1",,48,3515
+KH1,KH,"Level, Degree=2",,3519,5938
+KH2,KH,analepsis,,3519,5938
+KH3,KH,"Level, Degree=1",,5942,6479
+KH4,KH,"Level, Degree=2",,6480,6596
+KH5,KH,analepsis,,6480,6595
+KH6,KH,"Level, Degree=1",,6597,7025
+KH7,KH,"Level, Degree=2",,7026,7143
+KH8,KH,analepsis,,7026,7143
+KH9,KH,"Level, Degree=1",,7144,7280
+KH10,KH,analepsis,,7281,7669
+KH11,KH,"Level, Degree=2",,7281,7669
+KH12,KH,"Level, Degree=1",,7670,7696
+KH13,KH,analepsis,,7696,8024
+KH14,KH,"Level, Degree=2",,7696,8024
+KH15,KH,"Level, Degree=1",,8025,8101
+KH16,KH,"Level, Degree=2",,8102,8247
+KH17,KH,analepsis,,8102,8247
+KH18,KH,"Level, Degree=1",,8251,8629
+KH19,KH,analepsis,,8633,8836
+KH20,KH,"Level, Degree=2",,8633,8836
+KH21,KH,"Level, Degree=1",,8837,8949
+KH22,KH,analepsis,,8953,9530
+KH23,KH,"Level, Degree=2",,8953,9530
+KH24,KH,"Level, Degree=1",,9533,9754
+KH25,KH,"Level, Degree=2",,9755,9827
+KH26,KH,analepsis,,9755,9827
+KH27,KH,"Level, Degree=1",,9828,10453
+KH28,KH,"Level, Degree=2",,10457,10604
+KH29,KH,analepsis,,10457,10604
+KH30,KH,"Level, Degree=1",,10605,10917
+KH0,KH,"soc, Pers Bertha",,32,853
+KH1,KH,"soc, Pers Bertha",,1398,1979
+KH2,KH,"fid, pers=Bertha",,2400,2562
+KH3,KH,"fid, pers=Bertha",,2660,2705
+KH4,KH,analepsis,,2660,2705
+KH5,KH,"fid, pers=Bertha",,2847,3059
+KH6,KH,"fid, pers=Bertha",,3498,3611
+KH7,KH,"fid, pers=Bertha",,3910,4027
+KH8,KH,"fid, pers=Bertha",,4494,4617
+KH9,KH,"fid, pers=Bertha",,4795,4808
+KH10,KH,"fid, pers=Bertha",,5341,5572
+KH11,KH,"fid, pers=Bertha",,5622,5670
+KH12,KH,"fid, pers=Bertha",,5912,6067
+KH13,KH,"fid, pers=Bertha",,6176,6229
+KH14,KH,"soc, Pers Bertha",,6550,7689
+KH15,KH,analepsis,,7056,7173
+KH16,KH,prolepsis,,7210,7231
+KH17,KH,analepsis,,7235,7446
+KH18,KH,"fid, pers=Bertha",,7880,8125
+KH19,KH,"fid, pers=Bertha",,8323,8752
+KH20,KH,"fid, pers=Bertha",,8874,9033
+KH21,KH,"soc, Pers Bertha",,9083,9818
+KH22,KH,"soc, Pers Bertha",,9844,10192
+KH23,KH,"fid, pers=Bertha",,10918,10994
+KH24,KH,"fid, pers=Bertha",,11682,11692
+KH25,KH,"fid, pers=Bertha",,12145,12207
+KH26,KH,"fid, pers= Eddie",,12379,12487
+KH27,KH,"fid, pers=Bertha",,12931,12949
+KH28,KH,"fid, pers=Bertha",,12987,13159
+KH29,KH,"soc, Pers Bertha",,13357,14202
+KH30,KH,"fid, pers=Bertha",,15046,15191
+KH31,KH,"fid, pers=Bertha",,15368,15685
+KH32,KH,"fid, pers=Bertha",,16550,16870
+KH33,KH,"soc, Pers Bertha",,16905,17989
+KH34,KH,"fid, pers=Bertha",,18180,18646
+KH35,KH,"fid, pers=Bertha",,19078,19099
+KH36,KH,"fid, pers=Bertha",,19741,20159
+KH37,KH,"fid, pers=Bertha",,21539,22307
+KH38,KH,"soc, Pers Bertha",,22459,23065
+KH39,KH,"fid, pers=Bertha",,24112,24233
+KH0,KH,"Level, Degree=1",,187,2216
+KH1,KH,analepsis,,187,2216
+KH2,KH,"Level, Degree= 2",,2220,9695
+KH3,KH,analepsis,,2220,9695
+KH0,KH,analepsis,,59,12068
+KH1,KH,"fid, Pers Federigo",,982,1087
+KH2,KH,"fid, Pers Giovanna's son",,1971,2116
+KH3,KH,"fid, Pers Monna Giovanna ",,2707,3633
+KH4,KH,"fid, Pers Federigo",,5433,6219
+KH5,KH,"fid, Pers Federigo",,8328,8444
+KH6,KH,"fid, Pers Monna Giovanna ",,8657,8721
+KH7,KH,"fid, Pers Monna Giovanna ",,10192,10433
+KH8,KH,"fid, Pers Monna Giovanna ",,11006,11074
+KH0,KH,"soc, Pers=Adam",,51,409
+KH1,KH,analepsis,,51,409
+KH2,KH,"soc, Pers=Adam",,424,1124
+KH3,KH,analepsis,,424,1124
+KH4,KH,"soc, Pers=Adam",,1141,1956
+KH5,KH,analepsis,,1141,1956
+KH6,KH,"soc, Pers=Adam",,1970,2585
+KH7,KH,analepsis,,1970,2585
+KH8,KH,"soc, Pers=Adam",,2599,2957
+KH9,KH,analepsis,,2599,2957
+KH10,KH,"soc, Pers=Adam",,2971,3226
+KH11,KH,analepsis,,2971,3226
+KH12,KH,"soc, Pers=Adam",,3240,3675
+KH13,KH,analepsis,,3240,3675
+KH14,KH,"soc, Pers=Adam",,3690,4094
+KH15,KH,analepsis,,3690,4094
+KH16,KH,"soc, Pers=Adam",,4108,4811
+KH17,KH,analepsis,,4108,4811
+KH18,KH,"soc, Pers=Adam",,4827,5726
+KH19,KH,analepsis,,4827,5726
+KH20,KH,analepsis,,5740,5755
+KH21,KH,"soc, Pers=Adam",,5740,5755
+KH22,KH,analepsis,,5769,6171
+KH23,KH,"soc, Pers=Adam",,5769,6171
+KH24,KH,analepsis,,6187,6612
+KH25,KH,"soc, Pers=Adam",,6187,6612
+KH26,KH,analepsis,,6628,7449
+KH27,KH,"soc, Pers=Adam",,6628,7449
+KH28,KH,analepsis,,7463,7478
+KH29,KH,"soc, Pers=Adam",,7463,7478
+KH30,KH,analepsis,,7493,7693
+KH31,KH,"soc, Pers=Adam",,7493,7693
+KH32,KH,analepsis,,7707,8207
+KH33,KH,"soc, Pers=Adam",,7707,8207
+KH34,KH,analepsis,,8224,10661
+KH35,KH,"soc, Pers=Adam",,8224,10661
+KH36,KH,analepsis,,10683,12054
+KH37,KH,"soc, Pers=Adam",,10683,12054
+KH38,KH,analepsis,,12071,13662
+KH39,KH,"soc, Pers=Adam",,12071,13662
+KH40,KH,analepsis,,13676,14116
+KH41,KH,"soc, Pers=Adam",,13676,14116
+KH42,KH,analepsis,,14133,14899
+KH43,KH,"soc, Pers=Adam",,14133,14899
+KH44,KH,analepsis,,14925,17013
+KH45,KH,"soc, Pers=Adam",,14925,17013
+KH46,KH,analepsis,,17039,18434
+KH47,KH,"soc, Pers=Adam",,17039,18434
+KH48,KH,analepsis,,18459,19149
+KH49,KH,"soc, Pers=Adam",,18459,19149
+KH50,KH,analepsis,,19174,19560
+KH51,KH,"soc, Pers=Adam",,19174,19560
+KH52,KH,analepsis,,19585,20571
+KH53,KH,"soc, Pers=Adam",,19585,20571
+KH54,KH,analepsis,,20597,20856
+KH55,KH,"soc, Pers=Adam",,20597,20856
+KH56,KH,analepsis,,20872,21803
+KH57,KH,"soc, Pers=Adam",,20872,21803
+KH58,KH,analepsis,,21826,22472
+KH59,KH,"soc, Pers=Adam",,21826,22472
+AS0,AS,"Level DEGREE=""1""",,74,5481
+AS1,AS,Analepsis,,645,775
+AS2,AS,Analepsis,,805,1033
+AS3,AS,Analepsis,,1066,2396
+AS4,AS,Analepsis,,2429,2635
+AS5,AS,Analepsis,,2672,3192
+AS6,AS,"fid PERS=""Joel Hatman, Jr""",,3305,3408
+AS7,AS,Analepsis,,4340,4362
+AS8,AS,Analepsis,,4588,4622
+AS9,AS,"Level DEGREE=""1""",,5524,7850
+AS10,AS,Prolepsis,,5550,5819
+AS11,AS,"fid PERS=""Caspar Grattan""",,5900,5930
+AS12,AS,Analepsis,,5931,6084
+AS13,AS,Analepsis,,6266,6658
+AS14,AS,"soc PERS=""Caspar Grattan""",,6662,6952
+AS15,AS,Prolepsis,,6963,6988
+AS16,AS,Schwer zu entscheiden,,7685,7796
+AS17,AS,"Level DEGREE=""1""",,7894,12715
+AS18,AS,Analepsis,,8425,8792
+AS19,AS,Prolepsis,,8817,8866
+AS20,AS,Analepsis,,9080,10961
+AS21,AS,Analepsis,,11571,12078
+AS22,AS,"Level DEGREE=""2""",,12796,14614
+AS23,AS,Analepsis,,12796,13781
+AS24,AS,"fid PERS=""Julia Hetman""",,13782,13838
+AS25,AS,Analepsis,,13867,14060
+AS26,AS,Analepsis,,14110,14256
+AS27,AS,Analepsis,,14393,14589
+AS28,AS,"Level DEGREE=""1""",,14615,16120
+AS29,AS,"soc PERS=""Bayrolles""",,14615,15384
+AS30,AS,"fid PERS=""Bayrolles""",,16000,16120
+AS31,AS,"Level DEGREE=""2""",,16124,19852
+AS32,AS,Analepsis,,16124,16894
+AS33,AS,"fid PERS=""Julia Hetman""",,17401,17454
+AS34,AS,Analepsis,,17734,18403
+AS35,AS,Analepsis,,18601,19640
+AS36,AS,"fid PERS=""Julia Hetman""",,19070,19121
+AS37,AS,Prolepsis,,19779,19852
+KH0,KH,"Level, Degree=1",,74,644
+KH1,KH,analepsis,,645,5481
+KH2,KH,"Level, Degree=2",,645,5481
+KH3,KH,"Level, Degree=1",,5524,6262
+KH4,KH,analepsis,,6266,6812
+KH5,KH,"Level, Degree=2",,6266,6812
+KH6,KH,"Level, Degree=1",,6813,8311
+KH7,KH,analepsis,,8312,8816
+KH8,KH,"Level, Degree=2",,8312,8816
+KH9,KH,"Level, Degree=1",,8817,9076
+KH10,KH,analepsis,,9080,10961
+KH11,KH,"Level, Degree=2",,9080,10961
+KH12,KH,"Level, Degree=1",,10965,11570
+KH13,KH,analepsis,,11571,12078
+KH14,KH,"Level, Degree=2",,11571,12078
+KH15,KH,"Level, Degree=1",,12079,12715
+KH16,KH,analepsis,,12796,13594
+KH17,KH,"Level, Degree=2",,12796,13594
+KH18,KH,"Level, Degree=1",,13595,13863
+KH19,KH,"Level, Degree=2",,13867,14060
+KH20,KH,analepsis,,13867,14060
+KH21,KH,"Level, Degree=1",,14061,14106
+KH22,KH,"Level, Degree=2",,14110,14589
+KH23,KH,analepsis,,14110,14589
+KH24,KH,"Level, Degree=1",,14590,16152
+KH25,KH,"Level, Degree=2",,16153,16894
+KH26,KH,analepsis,,16153,16894
+KH27,KH,"Level, Degree=1",,16898,17733
+KH28,KH,"Level, Degree=2",,17734,17821
+KH29,KH,analepsis,,17734,17821
+KH30,KH,"Level, Degree=1",,17822,17869
+KH31,KH,"Level, Degree=2",,17870,18403
+KH32,KH,analepsis,,17870,18403
+KH33,KH,"Level, Degree=1",,18404,18597
+KH34,KH,"Level, Degree=2",,18601,19151
+KH35,KH,analepsis,,18601,19151
+KH36,KH,"Level, Degree=1",,19152,19172
+KH37,KH,"Level, Degree=2",,19173,19640
+KH38,KH,analepsis,,19173,19640
+KH39,KH,"Level, Degree=1",,19641,19852
+KH0,KH,analepsis,,71,13440
+KH0,KH,Level Degree=1,,96,110
+KH1,KH,Level Degree=2,,111,518
+KH2,KH,analepsis,,111,517
+KH3,KH,prolepsis,,519,545
+KH4,KH,Level Degree=1,,519,545
+KH5,KH,analepsis,,549,5712
+KH6,KH,Level Degree=2,,549,5712
+KH7,KH,Level Degree=1,,5713,5731
+KH8,KH,analepsis,,5732,8830
+KH9,KH,Level Degree=2,,5732,8830
+KH0,KH,"Level, Degree=1",,39,3466
+KH1,KH,"fid, Pers= King",,2427,2503
+KH2,KH,"Level, Degree=2",,3470,12549
+KH3,KH,"fid, Catherine Wheel",,4053,4092
+KH4,KH,"fid, Catherine Wheel",,4789,4920
+KH5,KH,"fid, Benghal Light",,7375,7517
+KH6,KH,"fid, Catherine Wheel",,12295,12326
+KH7,KH,"Level, Degree=1",,12553,13331
+KH8,KH,"Level, Degree=2",,13335,14053
+KH9,KH,"fid, Remarkable Rocket",,13905,14053
+KH10,KH,"Level, Degree=1",,14054,14131
+KH11,KH,"Level, Degree=2",,14135,23927
+KH12,KH,"fid, Remarkable Rocket",,16190,16247
+KH13,KH,"fid, Remarkable Rocket",,21727,21777
+KH14,KH,"fid, Remarkable Rocket",,23201,23265
+KH0,KH,"Level, Degree=1",,60,6072
+KH1,KH,"fid, Pers=Peyton",,4008,4081
+KH2,KH,"fid, Pers=Peyton",,4189,4843
+KH3,KH,"fid, Pers=Peyton",,4940,5203
+KH4,KH,"fid, Pers=Peyton",,5256,5436
+KH5,KH,analepsis,,6084,8829
+KH6,KH,"Level, Degree=2",,6084,8829
+KH7,KH,"fid, Pers=Peyton",,6536,6754
+KH8,KH,"Level, Degree=1",,8842,8953
+KH9,KH,Level Degree=3,,8954,21095
+KH10,KH,"fid, Pers=Peyton",,8986,9014
+KH11,KH,"fid, Pers=Peyton",,9100,9860
+KH12,KH,"fid, Pers=Peyton",,10068,10135
+KH13,KH,"fid, Pers=Peyton",,10307,10340
+KH14,KH,"fid, Pers=Peyton",,10412,10446
+KH15,KH,"fid, Pers=Peyton",,10579,10682
+KH16,KH,"fid, Pers=Peyton",,11054,11156
+KH17,KH,"fid, Pers=Peyton",,11603,11867
+KH18,KH,"fid, Pers=Peyton",,12339,12483
+KH19,KH,"fid, Pers=Peyton",,13255,13341
+KH20,KH,"fid, Pers=Peyton",,14096,14224
+KH21,KH,"fid, Pers=Peyton",,17126,17174
+KH22,KH,"fid, Pers=Peyton",,17268,17531
+KH23,KH,"fid, Pers=Peyton",,17707,17801
+KH24,KH,"fid, Pers=Peyton",,17920,18025
+KH25,KH,"fid, Pers=Peyton",,18076,18394
+KH26,KH,"fid, Pers=Peyton",,18796,18894
+KH27,KH,"fid, Pers=Peyton",,18949,18999
+KH28,KH,"fid, Pers=Peyton",,19552,19640
+KH29,KH,"fid, Pers=Peyton",,19861,19954
+KH30,KH,"fid, Pers=Peyton",,20833,20858
+KH31,KH,"fid, Pers=Peyton",,20926,21095
+KH32,KH,"Level, Degree=1",,21099,21230

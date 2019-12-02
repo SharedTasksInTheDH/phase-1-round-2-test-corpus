@@ -51,4 +51,4 @@ with open(os.path.join(mirrow_dir, "results.csv") , "w") as of:
     of.write("Text, Category, SegSim, BoundSim\n")
     for r in results:
         for cat in r["evals"]:
-            of.write(f"{r['name']},{cat}, {r['evals'][cat]['segsim']}, {r['evals'][cat]['boundsim']}\n")
+            of.write(f"{r['name']}, {cat}, {r['evals'][cat]['segsim']}, {r['evals'][cat]['boundsim']}\n")

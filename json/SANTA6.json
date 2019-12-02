@@ -1,1891 +1,1889 @@
 {
     "items": {
-        "SANTA6": {
-            "01_Buechner": {
-                "FP": {
-                    "narrative_level number=\u201d3\u201d": [
-                        70,
-                        15890
-                    ],
-                    "narrative_level number=\u201d3\u201d words=2888": [
-                        70,
-                        15890
-                    ],
-                    "narrative_levelchange completion=\u201ccomplete\u201c": [
-                        70,
-                        15890
-                    ],
-                    "narrator participation=\u201dheterodiegetic\u201d": [
-                        70,
-                        15890
-                    ]
-                }
+        "01_Buechner": {
+            "FP": {
+                "narrative_level number=\u201d3\u201d": [
+                    70,
+                    15890
+                ],
+                "narrative_level number=\u201d3\u201d words=2888": [
+                    70,
+                    15890
+                ],
+                "narrative_levelchange completion=\u201ccomplete\u201c": [
+                    70,
+                    15890
+                ],
+                "narrator participation=\u201dheterodiegetic\u201d": [
+                    70,
+                    15890
+                ]
+            }
+        },
+        "02_Carroll_shortened": {
+            "FP": {
+                "narrative_level number=\u201d3\u201d": [
+                    60,
+                    22617
+                ],
+                "narrative_level number=\u201d3\u201d words=4286": [
+                    60,
+                    22617
+                ],
+                "narrative_levelchange completion=\u201ccomplete\u201c": [
+                    60,
+                    22617
+                ],
+                "narrator participation=\u201dheterodiegetic\u201d": [
+                    60,
+                    2130
+                ]
             },
-            "02_Carroll_shortened": {
-                "FP": {
-                    "narrative_level number=\u201d3\u201d": [
-                        60,
-                        22617
-                    ],
-                    "narrative_level number=\u201d3\u201d words=4286": [
-                        60,
-                        22617
-                    ],
-                    "narrative_levelchange completion=\u201ccomplete\u201c": [
-                        60,
-                        22617
-                    ],
-                    "narrator participation=\u201dheterodiegetic\u201d": [
-                        60,
-                        2130
-                    ]
-                },
-                "MS": {
-                    "change_narratee": [
-                        4390,
-                        4400,
-                        4670,
-                        4675,
-                        11522,
-                        11526,
-                        11678,
-                        11681,
-                        11687,
-                        11691,
-                        12266,
-                        12269
-                    ],
-                    "level_change": [
-                        4390,
-                        4400,
-                        4670,
-                        4675,
-                        11522,
-                        11526,
-                        11678,
-                        11681,
-                        11687,
-                        11691,
-                        12266,
-                        12269
-                    ],
-                    "narrative_level number=\"1\"": [
-                        4390,
-                        4670,
-                        11522,
-                        11678,
-                        11687,
-                        12266
-                    ],
-                    "narrative_level number=\"1\" words=196": [
-                        12251,
-                        12266
-                    ],
-                    "narrative_level number=\"2\"": [
-                        70,
-                        4390,
-                        4670,
-                        11522,
-                        11678,
-                        11687,
-                        12266,
-                        15890
-                    ],
-                    "narrative_level number=\"2\" words=2692": [
-                        15886,
-                        15890
-                    ],
-                    "narrative_levelchange completion=\"complete\"": [
-                        4390,
-                        4670,
-                        11522,
-                        11678,
-                        11687,
-                        12266,
-                        15890
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        70,
-                        4390
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        4390,
-                        4670,
-                        11522,
-                        11678,
-                        11687,
-                        12266
-                    ],
-                    "narrator participation=\"heterodiegetic\"": [
-                        70,
-                        4390,
-                        4670,
-                        11522,
-                        11678,
-                        11687,
-                        12266,
-                        15890
-                    ],
-                    "narrator_change": [
-                        4390,
-                        4400,
-                        4670,
-                        4675,
-                        11522,
-                        11526,
-                        11678,
-                        11681,
-                        11687,
-                        11691,
-                        12266,
-                        12269
-                    ]
-                }
+            "MS": {
+                "change_narratee": [
+                    4390,
+                    4400,
+                    4670,
+                    4675,
+                    11522,
+                    11526,
+                    11678,
+                    11681,
+                    11687,
+                    11691,
+                    12266,
+                    12269
+                ],
+                "level_change": [
+                    4390,
+                    4400,
+                    4670,
+                    4675,
+                    11522,
+                    11526,
+                    11678,
+                    11681,
+                    11687,
+                    11691,
+                    12266,
+                    12269
+                ],
+                "narrative_level number=\"1\"": [
+                    4390,
+                    4670,
+                    11522,
+                    11678,
+                    11687,
+                    12266
+                ],
+                "narrative_level number=\"1\" words=196": [
+                    12251,
+                    12266
+                ],
+                "narrative_level number=\"2\"": [
+                    70,
+                    4390,
+                    4670,
+                    11522,
+                    11678,
+                    11687,
+                    12266,
+                    15890
+                ],
+                "narrative_level number=\"2\" words=2692": [
+                    15886,
+                    15890
+                ],
+                "narrative_levelchange completion=\"complete\"": [
+                    4390,
+                    4670,
+                    11522,
+                    11678,
+                    11687,
+                    12266,
+                    15890
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    70,
+                    4390
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    4390,
+                    4670,
+                    11522,
+                    11678,
+                    11687,
+                    12266
+                ],
+                "narrator participation=\"heterodiegetic\"": [
+                    70,
+                    4390,
+                    4670,
+                    11522,
+                    11678,
+                    11687,
+                    12266,
+                    15890
+                ],
+                "narrator_change": [
+                    4390,
+                    4400,
+                    4670,
+                    4675,
+                    11522,
+                    11526,
+                    11678,
+                    11681,
+                    11687,
+                    11691,
+                    12266,
+                    12269
+                ]
+            }
+        },
+        "03_Salsbury": {
+            "FP": {
+                "change_narratee": [
+                    3519,
+                    3526,
+                    8249,
+                    8254,
+                    8633,
+                    8637,
+                    9881,
+                    9886
+                ],
+                "level_change": [
+                    3519,
+                    3526,
+                    8249,
+                    8254,
+                    8633,
+                    8637,
+                    9881,
+                    9886
+                ],
+                "narrative_level number=\u201d1\u201d": [
+                    3519,
+                    8248,
+                    8633,
+                    9878
+                ],
+                "narrative_level number=\u201d1\u201d words=1064": [
+                    3519,
+                    8248,
+                    8633,
+                    9878
+                ],
+                "narrative_level number=\u201d2\u201d": [
+                    48,
+                    3516,
+                    8251,
+                    8630,
+                    9881,
+                    10918
+                ],
+                "narrative_level number=\u201d2\u201d words=926": [
+                    48,
+                    3516,
+                    8251,
+                    8630,
+                    9881,
+                    10918
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    3519,
+                    8248,
+                    8633,
+                    9878
+                ],
+                "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                    8251,
+                    8630,
+                    9881,
+                    10918
+                ],
+                "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                    48,
+                    3516
+                ],
+                "narrator participation=\u201dautodiegetic\u201d": [
+                    48,
+                    3516,
+                    8251,
+                    8630,
+                    9881,
+                    10918
+                ],
+                "narrator participation=\u201dhomodiegetic\u201d": [
+                    3519,
+                    8248,
+                    8633,
+                    9878
+                ],
+                "narrator_change": [
+                    3519,
+                    3526,
+                    8249,
+                    8254,
+                    8633,
+                    8637,
+                    9881,
+                    9886
+                ]
             },
-            "03_Salsbury": {
-                "FP": {
-                    "change_narratee": [
-                        3519,
-                        3526,
-                        8249,
-                        8254,
-                        8633,
-                        8637,
-                        9881,
-                        9886
-                    ],
-                    "level_change": [
-                        3519,
-                        3526,
-                        8249,
-                        8254,
-                        8633,
-                        8637,
-                        9881,
-                        9886
-                    ],
-                    "narrative_level number=\u201d1\u201d": [
-                        3519,
-                        8248,
-                        8633,
-                        9878
-                    ],
-                    "narrative_level number=\u201d1\u201d words=1064": [
-                        3519,
-                        8248,
-                        8633,
-                        9878
-                    ],
-                    "narrative_level number=\u201d2\u201d": [
-                        48,
-                        3516,
-                        8251,
-                        8630,
-                        9881,
-                        10918
-                    ],
-                    "narrative_level number=\u201d2\u201d words=926": [
-                        48,
-                        3516,
-                        8251,
-                        8630,
-                        9881,
-                        10918
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        3519,
-                        8248,
-                        8633,
-                        9878
-                    ],
-                    "narrative_levelchange completion=\u201dnever_closed\u201d": [
-                        8251,
-                        8630,
-                        9881,
-                        10918
-                    ],
-                    "narrative_levelchange completion=\u201dnever_opened\u201d": [
-                        48,
-                        3516
-                    ],
-                    "narrator participation=\u201dautodiegetic\u201d": [
-                        48,
-                        3516,
-                        8251,
-                        8630,
-                        9881,
-                        10918
-                    ],
-                    "narrator participation=\u201dhomodiegetic\u201d": [
-                        3519,
-                        8248,
-                        8633,
-                        9878
-                    ],
-                    "narrator_change": [
-                        3519,
-                        3526,
-                        8249,
-                        8254,
-                        8633,
-                        8637,
-                        9881,
-                        9886
-                    ]
-                },
-                "MS": {
-                    "narrative_level number=\"1\"": [
-                        60,
-                        22617
-                    ],
-                    "narrative_level number=\"1\" words=4286": [
-                        22611,
-                        22617
-                    ],
-                    "narratorparticipation=\"heterodiegetic\"": [
-                        60,
-                        22617
-                    ]
-                }
+            "MS": {
+                "narrative_level number=\"1\"": [
+                    60,
+                    22617
+                ],
+                "narrative_level number=\"1\" words=4286": [
+                    22611,
+                    22617
+                ],
+                "narratorparticipation=\"heterodiegetic\"": [
+                    60,
+                    22617
+                ]
+            }
+        },
+        "04_Mansfield": {
+            "FP": {
+                "change_narratee": [
+                    3646,
+                    3651,
+                    3693,
+                    3703,
+                    3710,
+                    3714,
+                    3901,
+                    3907,
+                    10768,
+                    10771,
+                    10797,
+                    10802,
+                    10869,
+                    10871,
+                    10917,
+                    10919,
+                    10994,
+                    10996,
+                    11124,
+                    11126
+                ],
+                "level_change": [
+                    3646,
+                    3651,
+                    3693,
+                    3703,
+                    3710,
+                    3714,
+                    3901,
+                    3907,
+                    10768,
+                    10771,
+                    10797,
+                    10802,
+                    10869,
+                    10871,
+                    10917,
+                    10919,
+                    10994,
+                    10996,
+                    11124,
+                    11126
+                ],
+                "narrative_level number=\u201d2\u201d": [
+                    3646,
+                    3693,
+                    3710,
+                    3907,
+                    10391,
+                    10770,
+                    10785,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11125
+                ],
+                "narrative_level number=\u201d2\u201d words=167": [
+                    3646,
+                    3693,
+                    3710,
+                    3907,
+                    10391,
+                    10770,
+                    10785,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11125
+                ],
+                "narrative_level number=\u201d3\u201d": [
+                    32,
+                    3643,
+                    3910,
+                    10395,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11222,
+                    26192
+                ],
+                "narrative_level number=\u201d3\u201d words=4624": [
+                    32,
+                    3643,
+                    3693,
+                    3710,
+                    3910,
+                    10395,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11222,
+                    26192
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    32,
+                    3643,
+                    3646,
+                    3693,
+                    3710,
+                    3907,
+                    3910,
+                    10391,
+                    10395,
+                    10770,
+                    10785,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11125,
+                    11222,
+                    26192
+                ],
+                "narrator participation=\u201dheterodiegetic\u201d": [
+                    32,
+                    3643,
+                    3693,
+                    3710,
+                    3910,
+                    10395,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11222,
+                    26192
+                ],
+                "narrator participation=\u201dhomodiegetic\u201d": [
+                    3646,
+                    3693,
+                    3710,
+                    3907,
+                    10391,
+                    10770,
+                    10785,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11125
+                ],
+                "narrator_change": [
+                    3646,
+                    3651,
+                    3693,
+                    3703,
+                    3710,
+                    3714,
+                    3901,
+                    3907,
+                    10768,
+                    10770,
+                    10771,
+                    10775,
+                    10797,
+                    10802,
+                    10869,
+                    10871,
+                    10917,
+                    10919,
+                    10994,
+                    10996,
+                    11124,
+                    11126
+                ]
             },
-            "04_Mansfield": {
-                "FP": {
-                    "change_narratee": [
-                        3646,
-                        3651,
-                        3693,
-                        3703,
-                        3710,
-                        3714,
-                        3901,
-                        3907,
-                        10768,
-                        10771,
-                        10797,
-                        10802,
-                        10869,
-                        10871,
-                        10917,
-                        10919,
-                        10994,
-                        10996,
-                        11124,
-                        11126
-                    ],
-                    "level_change": [
-                        3646,
-                        3651,
-                        3693,
-                        3703,
-                        3710,
-                        3714,
-                        3901,
-                        3907,
-                        10768,
-                        10771,
-                        10797,
-                        10802,
-                        10869,
-                        10871,
-                        10917,
-                        10919,
-                        10994,
-                        10996,
-                        11124,
-                        11126
-                    ],
-                    "narrative_level number=\u201d2\u201d": [
-                        3646,
-                        3693,
-                        3710,
-                        3907,
-                        10391,
-                        10770,
-                        10785,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11125
-                    ],
-                    "narrative_level number=\u201d2\u201d words=167": [
-                        3646,
-                        3693,
-                        3710,
-                        3907,
-                        10391,
-                        10770,
-                        10785,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11125
-                    ],
-                    "narrative_level number=\u201d3\u201d": [
-                        32,
-                        3643,
-                        3910,
-                        10395,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11222,
-                        26192
-                    ],
-                    "narrative_level number=\u201d3\u201d words=4624": [
-                        32,
-                        3643,
-                        3693,
-                        3710,
-                        3910,
-                        10395,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11222,
-                        26192
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        32,
-                        3643,
-                        3646,
-                        3693,
-                        3710,
-                        3907,
-                        3910,
-                        10391,
-                        10395,
-                        10770,
-                        10785,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11125,
-                        11222,
-                        26192
-                    ],
-                    "narrator participation=\u201dheterodiegetic\u201d": [
-                        32,
-                        3643,
-                        3693,
-                        3710,
-                        3910,
-                        10395,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11222,
-                        26192
-                    ],
-                    "narrator participation=\u201dhomodiegetic\u201d": [
-                        3646,
-                        3693,
-                        3710,
-                        3907,
-                        10391,
-                        10770,
-                        10785,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11125
-                    ],
-                    "narrator_change": [
-                        3646,
-                        3651,
-                        3693,
-                        3703,
-                        3710,
-                        3714,
-                        3901,
-                        3907,
-                        10768,
-                        10770,
-                        10771,
-                        10775,
-                        10797,
-                        10802,
-                        10869,
-                        10871,
-                        10917,
-                        10919,
-                        10994,
-                        10996,
-                        11124,
-                        11126
-                    ]
-                },
-                "MS": {
-                    "boundary transgression=\"metalepsis\"": [
-                        9490,
-                        9531
-                    ],
-                    "level_change": [
-                        3519,
-                        3526,
-                        9490,
-                        9495
-                    ],
-                    "narrative_level number=\"1\"": [
-                        3519,
-                        9490
-                    ],
-                    "narrative_level number=\"1\" words=1057": [
-                        9482,
-                        9490
-                    ],
-                    "narrative_level number=\"2\"": [
-                        33,
-                        3516
-                    ],
-                    "narrative_level number=\"2\" words=936": [
-                        10911,
-                        10918
-                    ],
-                    "narrative_levelchange completion=\"complete\"": [
-                        3519,
-                        9490
-                    ],
-                    "narrative_levelchange completion=\"never closed\"": [
-                        9490,
-                        10918
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        33,
-                        3516
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        33,
-                        3516,
-                        9490,
-                        10918
-                    ],
-                    "narrator participation=\"homodiegetic\"": [
-                        3519,
-                        9490
-                    ]
-                }
+            "MS": {
+                "boundary transgression=\"metalepsis\"": [
+                    9490,
+                    9531
+                ],
+                "level_change": [
+                    3519,
+                    3526,
+                    9490,
+                    9495
+                ],
+                "narrative_level number=\"1\"": [
+                    3519,
+                    9490
+                ],
+                "narrative_level number=\"1\" words=1057": [
+                    9482,
+                    9490
+                ],
+                "narrative_level number=\"2\"": [
+                    33,
+                    3516
+                ],
+                "narrative_level number=\"2\" words=936": [
+                    10911,
+                    10918
+                ],
+                "narrative_levelchange completion=\"complete\"": [
+                    3519,
+                    9490
+                ],
+                "narrative_levelchange completion=\"never closed\"": [
+                    9490,
+                    10918
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    33,
+                    3516
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    33,
+                    3516,
+                    9490,
+                    10918
+                ],
+                "narrator participation=\"homodiegetic\"": [
+                    3519,
+                    9490
+                ]
+            }
+        },
+        "05_Twain": {
+            "FP": {
+                "change_narratee": [
+                    2218,
+                    2226
+                ],
+                "level_change": [
+                    2218,
+                    2226
+                ],
+                "narrative_level number=\u201d1\u201d": [
+                    2220,
+                    9696
+                ],
+                "narrative_level number=\u201d1\u201d words=1387": [
+                    2220,
+                    9696
+                ],
+                "narrative_level number=\u201d2\u201d": [
+                    21,
+                    2217
+                ],
+                "narrative_level number=\u201d2\u201d words=410": [
+                    21,
+                    2217
+                ],
+                "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                    2220,
+                    9696
+                ],
+                "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                    21,
+                    2217
+                ],
+                "narrator participation=\u201dhomodiegetic\u201d": [
+                    41,
+                    2217,
+                    2220,
+                    9696
+                ],
+                "narrator_change": [
+                    2218,
+                    2226
+                ]
             },
-            "05_Twain": {
-                "FP": {
-                    "change_narratee": [
-                        2218,
-                        2226
-                    ],
-                    "level_change": [
-                        2218,
-                        2226
-                    ],
-                    "narrative_level number=\u201d1\u201d": [
-                        2220,
-                        9696
-                    ],
-                    "narrative_level number=\u201d1\u201d words=1387": [
-                        2220,
-                        9696
-                    ],
-                    "narrative_level number=\u201d2\u201d": [
-                        21,
-                        2217
-                    ],
-                    "narrative_level number=\u201d2\u201d words=410": [
-                        21,
-                        2217
-                    ],
-                    "narrative_levelchange completion=\u201dnever_closed\u201d": [
-                        2220,
-                        9696
-                    ],
-                    "narrative_levelchange completion=\u201dnever_opened\u201d": [
-                        21,
-                        2217
-                    ],
-                    "narrator participation=\u201dhomodiegetic\u201d": [
-                        41,
-                        2217,
-                        2220,
-                        9696
-                    ],
-                    "narrator_change": [
-                        2218,
-                        2226
-                    ]
-                },
-                "MS": {
-                    "change_narratee": [
-                        3646,
-                        3653,
-                        3693,
-                        3703,
-                        3710,
-                        3714,
-                        3910,
-                        3917,
-                        10391,
-                        10400,
-                        10770,
-                        10775,
-                        10797,
-                        10802,
-                        10870,
-                        10875,
-                        10918,
-                        10922,
-                        10995,
-                        11000,
-                        11128,
-                        11133,
-                        11831,
-                        11834,
-                        12091,
-                        12094,
-                        15857,
-                        15860,
-                        16072,
-                        16079,
-                        16115,
-                        16120,
-                        16160,
-                        16164,
-                        16399,
-                        16407,
-                        16453,
-                        16456,
-                        16550,
-                        16554
-                    ],
-                    "narrative_level number=\"1\"": [
-                        3646,
-                        3693,
-                        3710,
-                        3907,
-                        10391,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11125,
-                        11831,
-                        12088,
-                        15857,
-                        16547
-                    ],
-                    "narrative_level number=\"1\" words=351": [
-                        16537,
-                        16547
-                    ],
-                    "narrative_level number=\"2\"": [
-                        32,
-                        3643,
-                        3693,
-                        3710,
-                        3910,
-                        10388,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11128,
-                        11828,
-                        12091,
-                        15854,
-                        16550,
-                        26192
-                    ],
-                    "narrative_level number=\"2\" words=4440": [
-                        26185,
-                        26192
-                    ],
-                    "narrative_levelchange": [
-                        3646,
-                        3653,
-                        3693,
-                        3703,
-                        3710,
-                        3714,
-                        3910,
-                        3917,
-                        10391,
-                        10400,
-                        10797,
-                        10802,
-                        10870,
-                        10875,
-                        10918,
-                        10922,
-                        10995,
-                        11000,
-                        11128,
-                        11133,
-                        11831,
-                        11834,
-                        12091,
-                        12094,
-                        15857,
-                        15860,
-                        16550,
-                        16554
-                    ],
-                    "narrative_levelchange completion=\"never closed\"": [
-                        16550,
-                        26192
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        32,
-                        3643
-                    ],
-                    "narrative_levelchnage completion=\"complete\"": [
-                        3646,
-                        3693,
-                        3710,
-                        3907,
-                        3910,
-                        10388,
-                        10391,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11125,
-                        11128,
-                        11828,
-                        11831,
-                        12088,
-                        12091,
-                        15854,
-                        15857,
-                        16547
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        10391,
-                        10767,
-                        11831,
-                        12088
-                    ],
-                    "narrator participation=\"heterodiegetic\"": [
-                        32,
-                        3643,
-                        3693,
-                        3710,
-                        3910,
-                        10388,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11128,
-                        11828,
-                        12091,
-                        15854,
-                        16550,
-                        26192
-                    ],
-                    "narrator participation=\"homodiegetic\"": [
-                        3646,
-                        3693,
-                        3710,
-                        3907,
-                        10770,
-                        10797,
-                        10870,
-                        10918,
-                        10995,
-                        11125,
-                        15857,
-                        16547
-                    ],
-                    "narrator_change": [
-                        3646,
-                        3653,
-                        3693,
-                        3703,
-                        3710,
-                        3714,
-                        3910,
-                        3917,
-                        10391,
-                        10400,
-                        10770,
-                        10775,
-                        10797,
-                        10802,
-                        10870,
-                        10875,
-                        10918,
-                        10922,
-                        10995,
-                        11000,
-                        11128,
-                        11133,
-                        11831,
-                        11834,
-                        12091,
-                        12094,
-                        15857,
-                        15860,
-                        16072,
-                        16079,
-                        16115,
-                        16120,
-                        16160,
-                        16164,
-                        16399,
-                        16407,
-                        16453,
-                        16456,
-                        16550,
-                        16554
-                    ]
-                }
+            "MS": {
+                "change_narratee": [
+                    3646,
+                    3653,
+                    3693,
+                    3703,
+                    3710,
+                    3714,
+                    3910,
+                    3917,
+                    10391,
+                    10400,
+                    10770,
+                    10775,
+                    10797,
+                    10802,
+                    10870,
+                    10875,
+                    10918,
+                    10922,
+                    10995,
+                    11000,
+                    11128,
+                    11133,
+                    11831,
+                    11834,
+                    12091,
+                    12094,
+                    15857,
+                    15860,
+                    16072,
+                    16079,
+                    16115,
+                    16120,
+                    16160,
+                    16164,
+                    16399,
+                    16407,
+                    16453,
+                    16456,
+                    16550,
+                    16554
+                ],
+                "narrative_level number=\"1\"": [
+                    3646,
+                    3693,
+                    3710,
+                    3907,
+                    10391,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11125,
+                    11831,
+                    12088,
+                    15857,
+                    16547
+                ],
+                "narrative_level number=\"1\" words=351": [
+                    16537,
+                    16547
+                ],
+                "narrative_level number=\"2\"": [
+                    32,
+                    3643,
+                    3693,
+                    3710,
+                    3910,
+                    10388,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11128,
+                    11828,
+                    12091,
+                    15854,
+                    16550,
+                    26192
+                ],
+                "narrative_level number=\"2\" words=4440": [
+                    26185,
+                    26192
+                ],
+                "narrative_levelchange": [
+                    3646,
+                    3653,
+                    3693,
+                    3703,
+                    3710,
+                    3714,
+                    3910,
+                    3917,
+                    10391,
+                    10400,
+                    10797,
+                    10802,
+                    10870,
+                    10875,
+                    10918,
+                    10922,
+                    10995,
+                    11000,
+                    11128,
+                    11133,
+                    11831,
+                    11834,
+                    12091,
+                    12094,
+                    15857,
+                    15860,
+                    16550,
+                    16554
+                ],
+                "narrative_levelchange completion=\"never closed\"": [
+                    16550,
+                    26192
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    32,
+                    3643
+                ],
+                "narrative_levelchnage completion=\"complete\"": [
+                    3646,
+                    3693,
+                    3710,
+                    3907,
+                    3910,
+                    10388,
+                    10391,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11125,
+                    11128,
+                    11828,
+                    11831,
+                    12088,
+                    12091,
+                    15854,
+                    15857,
+                    16547
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    10391,
+                    10767,
+                    11831,
+                    12088
+                ],
+                "narrator participation=\"heterodiegetic\"": [
+                    32,
+                    3643,
+                    3693,
+                    3710,
+                    3910,
+                    10388,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11128,
+                    11828,
+                    12091,
+                    15854,
+                    16550,
+                    26192
+                ],
+                "narrator participation=\"homodiegetic\"": [
+                    3646,
+                    3693,
+                    3710,
+                    3907,
+                    10770,
+                    10797,
+                    10870,
+                    10918,
+                    10995,
+                    11125,
+                    15857,
+                    16547
+                ],
+                "narrator_change": [
+                    3646,
+                    3653,
+                    3693,
+                    3703,
+                    3710,
+                    3714,
+                    3910,
+                    3917,
+                    10391,
+                    10400,
+                    10770,
+                    10775,
+                    10797,
+                    10802,
+                    10870,
+                    10875,
+                    10918,
+                    10922,
+                    10995,
+                    11000,
+                    11128,
+                    11133,
+                    11831,
+                    11834,
+                    12091,
+                    12094,
+                    15857,
+                    15860,
+                    16072,
+                    16079,
+                    16115,
+                    16120,
+                    16160,
+                    16164,
+                    16399,
+                    16407,
+                    16453,
+                    16456,
+                    16550,
+                    16554
+                ]
+            }
+        },
+        "06_Boccaccio": {
+            "FP": {
+                "change_narratee": [
+                    8814,
+                    8818,
+                    9962,
+                    9968
+                ],
+                "level_change": [
+                    8814,
+                    8818,
+                    9962,
+                    9968
+                ],
+                "narrative_level number=\u201d2\u201d ": [
+                    8814,
+                    9961
+                ],
+                "narrative_level number=\u201d2\u201d words=226": [
+                    8814,
+                    9961
+                ],
+                "narrative_level number=\u201d3\u201d": [
+                    44,
+                    8811,
+                    9964,
+                    12069
+                ],
+                "narrative_level number=\u201d3\u201d words=2094": [
+                    44,
+                    8811,
+                    9964,
+                    12069
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    8814,
+                    9961
+                ],
+                "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                    9964,
+                    12069
+                ],
+                "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                    44,
+                    8811
+                ],
+                "narrator participation=\u201dautodiegetic\u201d": [
+                    8814,
+                    9961
+                ],
+                "narrator participation=\u201dheterodiegetic\u201d": [
+                    44,
+                    8811,
+                    9964,
+                    12069
+                ],
+                "narrator_change": [
+                    8814,
+                    8818,
+                    9962,
+                    9968
+                ]
             },
-            "06_Boccaccio": {
-                "FP": {
-                    "change_narratee": [
-                        8814,
-                        8818,
-                        9962,
-                        9968
-                    ],
-                    "level_change": [
-                        8814,
-                        8818,
-                        9962,
-                        9968
-                    ],
-                    "narrative_level number=\u201d2\u201d ": [
-                        8814,
-                        9961
-                    ],
-                    "narrative_level number=\u201d2\u201d words=226": [
-                        8814,
-                        9961
-                    ],
-                    "narrative_level number=\u201d3\u201d": [
-                        44,
-                        8811,
-                        9964,
-                        12069
-                    ],
-                    "narrative_level number=\u201d3\u201d words=2094": [
-                        44,
-                        8811,
-                        9964,
-                        12069
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        8814,
-                        9961
-                    ],
-                    "narrative_levelchange completion=\u201dnever_closed\u201d": [
-                        9964,
-                        12069
-                    ],
-                    "narrative_levelchange completion=\u201dnever_opened\u201d": [
-                        44,
-                        8811
-                    ],
-                    "narrator participation=\u201dautodiegetic\u201d": [
-                        8814,
-                        9961
-                    ],
-                    "narrator participation=\u201dheterodiegetic\u201d": [
-                        44,
-                        8811,
-                        9964,
-                        12069
-                    ],
-                    "narrator_change": [
-                        8814,
-                        8818,
-                        9962,
-                        9968
-                    ]
-                },
-                "MS": {
-                    "level_change": [
-                        2220,
-                        2226
-                    ],
-                    "narratee_change": [
-                        2220,
-                        2226
-                    ],
-                    "narrative_level number=\"1\"": [
-                        2220,
-                        9696
-                    ],
-                    "narrative_level number=\"1\" words=1387": [
-                        9690,
-                        9696
-                    ],
-                    "narrative_level number=\"2\"": [
-                        187,
-                        2217
-                    ],
-                    "narrative_level number=\"2\" words=352": [
-                        2213,
-                        2217
-                    ],
-                    "narrative_levelchange completion=\"never closed\"": [
-                        2220,
-                        9696
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        187,
-                        2217
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        187,
-                        2217
-                    ],
-                    "narrator participation=\"homodiegetic\"": [
-                        2220,
-                        9696
-                    ],
-                    "narrator_change": [
-                        2220,
-                        2226
-                    ]
-                }
+            "MS": {
+                "level_change": [
+                    2220,
+                    2226
+                ],
+                "narratee_change": [
+                    2220,
+                    2226
+                ],
+                "narrative_level number=\"1\"": [
+                    2220,
+                    9696
+                ],
+                "narrative_level number=\"1\" words=1387": [
+                    9690,
+                    9696
+                ],
+                "narrative_level number=\"2\"": [
+                    187,
+                    2217
+                ],
+                "narrative_level number=\"2\" words=352": [
+                    2213,
+                    2217
+                ],
+                "narrative_levelchange completion=\"never closed\"": [
+                    2220,
+                    9696
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    187,
+                    2217
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    187,
+                    2217
+                ],
+                "narrator participation=\"homodiegetic\"": [
+                    2220,
+                    9696
+                ],
+                "narrator_change": [
+                    2220,
+                    2226
+                ]
+            }
+        },
+        "07_Twain": {
+            "FP": {
+                "narrative_level number=\u201d2\u201d": [
+                    43,
+                    22473
+                ],
+                "narrative_level number=\u201d2\u201d words=4358": [
+                    43,
+                    22473
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    43,
+                    22473
+                ],
+                "narrator participation=\u201dautodiegetic\u201d": [
+                    43,
+                    22473
+                ]
             },
-            "07_Twain": {
-                "FP": {
-                    "narrative_level number=\u201d2\u201d": [
-                        43,
-                        22473
-                    ],
-                    "narrative_level number=\u201d2\u201d words=4358": [
-                        43,
-                        22473
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        43,
-                        22473
-                    ],
-                    "narrator participation=\u201dautodiegetic\u201d": [
-                        43,
-                        22473
-                    ]
-                },
-                "MS": {
-                    "level_change": [
-                        6980,
-                        6991,
-                        8328,
-                        8333,
-                        8814,
-                        8818,
-                        9964,
-                        9968
-                    ],
-                    "narratee_change": [
-                        6980,
-                        6991,
-                        8328,
-                        8333,
-                        8814,
-                        8818,
-                        9964,
-                        9968
-                    ],
-                    "narrative_level number=\"1\"": [
-                        6980,
-                        8325,
-                        8814,
-                        9961
-                    ],
-                    "narrative_level number=\"1\" words=496": [
-                        9953,
-                        9961
-                    ],
-                    "narrative_level number=\"2\"": [
-                        44,
-                        6977,
-                        8328,
-                        8811,
-                        9964,
-                        12069
-                    ],
-                    "narrative_level number=\"2\" words=1824": [
-                        12063,
-                        12069
-                    ],
-                    "narrative_levelchange completion=\"complete\"": [
-                        6980,
-                        8325,
-                        8328,
-                        8811,
-                        8814,
-                        9961
-                    ],
-                    "narrative_levelchange completion=\"never closed\"": [
-                        9964,
-                        12069
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        44,
-                        6977
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        6980,
-                        8325,
-                        8814,
-                        9961
-                    ],
-                    "narrator participation=\"heterodiegetic\"": [
-                        44,
-                        6977,
-                        8328,
-                        8811,
-                        9964,
-                        12069
-                    ],
-                    "narrator_change": [
-                        6980,
-                        6991,
-                        8328,
-                        8333,
-                        8814,
-                        8818,
-                        9964,
-                        9968
-                    ]
-                }
+            "MS": {
+                "level_change": [
+                    6980,
+                    6991,
+                    8328,
+                    8333,
+                    8814,
+                    8818,
+                    9964,
+                    9968
+                ],
+                "narratee_change": [
+                    6980,
+                    6991,
+                    8328,
+                    8333,
+                    8814,
+                    8818,
+                    9964,
+                    9968
+                ],
+                "narrative_level number=\"1\"": [
+                    6980,
+                    8325,
+                    8814,
+                    9961
+                ],
+                "narrative_level number=\"1\" words=496": [
+                    9953,
+                    9961
+                ],
+                "narrative_level number=\"2\"": [
+                    44,
+                    6977,
+                    8328,
+                    8811,
+                    9964,
+                    12069
+                ],
+                "narrative_level number=\"2\" words=1824": [
+                    12063,
+                    12069
+                ],
+                "narrative_levelchange completion=\"complete\"": [
+                    6980,
+                    8325,
+                    8328,
+                    8811,
+                    8814,
+                    9961
+                ],
+                "narrative_levelchange completion=\"never closed\"": [
+                    9964,
+                    12069
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    44,
+                    6977
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    6980,
+                    8325,
+                    8814,
+                    9961
+                ],
+                "narrator participation=\"heterodiegetic\"": [
+                    44,
+                    6977,
+                    8328,
+                    8811,
+                    9964,
+                    12069
+                ],
+                "narrator_change": [
+                    6980,
+                    6991,
+                    8328,
+                    8333,
+                    8814,
+                    8818,
+                    9964,
+                    9968
+                ]
+            }
+        },
+        "08_Bierce": {
+            "FP": {
+                "narrative_level number=\u201d2\u201d": [
+                    74,
+                    5482,
+                    5524,
+                    12716,
+                    12796,
+                    19853
+                ],
+                "narrative_level number=\u201d2\u201d words=3574": [
+                    74,
+                    5482,
+                    5524,
+                    12716,
+                    12796,
+                    19853
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    5524,
+                    12716
+                ],
+                "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                    12796,
+                    19853
+                ],
+                "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                    74,
+                    5482
+                ],
+                "narrator participation=\u201dautodiegetic\u201d": [
+                    74,
+                    5482,
+                    5524,
+                    12716,
+                    12796,
+                    19853
+                ],
+                "narrator_change": [
+                    5487,
+                    5490,
+                    12721,
+                    12725
+                ]
             },
-            "08_Bierce": {
-                "FP": {
-                    "narrative_level number=\u201d2\u201d": [
-                        74,
-                        5482,
-                        5524,
-                        12716,
-                        12796,
-                        19853
-                    ],
-                    "narrative_level number=\u201d2\u201d words=3574": [
-                        74,
-                        5482,
-                        5524,
-                        12716,
-                        12796,
-                        19853
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        5524,
-                        12716
-                    ],
-                    "narrative_levelchange completion=\u201dnever_closed\u201d": [
-                        12796,
-                        19853
-                    ],
-                    "narrative_levelchange completion=\u201dnever_opened\u201d": [
-                        74,
-                        5482
-                    ],
-                    "narrator participation=\u201dautodiegetic\u201d": [
-                        74,
-                        5482,
-                        5524,
-                        12716,
-                        12796,
-                        19853
-                    ],
-                    "narrator_change": [
-                        5487,
-                        5490,
-                        12721,
-                        12725
-                    ]
-                },
-                "MS": {
-                    "narrative_level number=\"1\"": [
-                        43,
-                        22473
-                    ],
-                    "narrative_level number=\"1\" words=4358": [
-                        22465,
-                        22473
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        43,
-                        22473
-                    ]
-                }
+            "MS": {
+                "narrative_level number=\"1\"": [
+                    43,
+                    22473
+                ],
+                "narrative_level number=\"1\" words=4358": [
+                    22465,
+                    22473
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    43,
+                    22473
+                ]
+            }
+        },
+        "09_Melville_shortened": {
+            "FP": {
+                "level_change": [
+                    665,
+                    668,
+                    22584,
+                    22590
+                ],
+                "narrative_level number=\u201d1\u201d": [
+                    658,
+                    22567
+                ],
+                "narrative_level number=\u201d1\u201d words=3888": [
+                    658,
+                    22567
+                ],
+                "narrative_level number=\u201d2\u201d": [
+                    76,
+                    657,
+                    22584,
+                    24494
+                ],
+                "narrative_level number=\u201d2\u201d words=438": [
+                    76,
+                    657,
+                    22584,
+                    24494
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    658,
+                    22567
+                ],
+                "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                    22584,
+                    24494
+                ],
+                "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                    76,
+                    657
+                ],
+                "narrator participation=\u201dhomodiegetic\u201d": [
+                    76,
+                    24494
+                ]
             },
-            "09_Melville_shortened": {
-                "FP": {
-                    "level_change": [
-                        665,
-                        668,
-                        22584,
-                        22590
-                    ],
-                    "narrative_level number=\u201d1\u201d": [
-                        658,
-                        22567
-                    ],
-                    "narrative_level number=\u201d1\u201d words=3888": [
-                        658,
-                        22567
-                    ],
-                    "narrative_level number=\u201d2\u201d": [
-                        76,
-                        657,
-                        22584,
-                        24494
-                    ],
-                    "narrative_level number=\u201d2\u201d words=438": [
-                        76,
-                        657,
-                        22584,
-                        24494
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        658,
-                        22567
-                    ],
-                    "narrative_levelchange completion=\u201dnever_closed\u201d": [
-                        22584,
-                        24494
-                    ],
-                    "narrative_levelchange completion=\u201dnever_opened\u201d": [
-                        76,
-                        657
-                    ],
-                    "narrator participation=\u201dhomodiegetic\u201d": [
-                        76,
-                        24494
-                    ]
-                },
-                "MS": {
-                    "change_reality": [
-                        5524,
-                        5531,
-                        12796,
-                        12798
-                    ],
-                    "level_change": [
-                        1469,
-                        1472,
-                        5524,
-                        5531,
-                        8425,
-                        8427,
-                        8817,
-                        8821,
-                        9080,
-                        9082,
-                        10965,
-                        10971,
-                        11571,
-                        11573,
-                        12171,
-                        12175,
-                        12796,
-                        12798,
-                        14741,
-                        14744,
-                        16124,
-                        16128,
-                        16898,
-                        16902,
-                        17734,
-                        17736
-                    ],
-                    "narrative_level number=\"1\"": [
-                        1469,
-                        2713,
-                        2716,
-                        5482,
-                        8425,
-                        8817,
-                        9080,
-                        10962,
-                        11571,
-                        12168,
-                        12796,
-                        14741,
-                        16124,
-                        16895,
-                        17734,
-                        19853
-                    ],
-                    "narrative_level number=\"1\" words=2131": [
-                        19465,
-                        19471
-                    ],
-                    "narrative_level number=\"2\"": [
-                        74,
-                        1466,
-                        5524,
-                        8425,
-                        8817,
-                        9077,
-                        10965,
-                        11571,
-                        12171,
-                        12716,
-                        14741,
-                        16121,
-                        16898,
-                        17734
-                    ],
-                    "narrative_level number=\"2\" words=1443": [
-                        17727,
-                        17734
-                    ],
-                    "narrative_levelchange completion=\"complete\"": [
-                        1469,
-                        2713,
-                        2716,
-                        5482,
-                        5524,
-                        8425,
-                        8817,
-                        9077,
-                        9080,
-                        10962,
-                        10965,
-                        11571,
-                        12168,
-                        12171,
-                        12716,
-                        12796,
-                        14741,
-                        16121,
-                        16124,
-                        16895,
-                        16898,
-                        17734
-                    ],
-                    "narrative_levelchange completion=\"never closed\"": [
-                        17734,
-                        19853
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        74,
-                        1466
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        74,
-                        1466,
-                        2716,
-                        5482,
-                        5524,
-                        12716,
-                        12796,
-                        19853
-                    ],
-                    "narrator participation=\"homodiegetic\"": [
-                        1469,
-                        2713
-                    ],
-                    "narrator_change": [
-                        5524,
-                        5531,
-                        12796,
-                        12798
-                    ]
-                }
+            "MS": {
+                "change_reality": [
+                    5524,
+                    5531,
+                    12796,
+                    12798
+                ],
+                "level_change": [
+                    1469,
+                    1472,
+                    5524,
+                    5531,
+                    8425,
+                    8427,
+                    8817,
+                    8821,
+                    9080,
+                    9082,
+                    10965,
+                    10971,
+                    11571,
+                    11573,
+                    12171,
+                    12175,
+                    12796,
+                    12798,
+                    14741,
+                    14744,
+                    16124,
+                    16128,
+                    16898,
+                    16902,
+                    17734,
+                    17736
+                ],
+                "narrative_level number=\"1\"": [
+                    1469,
+                    2713,
+                    2716,
+                    5482,
+                    8425,
+                    8817,
+                    9080,
+                    10962,
+                    11571,
+                    12168,
+                    12796,
+                    14741,
+                    16124,
+                    16895,
+                    17734,
+                    19853
+                ],
+                "narrative_level number=\"1\" words=2131": [
+                    19465,
+                    19471
+                ],
+                "narrative_level number=\"2\"": [
+                    74,
+                    1466,
+                    5524,
+                    8425,
+                    8817,
+                    9077,
+                    10965,
+                    11571,
+                    12171,
+                    12716,
+                    14741,
+                    16121,
+                    16898,
+                    17734
+                ],
+                "narrative_level number=\"2\" words=1443": [
+                    17727,
+                    17734
+                ],
+                "narrative_levelchange completion=\"complete\"": [
+                    1469,
+                    2713,
+                    2716,
+                    5482,
+                    5524,
+                    8425,
+                    8817,
+                    9077,
+                    9080,
+                    10962,
+                    10965,
+                    11571,
+                    12168,
+                    12171,
+                    12716,
+                    12796,
+                    14741,
+                    16121,
+                    16124,
+                    16895,
+                    16898,
+                    17734
+                ],
+                "narrative_levelchange completion=\"never closed\"": [
+                    17734,
+                    19853
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    74,
+                    1466
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    74,
+                    1466,
+                    2716,
+                    5482,
+                    5524,
+                    12716,
+                    12796,
+                    19853
+                ],
+                "narrator participation=\"homodiegetic\"": [
+                    1469,
+                    2713
+                ],
+                "narrator_change": [
+                    5524,
+                    5531,
+                    12796,
+                    12798
+                ]
+            }
+        },
+        "10_Kafka": {
+            "FP": {
+                "change_narratee": [
+                    8997,
+                    9002,
+                    9408,
+                    9410,
+                    9902,
+                    9906,
+                    12803,
+                    12812
+                ],
+                "level_change": [
+                    8997,
+                    9002,
+                    9408,
+                    9410,
+                    9902,
+                    9906,
+                    12803,
+                    12812
+                ],
+                "narrative_level number=\u201d1\u201d": [
+                    8997,
+                    9404,
+                    9902,
+                    12800
+                ],
+                "narrative_level number=\u201d1\u201d words=624": [
+                    8997,
+                    9404,
+                    9902,
+                    12800
+                ],
+                "narrative_level number=\u201d2\u201d": [
+                    49,
+                    8994,
+                    9408,
+                    9898,
+                    12803,
+                    13441
+                ],
+                "narrative_level number=\u201d2\u201d words=1953": [
+                    49,
+                    8994,
+                    9408,
+                    9898,
+                    12803,
+                    13441
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    8997,
+                    9404,
+                    9902,
+                    12800
+                ],
+                "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                    9408,
+                    9898,
+                    12803,
+                    13441
+                ],
+                "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                    49,
+                    8994
+                ],
+                "narrator participation=\u201dautodiegetic\u201d": [
+                    49,
+                    8994,
+                    8997,
+                    9404,
+                    9408,
+                    9898,
+                    9902,
+                    12800,
+                    12803,
+                    13441
+                ],
+                "narrator_change": [
+                    8997,
+                    9002,
+                    9408,
+                    9410,
+                    9902,
+                    9906,
+                    12803,
+                    12812
+                ]
             },
-            "10_Kafka": {
-                "FP": {
-                    "change_narratee": [
-                        8997,
-                        9002,
-                        9408,
-                        9410,
-                        9902,
-                        9906,
-                        12803,
-                        12812
-                    ],
-                    "level_change": [
-                        8997,
-                        9002,
-                        9408,
-                        9410,
-                        9902,
-                        9906,
-                        12803,
-                        12812
-                    ],
-                    "narrative_level number=\u201d1\u201d": [
-                        8997,
-                        9404,
-                        9902,
-                        12800
-                    ],
-                    "narrative_level number=\u201d1\u201d words=624": [
-                        8997,
-                        9404,
-                        9902,
-                        12800
-                    ],
-                    "narrative_level number=\u201d2\u201d": [
-                        49,
-                        8994,
-                        9408,
-                        9898,
-                        12803,
-                        13441
-                    ],
-                    "narrative_level number=\u201d2\u201d words=1953": [
-                        49,
-                        8994,
-                        9408,
-                        9898,
-                        12803,
-                        13441
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        8997,
-                        9404,
-                        9902,
-                        12800
-                    ],
-                    "narrative_levelchange completion=\u201dnever_closed\u201d": [
-                        9408,
-                        9898,
-                        12803,
-                        13441
-                    ],
-                    "narrative_levelchange completion=\u201dnever_opened\u201d": [
-                        49,
-                        8994
-                    ],
-                    "narrator participation=\u201dautodiegetic\u201d": [
-                        49,
-                        8994,
-                        8997,
-                        9404,
-                        9408,
-                        9898,
-                        9902,
-                        12800,
-                        12803,
-                        13441
-                    ],
-                    "narrator_change": [
-                        8997,
-                        9002,
-                        9408,
-                        9410,
-                        9902,
-                        9906,
-                        12803,
-                        12812
-                    ]
-                },
-                "MS": {
-                    "change_narratee": [
-                        16537,
-                        16544,
-                        16603,
-                        16612,
-                        16627,
-                        16632
-                    ],
-                    "level_change": [
-                        665,
-                        668,
-                        16537,
-                        16544,
-                        16603,
-                        16612,
-                        16627,
-                        16632,
-                        16945,
-                        16952,
-                        22584,
-                        22590,
-                        23508,
-                        23513,
-                        23667,
-                        23672
-                    ],
-                    "narrative_level completion=\"never opened\"": [
-                        76,
-                        657
-                    ],
-                    "narrative_level number=\"1\"": [
-                        16537,
-                        16603,
-                        16627,
-                        16944
-                    ],
-                    "narrative_level number=\"1\" words=68": [
-                        16936,
-                        16944
-                    ],
-                    "narrative_level number=\"2\"": [
-                        665,
-                        16537,
-                        16603,
-                        16627,
-                        16945,
-                        22567,
-                        23508,
-                        23667
-                    ],
-                    "narrative_level number=\"2\" words=3846": [
-                        23651,
-                        23667
-                    ],
-                    "narrative_level number=\"3\"": [
-                        76,
-                        657,
-                        22584,
-                        23508,
-                        23667,
-                        24467
-                    ],
-                    "narrative_level number=\"3\" words=407": [
-                        24460,
-                        24467
-                    ],
-                    "narrative_levelchange completion=\"complete\"": [
-                        665,
-                        16537,
-                        16603,
-                        16627,
-                        16944,
-                        16945,
-                        22567,
-                        22584,
-                        23508,
-                        23667
-                    ],
-                    "narrative_levelchange completion=\"never closed\"": [
-                        23667,
-                        24467
-                    ],
-                    "narrator participation=\"homodiegetic\"": [
-                        76,
-                        657,
-                        665,
-                        16537,
-                        16603,
-                        16627,
-                        16944,
-                        16945,
-                        22567,
-                        22584,
-                        23508,
-                        23667,
-                        24467
-                    ],
-                    "narrator_change": [
-                        16537,
-                        16544,
-                        16603,
-                        16612,
-                        16627,
-                        16632
-                    ]
-                }
+            "MS": {
+                "change_narratee": [
+                    16537,
+                    16544,
+                    16603,
+                    16612,
+                    16627,
+                    16632
+                ],
+                "level_change": [
+                    665,
+                    668,
+                    16537,
+                    16544,
+                    16603,
+                    16612,
+                    16627,
+                    16632,
+                    16945,
+                    16952,
+                    22584,
+                    22590,
+                    23508,
+                    23513,
+                    23667,
+                    23672
+                ],
+                "narrative_level completion=\"never opened\"": [
+                    76,
+                    657
+                ],
+                "narrative_level number=\"1\"": [
+                    16537,
+                    16603,
+                    16627,
+                    16944
+                ],
+                "narrative_level number=\"1\" words=68": [
+                    16936,
+                    16944
+                ],
+                "narrative_level number=\"2\"": [
+                    665,
+                    16537,
+                    16603,
+                    16627,
+                    16945,
+                    22567,
+                    23508,
+                    23667
+                ],
+                "narrative_level number=\"2\" words=3846": [
+                    23651,
+                    23667
+                ],
+                "narrative_level number=\"3\"": [
+                    76,
+                    657,
+                    22584,
+                    23508,
+                    23667,
+                    24467
+                ],
+                "narrative_level number=\"3\" words=407": [
+                    24460,
+                    24467
+                ],
+                "narrative_levelchange completion=\"complete\"": [
+                    665,
+                    16537,
+                    16603,
+                    16627,
+                    16944,
+                    16945,
+                    22567,
+                    22584,
+                    23508,
+                    23667
+                ],
+                "narrative_levelchange completion=\"never closed\"": [
+                    23667,
+                    24467
+                ],
+                "narrator participation=\"homodiegetic\"": [
+                    76,
+                    657,
+                    665,
+                    16537,
+                    16603,
+                    16627,
+                    16944,
+                    16945,
+                    22567,
+                    22584,
+                    23508,
+                    23667,
+                    24467
+                ],
+                "narrator_change": [
+                    16537,
+                    16544,
+                    16603,
+                    16612,
+                    16627,
+                    16632
+                ]
+            }
+        },
+        "11_Anderson": {
+            "FP": {
+                "narrative_level number=\u201d3\u201d": [
+                    96,
+                    8831
+                ],
+                "narrative_level number=\u201d3\u201d words=1574": [
+                    96,
+                    8831
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    96,
+                    8831
+                ],
+                "narrator participation=\u201dheterodiegetic\u201d": [
+                    96,
+                    8831
+                ]
             },
-            "11_Anderson": {
-                "FP": {
-                    "narrative_level number=\u201d3\u201d": [
-                        96,
-                        8831
-                    ],
-                    "narrative_level number=\u201d3\u201d words=1574": [
-                        96,
-                        8831
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        96,
-                        8831
-                    ],
-                    "narrator participation=\u201dheterodiegetic\u201d": [
-                        96,
-                        8831
-                    ]
-                },
-                "MS": {
-                    "change_narratee": [
-                        6368,
-                        6373,
-                        6936,
-                        6938,
-                        9040,
-                        9045,
-                        9408,
-                        9410,
-                        9902,
-                        9907,
-                        12803,
-                        12812
-                    ],
-                    "level_change": [
-                        6368,
-                        6373,
-                        6936,
-                        6938,
-                        9040,
-                        9045,
-                        9408,
-                        9410,
-                        9902,
-                        9907,
-                        12803,
-                        12812
-                    ],
-                    "narrative_level number=\"1\"": [
-                        6368,
-                        6933,
-                        9040,
-                        9404,
-                        9902,
-                        12800
-                    ],
-                    "narrative_level number=\"1\" words=727": [
-                        12794,
-                        12800
-                    ],
-                    "narrative_level number=\"2\"": [
-                        49,
-                        6368,
-                        6936,
-                        9040,
-                        9408,
-                        9898,
-                        12803,
-                        13441
-                    ],
-                    "narrative_level number=\"2\" words=1850": [
-                        13435,
-                        13441
-                    ],
-                    "narrative_levelchange completion=\"complete\"": [
-                        6368,
-                        6933,
-                        6936,
-                        9040,
-                        9404,
-                        9408,
-                        9898,
-                        9902,
-                        12800
-                    ],
-                    "narrative_levelchange completion=\"never closed\"": [
-                        12803,
-                        13441
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        49,
-                        6368
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        49,
-                        6368,
-                        6933,
-                        6936,
-                        9040,
-                        9408,
-                        9898,
-                        9902,
-                        12800,
-                        12803,
-                        13441
-                    ],
-                    "narrator participation=\"homodiegetic\"": [
-                        9040,
-                        9404
-                    ],
-                    "narrator_change": [
-                        9040,
-                        9045,
-                        9408,
-                        9410,
-                        9902,
-                        9907,
-                        12803,
-                        12812
-                    ]
-                }
+            "MS": {
+                "change_narratee": [
+                    6368,
+                    6373,
+                    6936,
+                    6938,
+                    9040,
+                    9045,
+                    9408,
+                    9410,
+                    9902,
+                    9907,
+                    12803,
+                    12812
+                ],
+                "level_change": [
+                    6368,
+                    6373,
+                    6936,
+                    6938,
+                    9040,
+                    9045,
+                    9408,
+                    9410,
+                    9902,
+                    9907,
+                    12803,
+                    12812
+                ],
+                "narrative_level number=\"1\"": [
+                    6368,
+                    6933,
+                    9040,
+                    9404,
+                    9902,
+                    12800
+                ],
+                "narrative_level number=\"1\" words=727": [
+                    12794,
+                    12800
+                ],
+                "narrative_level number=\"2\"": [
+                    49,
+                    6368,
+                    6936,
+                    9040,
+                    9408,
+                    9898,
+                    12803,
+                    13441
+                ],
+                "narrative_level number=\"2\" words=1850": [
+                    13435,
+                    13441
+                ],
+                "narrative_levelchange completion=\"complete\"": [
+                    6368,
+                    6933,
+                    6936,
+                    9040,
+                    9404,
+                    9408,
+                    9898,
+                    9902,
+                    12800
+                ],
+                "narrative_levelchange completion=\"never closed\"": [
+                    12803,
+                    13441
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    49,
+                    6368
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    49,
+                    6368,
+                    6933,
+                    6936,
+                    9040,
+                    9408,
+                    9898,
+                    9902,
+                    12800,
+                    12803,
+                    13441
+                ],
+                "narrator participation=\"homodiegetic\"": [
+                    9040,
+                    9404
+                ],
+                "narrator_change": [
+                    9040,
+                    9045,
+                    9408,
+                    9410,
+                    9902,
+                    9907,
+                    12803,
+                    12812
+                ]
+            }
+        },
+        "12_Wilde": {
+            "FP": {
+                "change_narratee": [
+                    6242,
+                    6245,
+                    6269,
+                    6272,
+                    6281,
+                    6283,
+                    7158,
+                    7161,
+                    15599,
+                    15601,
+                    15635,
+                    15642,
+                    15651,
+                    15653,
+                    16149,
+                    16151
+                ],
+                "level_change": [
+                    6242,
+                    6245,
+                    6268,
+                    6272,
+                    6281,
+                    6283,
+                    7158,
+                    7161,
+                    15599,
+                    15601,
+                    15635,
+                    15642,
+                    15651,
+                    15653,
+                    16149,
+                    16151
+                ],
+                "narrative_level number=\u201d2\u201d": [
+                    6244,
+                    6269,
+                    15600,
+                    15636,
+                    15652,
+                    16148
+                ],
+                "narrative_level number=\u201d2\u201d words=271": [
+                    6244,
+                    6269,
+                    6282,
+                    7157,
+                    15600,
+                    15636,
+                    15652,
+                    16148
+                ],
+                "narrative_level number=\u201d3\u201d": [
+                    39,
+                    6241,
+                    6269,
+                    6282,
+                    7160,
+                    15597,
+                    15636,
+                    15652,
+                    16151,
+                    23928
+                ],
+                "narrative_level number=\u201d3\u201d words=4103": [
+                    39,
+                    6241,
+                    6269,
+                    6282,
+                    7160,
+                    15597,
+                    15636,
+                    15652,
+                    16151,
+                    23928
+                ],
+                "narrative_levelchange completion=\u201dcomplete\u201d": [
+                    39,
+                    6241,
+                    6244,
+                    6269,
+                    6282,
+                    7157,
+                    7160,
+                    15597,
+                    15600,
+                    15636,
+                    15652,
+                    16148,
+                    16151,
+                    23928
+                ],
+                "narrator participation=\u201dheterodiegetic\u201d": [
+                    39,
+                    6241,
+                    6269,
+                    6282,
+                    7160,
+                    15597,
+                    15636,
+                    15652,
+                    16151,
+                    23928
+                ],
+                "narrator participation=\u201dhomodiegetic\u201d": [
+                    6244,
+                    6269,
+                    6282,
+                    7157,
+                    15600,
+                    15636,
+                    15652,
+                    16148
+                ],
+                "narrator_change": [
+                    6242,
+                    6245,
+                    6269,
+                    6272,
+                    6281,
+                    6283,
+                    7158,
+                    7161,
+                    15599,
+                    15601,
+                    15635,
+                    15642,
+                    15651,
+                    15653,
+                    16149,
+                    16151
+                ]
             },
-            "12_Wilde": {
-                "FP": {
-                    "change_narratee": [
-                        6242,
-                        6245,
-                        6269,
-                        6272,
-                        6281,
-                        6283,
-                        7158,
-                        7161,
-                        15599,
-                        15601,
-                        15635,
-                        15642,
-                        15651,
-                        15653,
-                        16149,
-                        16151
-                    ],
-                    "level_change": [
-                        6242,
-                        6245,
-                        6268,
-                        6272,
-                        6281,
-                        6283,
-                        7158,
-                        7161,
-                        15599,
-                        15601,
-                        15635,
-                        15642,
-                        15651,
-                        15653,
-                        16149,
-                        16151
-                    ],
-                    "narrative_level number=\u201d2\u201d": [
-                        6244,
-                        6269,
-                        15600,
-                        15636,
-                        15652,
-                        16148
-                    ],
-                    "narrative_level number=\u201d2\u201d words=271": [
-                        6244,
-                        6269,
-                        6282,
-                        7157,
-                        15600,
-                        15636,
-                        15652,
-                        16148
-                    ],
-                    "narrative_level number=\u201d3\u201d": [
-                        39,
-                        6241,
-                        6269,
-                        6282,
-                        7160,
-                        15597,
-                        15636,
-                        15652,
-                        16151,
-                        23928
-                    ],
-                    "narrative_level number=\u201d3\u201d words=4103": [
-                        39,
-                        6241,
-                        6269,
-                        6282,
-                        7160,
-                        15597,
-                        15636,
-                        15652,
-                        16151,
-                        23928
-                    ],
-                    "narrative_levelchange completion=\u201dcomplete\u201d": [
-                        39,
-                        6241,
-                        6244,
-                        6269,
-                        6282,
-                        7157,
-                        7160,
-                        15597,
-                        15600,
-                        15636,
-                        15652,
-                        16148,
-                        16151,
-                        23928
-                    ],
-                    "narrator participation=\u201dheterodiegetic\u201d": [
-                        39,
-                        6241,
-                        6269,
-                        6282,
-                        7160,
-                        15597,
-                        15636,
-                        15652,
-                        16151,
-                        23928
-                    ],
-                    "narrator participation=\u201dhomodiegetic\u201d": [
-                        6244,
-                        6269,
-                        6282,
-                        7157,
-                        15600,
-                        15636,
-                        15652,
-                        16148
-                    ],
-                    "narrator_change": [
-                        6242,
-                        6245,
-                        6269,
-                        6272,
-                        6281,
-                        6283,
-                        7158,
-                        7161,
-                        15599,
-                        15601,
-                        15635,
-                        15642,
-                        15651,
-                        15653,
-                        16149,
-                        16151
-                    ]
-                },
-                "MS": {
-                    "level_change": [
-                        549,
-                        551
-                    ],
-                    "narrative_level number=\"1\"": [
-                        549,
-                        8831
-                    ],
-                    "narrative_level number=\"1\" words=1488": [
-                        8824,
-                        8831
-                    ],
-                    "narrative_level number=\"2\"": [
-                        96,
-                        546
-                    ],
-                    "narrative_level number=\"2\" words=86": [
-                        541,
-                        546
-                    ],
-                    "narrative_levelchange completion=\"never closed\"": [
-                        549,
-                        8831
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        96,
-                        546
-                    ],
-                    "narrator participation=\"heterodiegetic\"": [
-                        96,
-                        546,
-                        549,
-                        8831
-                    ]
-                }
+            "MS": {
+                "level_change": [
+                    549,
+                    551
+                ],
+                "narrative_level number=\"1\"": [
+                    549,
+                    8831
+                ],
+                "narrative_level number=\"1\" words=1488": [
+                    8824,
+                    8831
+                ],
+                "narrative_level number=\"2\"": [
+                    96,
+                    546
+                ],
+                "narrative_level number=\"2\" words=86": [
+                    541,
+                    546
+                ],
+                "narrative_levelchange completion=\"never closed\"": [
+                    549,
+                    8831
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    96,
+                    546
+                ],
+                "narrator participation=\"heterodiegetic\"": [
+                    96,
+                    546,
+                    549,
+                    8831
+                ]
+            }
+        },
+        "13_Bierce": {
+            "FP": {
+                "narrative_level number=\u201d 3\u201d ": [
+                    60,
+                    21231
+                ],
+                "narrative_level number=\u201d3\u201d words=3765": [
+                    60,
+                    21231
+                ],
+                "narrative_levelchange completion=\u201d complete\u201d ": [
+                    60,
+                    21231
+                ],
+                "narrator participation=\u201dheterodiegetic\u201d": [
+                    60,
+                    21231
+                ]
             },
-            "13_Bierce": {
-                "FP": {
-                    "narrative_level number=\u201d 3\u201d ": [
-                        60,
-                        21231
-                    ],
-                    "narrative_level number=\u201d3\u201d words=3765": [
-                        60,
-                        21231
-                    ],
-                    "narrative_levelchange completion=\u201d complete\u201d ": [
-                        60,
-                        21231
-                    ],
-                    "narrator participation=\u201dheterodiegetic\u201d": [
-                        60,
-                        21231
-                    ]
-                },
-                "MS": {
-                    "change_narratee": [
-                        6244,
-                        6248,
-                        6269,
-                        6272,
-                        6282,
-                        6291,
-                        7160,
-                        7174,
-                        10332,
-                        10337,
-                        10851,
-                        10856,
-                        15749,
-                        15753,
-                        16151,
-                        16158,
-                        20614,
-                        20617,
-                        20668,
-                        20677,
-                        20687,
-                        20694,
-                        20964,
-                        20967
-                    ],
-                    "level_change": [
-                        3470,
-                        3475,
-                        6244,
-                        6248,
-                        6269,
-                        6272,
-                        6282,
-                        6291,
-                        7160,
-                        7174,
-                        10332,
-                        10337,
-                        10851,
-                        10856,
-                        12680,
-                        12684,
-                        13335,
-                        13342,
-                        15749,
-                        15753,
-                        16151,
-                        16158,
-                        20614,
-                        20617,
-                        20668,
-                        20677,
-                        20687,
-                        20694,
-                        20964,
-                        20967
-                    ],
-                    "narrative_level number=\"1\"": [
-                        6244,
-                        6269,
-                        6282,
-                        7157,
-                        10332,
-                        10848,
-                        15749,
-                        16148,
-                        20614,
-                        20668,
-                        20687,
-                        20961
-                    ],
-                    "narrative_level number=\"1\" words=404": [
-                        20952,
-                        20961
-                    ],
-                    "narrative_level number=\"2\"": [
-                        3470,
-                        6241,
-                        6269,
-                        6282,
-                        7160,
-                        10332,
-                        10851,
-                        12677,
-                        13335,
-                        15749,
-                        16151,
-                        20611,
-                        20668,
-                        20687,
-                        20964,
-                        23928
-                    ],
-                    "narrative_level number=\"2\" words=3216": [
-                        23923,
-                        23928
-                    ],
-                    "narrative_level number=\"3\"": [
-                        39,
-                        3467,
-                        12680,
-                        13332
-                    ],
-                    "narrative_level number=\"3\" words=754": [
-                        13323,
-                        13332
-                    ],
-                    "narrative_levelchange completion=\"complete\"": [
-                        3470,
-                        6241,
-                        6244,
-                        6269,
-                        6282,
-                        7157
-                    ],
-                    "narrative_levelchange completion=\"never opened\"": [
-                        39,
-                        3467
-                    ],
-                    "narrator participation=\"autodiegetic\"": [
-                        6244,
-                        6269,
-                        6282,
-                        7157,
-                        15749,
-                        16148,
-                        20614,
-                        20668,
-                        20687,
-                        20961
-                    ],
-                    "narrator participation=\"heterodiegetic\"": [
-                        39,
-                        6241,
-                        6269,
-                        6282,
-                        7160,
-                        10332,
-                        10851,
-                        15749,
-                        16151,
-                        20611,
-                        20668,
-                        20687,
-                        20964,
-                        23928
-                    ],
-                    "narrator participation=\"homodiegetic\"": [
-                        10332,
-                        10848
-                    ],
-                    "narrator_change": [
-                        6244,
-                        6248,
-                        6269,
-                        6272,
-                        6282,
-                        6291,
-                        7160,
-                        7174,
-                        10332,
-                        10337,
-                        10851,
-                        10856,
-                        15749,
-                        15753,
-                        16151,
-                        16158,
-                        20614,
-                        20617,
-                        20668,
-                        20677,
-                        20687,
-                        20694,
-                        20964,
-                        20967
-                    ]
-                }
+            "MS": {
+                "change_narratee": [
+                    6244,
+                    6248,
+                    6269,
+                    6272,
+                    6282,
+                    6291,
+                    7160,
+                    7174,
+                    10332,
+                    10337,
+                    10851,
+                    10856,
+                    15749,
+                    15753,
+                    16151,
+                    16158,
+                    20614,
+                    20617,
+                    20668,
+                    20677,
+                    20687,
+                    20694,
+                    20964,
+                    20967
+                ],
+                "level_change": [
+                    3470,
+                    3475,
+                    6244,
+                    6248,
+                    6269,
+                    6272,
+                    6282,
+                    6291,
+                    7160,
+                    7174,
+                    10332,
+                    10337,
+                    10851,
+                    10856,
+                    12680,
+                    12684,
+                    13335,
+                    13342,
+                    15749,
+                    15753,
+                    16151,
+                    16158,
+                    20614,
+                    20617,
+                    20668,
+                    20677,
+                    20687,
+                    20694,
+                    20964,
+                    20967
+                ],
+                "narrative_level number=\"1\"": [
+                    6244,
+                    6269,
+                    6282,
+                    7157,
+                    10332,
+                    10848,
+                    15749,
+                    16148,
+                    20614,
+                    20668,
+                    20687,
+                    20961
+                ],
+                "narrative_level number=\"1\" words=404": [
+                    20952,
+                    20961
+                ],
+                "narrative_level number=\"2\"": [
+                    3470,
+                    6241,
+                    6269,
+                    6282,
+                    7160,
+                    10332,
+                    10851,
+                    12677,
+                    13335,
+                    15749,
+                    16151,
+                    20611,
+                    20668,
+                    20687,
+                    20964,
+                    23928
+                ],
+                "narrative_level number=\"2\" words=3216": [
+                    23923,
+                    23928
+                ],
+                "narrative_level number=\"3\"": [
+                    39,
+                    3467,
+                    12680,
+                    13332
+                ],
+                "narrative_level number=\"3\" words=754": [
+                    13323,
+                    13332
+                ],
+                "narrative_levelchange completion=\"complete\"": [
+                    3470,
+                    6241,
+                    6244,
+                    6269,
+                    6282,
+                    7157
+                ],
+                "narrative_levelchange completion=\"never opened\"": [
+                    39,
+                    3467
+                ],
+                "narrator participation=\"autodiegetic\"": [
+                    6244,
+                    6269,
+                    6282,
+                    7157,
+                    15749,
+                    16148,
+                    20614,
+                    20668,
+                    20687,
+                    20961
+                ],
+                "narrator participation=\"heterodiegetic\"": [
+                    39,
+                    6241,
+                    6269,
+                    6282,
+                    7160,
+                    10332,
+                    10851,
+                    15749,
+                    16151,
+                    20611,
+                    20668,
+                    20687,
+                    20964,
+                    23928
+                ],
+                "narrator participation=\"homodiegetic\"": [
+                    10332,
+                    10848
+                ],
+                "narrator_change": [
+                    6244,
+                    6248,
+                    6269,
+                    6272,
+                    6282,
+                    6291,
+                    7160,
+                    7174,
+                    10332,
+                    10337,
+                    10851,
+                    10856,
+                    15749,
+                    15753,
+                    16151,
+                    16158,
+                    20614,
+                    20617,
+                    20668,
+                    20677,
+                    20687,
+                    20694,
+                    20964,
+                    20967
+                ]
             }
         }
     },

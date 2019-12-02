@@ -12,7 +12,6 @@ json_exists = sys.argv[1] == "-j"
 n = 2 if json_exists else 1
 dir = sys.argv[n]
 dirname = os.path.basename(os.path.dirname(dir))
-print("dirname: ", dirname)
 json_dir = "../json"
 result_dir = "../results"
 
@@ -39,10 +38,8 @@ for fn in filenames:
 if not json_exists:
     json_name = dirname + ".json"
     dataset = segeval.Dataset()
-    dataset[dirname] = {}
-    datanames = []
     for fn in filenames:
-        dataset[dirname][os.path.basename(fn)[:-4]] = {}
+        dataset[os.path.basename(fn)[:-4]] = {}
         with open(fn, newline="") as csvfile:
             data = list(csv.reader(csvfile, delimiter=","))
         annotator = data[0][1]
@@ -52,19 +49,18 @@ if not json_exists:
             # safe masses and prepare stuff if annotator changes
             if row[1] != annotator:
                 # just look at boundaries for each category
-                print(tmpmass)
                 tmpmass = {key:sorted(list(set(value))) for key, value in tmpmass.items()}
-                print(tmpmass)
-                dataset[dirname][os.path.basename(fn)[:-4]][annotator] = tmpmass
+                dataset[os.path.basename(fn)[:-4]][annotator] = tmpmass
                 annotator = row[1]
                 tmpmass = defaultdict(list)
             tmpmass[row[2]].append(int(row[4]))
             tmpmass[row[2]].append(int(row[5]) + 1)  # +1 because always wants first char of new segment
     segeval.output_linear_mass_json(os.path.join(json_dir, json_name), dataset)
-    print(json_dir)
-    print(json_name)
+
 
 # calculate statistics
+if json_exists:
+    dataset = segeval.input_linear_mass_json(dir)
 results = []
 for fn in filenames:
     r = {}

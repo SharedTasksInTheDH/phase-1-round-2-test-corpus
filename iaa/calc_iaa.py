@@ -95,7 +95,7 @@ for cat in cats:
         results[cat] = {"a1": a1, "a2": a2, "segsim": segsim, "boundsim": boundsim}
 
 # writing results
-of_name = dirname + "_results.csv"
+of_name = os.path.basename(input_file)
 with open(os.path.join(result_dir, of_name), "w") as of:
     of.write("Category, Annotator 1, Annotator 2, SegSim, BoundSim\n")
     for cat in results:

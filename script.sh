@@ -26,7 +26,7 @@ do
 		echo "  Converting $t (length: $tl)"
 		touch $TARGETDIR/$VARIANT/$t.csv
 		mkdir -p $TEMPDIR/$VARIANT
-		for f in $(ls $VARIANT/$t*.xmi)
+		for f in $(ls $VARIANT/$t*.xmi*)
 		do
 			
 			echo "    by ${f:$tl:2}"
@@ -34,6 +34,7 @@ do
 			
 		done
 		cat $TEMPDIR/${VARIANT}/*.csv >> $TARGETDIR/$VARIANT/$t.csv
+		rm $TEMPDIR/${VARIANT}/*.csv
 	done
 done
 

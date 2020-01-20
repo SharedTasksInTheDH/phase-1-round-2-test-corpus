@@ -1,31 +1,14 @@
-AJ0,AJ,Frame Narrative,,70,15889
-AJ1,AJ,Dream,,8753,9760
-AJ2,AJ,Embedded Narrative,,9875,10084
-AJ3,AJ,Embedded Narrative,,10143,10305
-AS0,AS,Original,,0,5
-AS1,AS,Original,,70,15889
-AS2,AS,Embedded Dream/(psychotic scene),,665,875
-AS3,AS,Embedded Dream/(psychotic scene),,992,2789
-AS4,AS,Embedded Dream/(psychotic scene),,3487,3607
-AS5,AS,Embedded Dream/(psychotic scene),,3659,3827
-AS6,AS,embedded,,5069,5107
-AS7,AS,Embedded Dream/(psychotic scene),,6087,6155
-AS8,AS,Embedded Dream/(psychotic scene),,6156,6181
-AS9,AS,Embedded Dream/(psychotic scene),,8041,8126
-AS10,AS,Embedded Dream/(psychotic scene),,8267,8751
-AS11,AS,Embedded Dream/(psychotic scene),,9875,10085
-AS12,AS,Embedded Dream/(psychotic scene),,14016,14280
-AJ0,AJ,Frame Narrative,,60,22626
+AJ0,AJ,Original,,60,22626
 AJ1,AJ,Dream,,701,19946
-AJ2,AJ,Flash Forward,,827,970
-AJ3,AJ,Dream 2,,3376,3516
-AJ4,AJ,Embedded Narrative,,7836,8198
-AJ5,AJ,Dream 2,,9881,10074
-AJ6,AJ,Interruptive Narrative,,20735,22616
-AS0,AS,original narrative,,60,363
-AS1,AS,original narrative,,364,481
-AS2,AS,original narrative,,482,592
-AS3,AS,"interruptive ""dream""/narrative",,593,826
-AS4,AS,original narrative,,827,970
-AS5,AS,"interruptive ""dream""/narrative",,971,21424
-AS6,AS,original narrative,,21431,22626
+AJ2,AJ,Flashforward,,827,970
+AJ3,AJ,Dream_2,,3376,3516
+AJ4,AJ,Embedded,,7836,8198
+AJ5,AJ,Dream_2,,9881,10074
+AJ6,AJ,Interruptive,,20735,22616
+MS0,MS,Original,,60,363
+MS1,MS,Original,,364,481
+MS2,MS,Original,,482,592
+MS3,MS,Interruptive,,593,826
+MS4,MS,Original,,827,970
+MS5,MS,Interruptive,,971,21424
+MS6,MS,Original,,21431,22626

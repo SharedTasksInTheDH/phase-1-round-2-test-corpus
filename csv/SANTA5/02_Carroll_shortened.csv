@@ -1,16 +1,3 @@
-YH0,YH,"L1N1|n_id:a,n_d:he,t:undef",,70,4796
-YH1,YH,"L2N1|n_id:b,n_d:he,t:id,b_t:o/a,b_sc:L1N1",,4797,5034
-YH2,YH,"L1N1|n_id:a,n_d:he,t:undef",,5035,5966
-YH3,YH,"L2N1|n_id:b,n_d:he,t:id,b_t:o/a,b_sc:L1N1",,5967,6537
-YH4,YH,"L1N1|n_id:a,n_d:he,t:undef",,6538,8092
-YH5,YH,"L2N1|n_id:b,n_d:he,t:id,b_t:o/a,b_sc:L1N1",,8093,8954
-YH6,YH,"L1N1|n_id:a,n_d:he,t:undef",,8955,9653
-YH7,YH,"L2N1|n_id:b,n_d:he,t:id,b_t:o/a,b_sc:L1N1",,9655,9760
-YH8,YH,"L1N1|n_id:a,n_d:he,t:undef",,9762,9874
-YH9,YH,"L2N1|n_id:b,n_d:he,t:id,b_t:o/a,b_sc:L1N1",,9875,10085
-YH10,YH,"L1N1|n_id:a,n_d:he,t:undef",,10086,14064
-YH11,YH,"L2N1|n_id:b,n_d:he,t:id,b_t:o/a,b_sc:L1N1",,14065,14280
-YH12,YH,"L1N1|n_id:a,n_d:he,t:undef",,14282,15889
 JH0,JH,"L1N1|n_id:a,n_d:he,t:undef",,60,19871
 JH1,JH,"L1N2|n_id:a,n_d:he,t:undef,b_t:o/a",,19872,22626
 YH0,YH,"L1N1|n_id:a,n_d:he,t:undef,mi=L2N1",,60,1491

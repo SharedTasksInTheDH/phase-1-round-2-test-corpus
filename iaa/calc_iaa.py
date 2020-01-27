@@ -56,7 +56,11 @@ if not json_exists:
 
     with open(input_file, newline="") as csvfile:
         data = list(csv.reader(csvfile, delimiter=","))
-    annotator = data[0][1]
+    try:
+        annotator = data[0][1]
+    except IndexError as Er:
+        print("\nError in file: " + input_file, file=sys.stderr)
+        raise Er
     tmpmass = defaultdict(list)
     # iterate over data entries
     for row in data:
@@ -87,8 +91,12 @@ for cat in cats:
         l1 = dataset[a1][cat]
         l2 = dataset[a2][cat]
         if l1 != [] and l2 != []:
-            segsim = segeval.segmentation_similarity(l1, l2)
-            boundsim = segeval.boundary_similarity(l1, l2)
+            try:
+                segsim = segeval.segmentation_similarity(l1, l2)
+                boundsim = segeval.boundary_similarity(l1, l2)
+            except segeval.util.SegmentationMetricError as Er:
+                print("\nError on file: " + input_file, file=sys.stderr)
+                raise Er
         else:
             segsim = boundsim = "N/A"
 

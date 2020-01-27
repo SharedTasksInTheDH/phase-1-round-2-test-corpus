@@ -1,0 +1,48 @@
+
+Error on file: ../csv/SANTA1/01_Buechner.csv
+Traceback (most recent call last):
+  File "calc_iaa.py", line 99, in <module>
+    raise Er
+  File "calc_iaa.py", line 95, in <module>
+    segsim = segeval.segmentation_similarity(l1, l2)
+  File "/usr/local/lib/python3.6/dist-packages/segeval/similarity/segmentation.py", line 45, in segmentation_similarity
+    SIMILARITY_METRIC_DEFAULTS)
+  File "/usr/local/lib/python3.6/dist-packages/segeval/util/__init__.py", line 81, in __fnc_metric__
+    return fnc_metric(hypothesis, reference, **metric_kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/segeval/similarity/segmentation.py", line 24, in __segmentation_similarity__
+    statistics = __boundary_statistics__(*args, **metric_kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/segeval/similarity/__init__.py", line 53, in __boundary_statistics__
+    len(segs_a), len(segs_b)))
+segeval.util.SegmentationMetricError: Segmentations differ in length (15951 != 15889)
+
+Error on file: ../csv/SANTA4/01_Buechner.csv
+Traceback (most recent call last):
+  File "calc_iaa.py", line 99, in <module>
+    raise Er
+  File "calc_iaa.py", line 95, in <module>
+    segsim = segeval.segmentation_similarity(l1, l2)
+  File "/usr/local/lib/python3.6/dist-packages/segeval/similarity/segmentation.py", line 45, in segmentation_similarity
+    SIMILARITY_METRIC_DEFAULTS)
+  File "/usr/local/lib/python3.6/dist-packages/segeval/util/__init__.py", line 81, in __fnc_metric__
+    return fnc_metric(hypothesis, reference, **metric_kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/segeval/similarity/segmentation.py", line 24, in __segmentation_similarity__
+    statistics = __boundary_statistics__(*args, **metric_kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/segeval/similarity/__init__.py", line 53, in __boundary_statistics__
+    len(segs_a), len(segs_b)))
+segeval.util.SegmentationMetricError: Segmentations differ in length (15889 != 15951)
+
+Error in file: ../csv/SANTA5/09_Melville_shortened.csv
+Traceback (most recent call last):
+  File "calc_iaa.py", line 63, in <module>
+    raise Er
+  File "calc_iaa.py", line 60, in <module>
+    annotator = data[0][1]
+IndexError: list index out of range
+
+Error in file: ../csv/SANTA8/09_Melville_shortened.csv
+Traceback (most recent call last):
+  File "calc_iaa.py", line 63, in <module>
+    raise Er
+  File "calc_iaa.py", line 60, in <module>
+    annotator = data[0][1]
+IndexError: list index out of range

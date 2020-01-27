@@ -1,0 +1,178 @@
+{
+    "items": {
+        "FP": {
+            "level_change": [
+                665,
+                3,
+                21916,
+                6,
+                2198
+            ],
+            "narrative_level number=\u201d1\u201d": [
+                658,
+                21909,
+                2221
+            ],
+            "narrative_level number=\u201d1\u201d words=3888": [
+                658,
+                21909,
+                2221
+            ],
+            "narrative_level number=\u201d2\u201d": [
+                76,
+                581,
+                21927,
+                1910,
+                294
+            ],
+            "narrative_level number=\u201d2\u201d words=438": [
+                76,
+                581,
+                21927,
+                1910,
+                294
+            ],
+            "narrative_levelchange completion=\u201dcomplete\u201d": [
+                658,
+                21909,
+                2221
+            ],
+            "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                22584,
+                1910,
+                294
+            ],
+            "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                76,
+                581,
+                24131
+            ],
+            "narrator participation=\u201dhomodiegetic\u201d": [
+                76,
+                24418,
+                294
+            ]
+        },
+        "MS": {
+            "change_narratee": [
+                16537,
+                7,
+                59,
+                9,
+                15,
+                5,
+                8156
+            ],
+            "level_change": [
+                665,
+                3,
+                15869,
+                7,
+                59,
+                9,
+                15,
+                5,
+                313,
+                7,
+                5632,
+                6,
+                918,
+                5,
+                154,
+                5,
+                1116
+            ],
+            "narrative_level completion=\"never opened\"": [
+                76,
+                581,
+                24131
+            ],
+            "narrative_level number=\"1\"": [
+                16537,
+                66,
+                24,
+                317,
+                7844
+            ],
+            "narrative_level number=\"1\" words=68": [
+                16936,
+                8,
+                7844
+            ],
+            "narrative_level number=\"2\"": [
+                665,
+                15872,
+                66,
+                24,
+                318,
+                5622,
+                941,
+                159,
+                1121
+            ],
+            "narrative_level number=\"2\" words=3846": [
+                23651,
+                16,
+                1121
+            ],
+            "narrative_level number=\"3\"": [
+                76,
+                581,
+                21927,
+                924,
+                159,
+                800,
+                321
+            ],
+            "narrative_level number=\"3\" words=407": [
+                24460,
+                7,
+                321
+            ],
+            "narrative_levelchange completion=\"complete\"": [
+                665,
+                15872,
+                66,
+                24,
+                317,
+                1,
+                5622,
+                17,
+                924,
+                159,
+                1121
+            ],
+            "narrative_levelchange completion=\"never closed\"": [
+                23667,
+                800,
+                321
+            ],
+            "narrator participation=\"homodiegetic\"": [
+                76,
+                581,
+                8,
+                15872,
+                66,
+                24,
+                317,
+                1,
+                5622,
+                17,
+                924,
+                159,
+                800,
+                321
+            ],
+            "narrator_change": [
+                16537,
+                7,
+                59,
+                9,
+                15,
+                5,
+                8156
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

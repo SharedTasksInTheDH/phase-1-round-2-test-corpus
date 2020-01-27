@@ -1,0 +1,31 @@
+{
+    "items": {
+        "AJ": {
+            "Embedded": [
+                549,
+                8282,
+                76
+            ],
+            "Original": [
+                96,
+                8735,
+                76
+            ]
+        },
+        "MS": {
+            "Flashback": [
+                549,
+                8282,
+                76
+            ],
+            "Original": [
+                96,
+                450,
+                8290,
+                4,
+                67
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

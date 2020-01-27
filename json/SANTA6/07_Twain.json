@@ -1,0 +1,44 @@
+{
+    "items": {
+        "FP": {
+            "narrative_level number=\u201d2\u201d": [
+                43,
+                22430,
+                144
+            ],
+            "narrative_level number=\u201d2\u201d words=4358": [
+                43,
+                22430,
+                144
+            ],
+            "narrative_levelchange completion=\u201dcomplete\u201d": [
+                43,
+                22430,
+                144
+            ],
+            "narrator participation=\u201dautodiegetic\u201d": [
+                43,
+                22430,
+                144
+            ]
+        },
+        "MS": {
+            "narrative_level number=\"1\"": [
+                43,
+                22430,
+                144
+            ],
+            "narrative_level number=\"1\" words=4358": [
+                22465,
+                8,
+                144
+            ],
+            "narrator participation=\"autodiegetic\"": [
+                43,
+                22430,
+                144
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

@@ -1,0 +1,29 @@
+{
+    "items": {
+        "AJ": {
+            "Embedded": [
+                665,
+                21902,
+                2221
+            ],
+            "Original": [
+                76,
+                24418,
+                294
+            ]
+        },
+        "MS": {
+            "Embedded": [
+                665,
+                21902,
+                2221
+            ],
+            "Original": [
+                76,
+                24418,
+                294
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

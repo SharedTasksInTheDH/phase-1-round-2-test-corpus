@@ -1,0 +1,8 @@
+Category, Annotator 1, Annotator 2, SegSim, BoundSim
+narrative_level number="1", FP, MS, N/A, N/A
+narrative_level number="1" words=4358, FP, MS, N/A, N/A
+narrative_level number=”2”, FP, MS, N/A, N/A
+narrative_level number=”2” words=4358, FP, MS, N/A, N/A
+narrative_levelchange completion=”complete”, FP, MS, N/A, N/A
+narrator participation="autodiegetic", FP, MS, N/A, N/A
+narrator participation=”autodiegetic”, FP, MS, N/A, N/A

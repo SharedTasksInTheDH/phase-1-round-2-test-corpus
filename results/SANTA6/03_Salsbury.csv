@@ -1,0 +1,23 @@
+Category, Annotator 1, Annotator 2, SegSim, BoundSim
+boundary transgression="metalepsis", FP, MS, N/A, N/A
+change_narratee, FP, MS, N/A, N/A
+level_change, FP, MS, 0.9992713361872665998724838328, 0.2
+narrative_level number="1", FP, MS, N/A, N/A
+narrative_level number="1" words=1057, FP, MS, N/A, N/A
+narrative_level number="2", FP, MS, N/A, N/A
+narrative_level number="2" words=936, FP, MS, N/A, N/A
+narrative_level number=”1”, FP, MS, N/A, N/A
+narrative_level number=”1” words=1064, FP, MS, N/A, N/A
+narrative_level number=”2”, FP, MS, N/A, N/A
+narrative_level number=”2” words=926, FP, MS, N/A, N/A
+narrative_levelchange completion="complete", FP, MS, N/A, N/A
+narrative_levelchange completion="never closed", FP, MS, N/A, N/A
+narrative_levelchange completion="never opened", FP, MS, N/A, N/A
+narrative_levelchange completion=”complete”, FP, MS, N/A, N/A
+narrative_levelchange completion=”never_closed”, FP, MS, N/A, N/A
+narrative_levelchange completion=”never_opened”, FP, MS, N/A, N/A
+narrator participation="autodiegetic", FP, MS, N/A, N/A
+narrator participation="homodiegetic", FP, MS, N/A, N/A
+narrator participation=”autodiegetic”, FP, MS, N/A, N/A
+narrator participation=”homodiegetic”, FP, MS, N/A, N/A
+narrator_change, FP, MS, N/A, N/A

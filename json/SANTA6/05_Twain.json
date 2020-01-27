@@ -1,0 +1,116 @@
+{
+    "items": {
+        "FP": {
+            "change_narratee": [
+                2218,
+                8,
+                7557
+            ],
+            "level_change": [
+                2218,
+                8,
+                7557
+            ],
+            "narrative_level number=\u201d1\u201d": [
+                2220,
+                7476,
+                87
+            ],
+            "narrative_level number=\u201d1\u201d words=1387": [
+                2220,
+                7476,
+                87
+            ],
+            "narrative_level number=\u201d2\u201d": [
+                21,
+                2196,
+                7566
+            ],
+            "narrative_level number=\u201d2\u201d words=410": [
+                21,
+                2196,
+                7566
+            ],
+            "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                2220,
+                7476,
+                87
+            ],
+            "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                21,
+                2196,
+                7566
+            ],
+            "narrator participation=\u201dhomodiegetic\u201d": [
+                41,
+                2176,
+                3,
+                7476,
+                87
+            ],
+            "narrator_change": [
+                2218,
+                8,
+                7557
+            ]
+        },
+        "MS": {
+            "level_change": [
+                2220,
+                6,
+                7557
+            ],
+            "narratee_change": [
+                2220,
+                6,
+                7557
+            ],
+            "narrative_level number=\"1\"": [
+                2220,
+                7476,
+                87
+            ],
+            "narrative_level number=\"1\" words=1387": [
+                9690,
+                6,
+                87
+            ],
+            "narrative_level number=\"2\"": [
+                187,
+                2030,
+                7566
+            ],
+            "narrative_level number=\"2\" words=352": [
+                2213,
+                4,
+                7566
+            ],
+            "narrative_levelchange completion=\"never closed\"": [
+                2220,
+                7476,
+                87
+            ],
+            "narrative_levelchange completion=\"never opened\"": [
+                187,
+                2030,
+                7566
+            ],
+            "narrator participation=\"autodiegetic\"": [
+                187,
+                2030,
+                7566
+            ],
+            "narrator participation=\"homodiegetic\"": [
+                2220,
+                7476,
+                87
+            ],
+            "narrator_change": [
+                2220,
+                6,
+                7557
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

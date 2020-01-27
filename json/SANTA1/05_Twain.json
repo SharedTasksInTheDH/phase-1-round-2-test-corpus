@@ -1,0 +1,29 @@
+{
+    "items": {
+        "AJ": {
+            "Embedded": [
+                2220,
+                7476,
+                87
+            ],
+            "Frame": [
+                187,
+                9509,
+                87
+            ]
+        },
+        "MS": {
+            "Interruptive": [
+                2220,
+                7476,
+                87
+            ],
+            "Original": [
+                187,
+                2030,
+                7566
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

@@ -1,0 +1,7 @@
+Category, Annotator 1, Annotator 2, SegSim, BoundSim
+L1N1|n_id:a,n_d:he,t:q, JH, YH, N/A, N/A
+L1N1|n_id:a,n_d:ho,t:n, JH, YH, N/A, N/A
+L1N2|n_id:a,n_d:ho,t:undef, JH, YH, N/A, N/A
+L1N2|n_id:b,n_d:ho,t:undef, JH, YH, N/A, N/A
+L2N1|n_id:b,n_d:ho,t:undef, JH, YH, N/A, N/A
+L2N1|n_id:c,n_d:ho,t:ts,b_t:i/v&o/v,b_sc:L1N2, JH, YH, N/A, N/A

@@ -1,0 +1,34 @@
+{
+    "items": {
+        "JH": {
+            "L1N1|n_id:a,n_d:ho,t:n": [
+                43,
+                8828,
+                13746
+            ],
+            "L1N2|n_id:a,d:ho,t:n": [
+                8871,
+                13602,
+                144
+            ]
+        },
+        "YH": {
+            "L1N1|n_id:a,n_d:ho,t:undef": [
+                43,
+                8165,
+                14409
+            ],
+            "L1N2|n_id:a,n_d:ho,t:undef": [
+                8213,
+                3842,
+                10562
+            ],
+            "L1N3|n_id:a,n_d:ho,t:undef": [
+                12060,
+                10413,
+                144
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

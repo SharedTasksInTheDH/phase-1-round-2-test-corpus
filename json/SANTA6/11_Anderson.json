@@ -1,0 +1,71 @@
+{
+    "items": {
+        "FP": {
+            "narrative_level number=\u201d3\u201d": [
+                96,
+                8735,
+                76
+            ],
+            "narrative_level number=\u201d3\u201d words=1574": [
+                96,
+                8735,
+                76
+            ],
+            "narrative_levelchange completion=\u201dcomplete\u201d": [
+                96,
+                8735,
+                76
+            ],
+            "narrator participation=\u201dheterodiegetic\u201d": [
+                96,
+                8735,
+                76
+            ]
+        },
+        "MS": {
+            "level_change": [
+                549,
+                2,
+                8356
+            ],
+            "narrative_level number=\"1\"": [
+                549,
+                8282,
+                76
+            ],
+            "narrative_level number=\"1\" words=1488": [
+                8824,
+                7,
+                76
+            ],
+            "narrative_level number=\"2\"": [
+                96,
+                450,
+                8361
+            ],
+            "narrative_level number=\"2\" words=86": [
+                541,
+                5,
+                8361
+            ],
+            "narrative_levelchange completion=\"never closed\"": [
+                549,
+                8282,
+                76
+            ],
+            "narrative_levelchange completion=\"never opened\"": [
+                96,
+                450,
+                8361
+            ],
+            "narrator participation=\"heterodiegetic\"": [
+                96,
+                450,
+                3,
+                8282,
+                76
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

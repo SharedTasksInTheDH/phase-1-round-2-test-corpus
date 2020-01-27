@@ -1,0 +1,11 @@
+Category, Annotator 1, Annotator 2, SegSim, BoundSim
+Analepsis, AS, KH, N/A, N/A
+Level DEGREE = "1", AS, KH, N/A, N/A
+Level DEGREE = "2", AS, KH, N/A, N/A
+Level, DEGREE= 1, AS, KH, N/A, N/A
+Level, DEGREE= 2, AS, KH, N/A, N/A
+Prolepsis, AS, KH, N/A, N/A
+fid, PERS= Benghal Light, AS, KH, N/A, N/A
+fid, PERS= Catherine Wheel, AS, KH, N/A, N/A
+fid, PERS= King, AS, KH, N/A, N/A
+fid, PERS= Remarkable Rocket, AS, KH, N/A, N/A

@@ -1,0 +1,67 @@
+{
+    "items": {
+        "JH": {
+            "L1N1|n_id:a,n_d:ts": [
+                74,
+                5408,
+                14496
+            ],
+            "L1N1|n_id:b,n_d:ts": [
+                5524,
+                7192,
+                7262
+            ],
+            "L1N1|n_id:c,n_d:ts": [
+                12796,
+                7057,
+                125
+            ]
+        },
+        "YH": {
+            "L1N1|n_id:a,n_d:ho,t:undef": [
+                41,
+                1312,
+                1363,
+                2766,
+                14496
+            ],
+            "L1N2|n_id:a,n_d:ho,t:undef": [
+                5487,
+                776,
+                399,
+                1763,
+                2540,
+                606,
+                600,
+                545,
+                7262
+            ],
+            "L1N3|n_id:a,n_d:ho,t:undef": [
+                12721,
+                7132,
+                125
+            ],
+            "L2N1|n_id:b,n_d:he,t:ts,b_t:o/v,b_sc:L1N1": [
+                1353,
+                1360,
+                17265
+            ],
+            "L2N2|n_id:a,n_d:ho,t:dsa,b_t:i/v,b_sc:L1N2": [
+                6266,
+                393,
+                13319
+            ],
+            "L2N3|n_id:a,n_d:ho,t:undef,b_t:i/v,b_sc:L1N2": [
+                8425,
+                2537,
+                9016
+            ],
+            "L2N4|n_id:a,n_d:ho,t:undef,b_t:i/v:b_sc:L1N2": [
+                11571,
+                597,
+                7810
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

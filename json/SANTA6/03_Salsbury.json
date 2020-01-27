@@ -1,0 +1,168 @@
+{
+    "items": {
+        "FP": {
+            "change_narratee": [
+                3519,
+                7,
+                4723,
+                5,
+                379,
+                4,
+                1244,
+                5,
+                1094
+            ],
+            "level_change": [
+                3519,
+                7,
+                4723,
+                5,
+                379,
+                4,
+                1244,
+                5,
+                1094
+            ],
+            "narrative_level number=\u201d1\u201d": [
+                3519,
+                4729,
+                385,
+                1245,
+                1102
+            ],
+            "narrative_level number=\u201d1\u201d words=1064": [
+                3519,
+                4729,
+                385,
+                1245,
+                1102
+            ],
+            "narrative_level number=\u201d2\u201d": [
+                48,
+                3468,
+                4735,
+                379,
+                1251,
+                1037,
+                62
+            ],
+            "narrative_level number=\u201d2\u201d words=926": [
+                48,
+                3468,
+                4735,
+                379,
+                1251,
+                1037,
+                62
+            ],
+            "narrative_levelchange completion=\u201dcomplete\u201d": [
+                3519,
+                4729,
+                385,
+                1245,
+                1102
+            ],
+            "narrative_levelchange completion=\u201dnever_closed\u201d": [
+                8251,
+                379,
+                1251,
+                1037,
+                62
+            ],
+            "narrative_levelchange completion=\u201dnever_opened\u201d": [
+                48,
+                3468,
+                7464
+            ],
+            "narrator participation=\u201dautodiegetic\u201d": [
+                48,
+                3468,
+                4735,
+                379,
+                1251,
+                1037,
+                62
+            ],
+            "narrator participation=\u201dhomodiegetic\u201d": [
+                3519,
+                4729,
+                385,
+                1245,
+                1102
+            ],
+            "narrator_change": [
+                3519,
+                7,
+                4723,
+                5,
+                379,
+                4,
+                1244,
+                5,
+                1094
+            ]
+        },
+        "MS": {
+            "boundary transgression=\"metalepsis\"": [
+                9490,
+                41,
+                1449
+            ],
+            "level_change": [
+                3519,
+                7,
+                5964,
+                5,
+                1485
+            ],
+            "narrative_level number=\"1\"": [
+                3519,
+                5971,
+                1490
+            ],
+            "narrative_level number=\"1\" words=1057": [
+                9482,
+                8,
+                1490
+            ],
+            "narrative_level number=\"2\"": [
+                33,
+                3483,
+                7464
+            ],
+            "narrative_level number=\"2\" words=936": [
+                10911,
+                7,
+                62
+            ],
+            "narrative_levelchange completion=\"complete\"": [
+                3519,
+                5971,
+                1490
+            ],
+            "narrative_levelchange completion=\"never closed\"": [
+                9490,
+                1428,
+                62
+            ],
+            "narrative_levelchange completion=\"never opened\"": [
+                33,
+                3483,
+                7464
+            ],
+            "narrator participation=\"autodiegetic\"": [
+                33,
+                3483,
+                5974,
+                1428,
+                62
+            ],
+            "narrator participation=\"homodiegetic\"": [
+                3519,
+                5971,
+                1490
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

@@ -1,0 +1,44 @@
+{
+    "items": {
+        "FP": {
+            "narrative_level number=\u201d3\u201d": [
+                60,
+                22557,
+                81
+            ],
+            "narrative_level number=\u201d3\u201d words=4286": [
+                60,
+                22557,
+                81
+            ],
+            "narrative_levelchange completion=\u201ccomplete\u201c": [
+                60,
+                22557,
+                81
+            ],
+            "narrator participation=\u201dheterodiegetic\u201d": [
+                60,
+                2070,
+                20568
+            ]
+        },
+        "MS": {
+            "narrative_level number=\"1\"": [
+                60,
+                22557,
+                81
+            ],
+            "narrative_level number=\"1\" words=4286": [
+                22611,
+                6,
+                81
+            ],
+            "narratorparticipation=\"heterodiegetic\"": [
+                60,
+                22557,
+                81
+            ]
+        }
+    },
+    "segmentation_type": "linear"
+}

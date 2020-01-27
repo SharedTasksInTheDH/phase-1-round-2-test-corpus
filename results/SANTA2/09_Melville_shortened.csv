@@ -1,0 +1,10 @@
+Category, Annotator 1, Annotator 2, SegSim, BoundSim
+Analepsis, AS, KH, N/A, N/A
+Level DEGREE = "1", AS, KH, N/A, N/A
+Level DEGREE = "2", AS, KH, N/A, N/A
+Level, DEGREE= 1, AS, KH, N/A, N/A
+Level, DEGREE= 2, AS, KH, N/A, N/A
+Prolepsis, AS, KH, N/A, N/A
+analepsis, AS, KH, N/A, N/A
+fid PERS = "1st person narrator", AS, KH, N/A, N/A
+soc PERS = "1st person narrator", AS, KH, N/A, N/A

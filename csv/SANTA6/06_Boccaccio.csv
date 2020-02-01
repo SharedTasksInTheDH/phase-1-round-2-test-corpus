@@ -16,32 +16,32 @@ FP14,FP,narrative_level number=”3”,,9964,12068
 FP15,FP,narrator participation=”heterodiegetic”,,9964,12068
 FP16,FP,narrative_level number=”3” words=2094,,9964,12068
 FP17,FP,narrative_levelchange completion=”never_closed”,,9964,12068
-MS0,MS,"narrative_level number=""2""",,44,6976
-MS1,MS,"narrator participation=""heterodiegetic""",,44,6976
-MS2,MS,"narrative_levelchange completion=""never opened""",,44,6976
-MS3,MS,"narrative_level number=""1""",,6980,8324
-MS4,MS,"narrator participation=""autodiegetic""",,6980,8324
-MS5,MS,"narrative_levelchange completion=""complete""",,6980,8324
+MS0,MS,narrative_level number=2,,44,6976
+MS1,MS,narrator participation=heterodiegetic,,44,6976
+MS2,MS,narrative_levelchange completion=never opened,,44,6976
+MS3,MS,narrative_level number=1,,6980,8324
+MS4,MS,narrator participation=autodiegetic,,6980,8324
+MS5,MS,narrative_levelchange completion=complete,,6980,8324
 MS6,MS,narrator_change,,6980,6990
 MS7,MS,narratee_change,,6980,6990
 MS8,MS,level_change,,6980,6990
-MS9,MS,"narrator participation=""heterodiegetic""",,8328,8810
-MS10,MS,"narrative_level number=""2""",,8328,8810
-MS11,MS,"narrative_levelchange completion=""complete""",,8328,8810
+MS9,MS,narrator participation=heterodiegetic,,8328,8810
+MS10,MS,narrative_level number=2,,8328,8810
+MS11,MS,narrative_levelchange completion=complete,,8328,8810
 MS12,MS,narrator_change,,8328,8332
 MS13,MS,narratee_change,,8328,8332
 MS14,MS,level_change,,8328,8332
-MS15,MS,"narrative_level number=""1""",,8814,9960
-MS16,MS,"narrator participation=""autodiegetic""",,8814,9960
-MS17,MS,"narrative_levelchange completion=""complete""",,8814,9960
+MS15,MS,narrative_level number=1,,8814,9960
+MS16,MS,narrator participation=autodiegetic,,8814,9960
+MS17,MS,narrative_levelchange completion=complete,,8814,9960
 MS18,MS,narrator_change,,8814,8817
 MS19,MS,narratee_change,,8814,8817
 MS20,MS,level_change,,8814,8817
-MS21,MS,"narrative_level number=""1"" words=496",,9953,9960
-MS22,MS,"narrator participation=""heterodiegetic""",,9964,12068
-MS23,MS,"narrative_level number=""2""",,9964,12068
-MS24,MS,"narrative_levelchange completion=""never closed""",,9964,12068
+MS21,MS,narrative_level number=1 words=496,,9953,9960
+MS22,MS,narrator participation=heterodiegetic,,9964,12068
+MS23,MS,narrative_level number=2,,9964,12068
+MS24,MS,narrative_levelchange completion=never closed,,9964,12068
 MS25,MS,narrator_change,,9964,9967
 MS26,MS,narratee_change,,9964,9967
 MS27,MS,level_change,,9964,9967
-MS28,MS,"narrative_level number=""2"" words=1824",,12063,12068
+MS28,MS,narrative_level number=2 words=1824,,12063,12068

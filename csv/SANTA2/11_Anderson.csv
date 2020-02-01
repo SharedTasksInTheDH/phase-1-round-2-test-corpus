@@ -1,16 +1,16 @@
-AS0,AS,"level DEGREE = ""1""",,96,5712
-AS1,AS,"fid PERS = ""narrator""",,478,518
-AS2,AS,Prolepsis,,519,545
-AS3,AS,"fid PERS = ""narrator""",,714,741
-AS4,AS,"level DEGREE = ""1""",,5775,8839
-AS5,AS,"fid PERS = ""narrator""",,7420,7429
-KH0,KH,"Level, DEGREE= 1",,96,110
-KH1,KH,"Level, DEGREE= 2",,111,518
+AS0,AS,level degree=1,,96,5712
+AS1,AS,fid pers=narrator,,478,518
+AS2,AS,prolepsis,,519,545
+AS3,AS,fid pers=narrator,,714,741
+AS4,AS,level degree=1,,5775,8839
+AS5,AS,fid pers=narrator,,7420,7429
+KH0,KH,level degree=1,,96,110
+KH1,KH,level degree=2,,111,518
 KH2,KH,analepsis,,111,517
 KH3,KH,prolepsis,,519,545
-KH4,KH,"Level, DEGREE= 1",,519,545
+KH4,KH,level degree=1,,519,545
 KH5,KH,analepsis,,549,5712
-KH6,KH,"Level, DEGREE= 2",,549,5712
-KH7,KH,"Level, DEGREE= 1",,5713,5731
+KH6,KH,level degree=2,,549,5712
+KH7,KH,level degree=1,,5713,5731
 KH8,KH,analepsis,,5732,8830
-KH9,KH,"Level, DEGREE= 2",,5732,8830
+KH9,KH,level degree=2,,5732,8830

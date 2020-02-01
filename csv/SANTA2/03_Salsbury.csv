@@ -1,49 +1,49 @@
-AS0,AS,"Level DEGREE = ""1""",,48,3515
-AS1,AS,Prolepsis,,364,419
-AS2,AS,Analepsis,,1393,1509
-AS3,AS,"Level DEGREE = ""2""",,3519,5938
-AS4,AS,"Level DEGREE = ""1""",,5942,6479
-AS5,AS,"Level DEGREE = ""2""",,6480,6596
-AS6,AS,"Level DEGREE = ""1""",,6597,6870
-AS7,AS,"Level DEGREE = ""2""",,6871,6892
-AS8,AS,"Level DEGREE = ""1""",,6895,6906
-AS9,AS,"Level DEGREE = ""2""",,6909,8247
-AS10,AS,"Level DEGREE = ""1""",,8251,8629
-AS11,AS,Analepsis,,8266,8317
-AS12,AS,"Level DEGREE = ""2""",,8633,9489
-AS13,AS,"Level DEGREE = ""1""",,9490,10930
-AS14,AS,Analepsis,,9490,9530
-AS15,AS,Analepsis,,9994,10285
-AS16,AS,Analepsis,,10457,10604
-AS17,AS,Analepsis,,10679,10789
-KH0,KH,"Level, DEGREE= 1",,48,3515
-KH1,KH,"Level, DEGREE= 2",,3519,5938
+AS0,AS,level degree=1,,48,3515
+AS1,AS,prolepsis,,364,419
+AS2,AS,analepsis,,1393,1509
+AS3,AS,level degree=2,,3519,5938
+AS4,AS,level degree=1,,5942,6479
+AS5,AS,level degree=2,,6480,6596
+AS6,AS,level degree=1,,6597,6870
+AS7,AS,level degree=2,,6871,6892
+AS8,AS,level degree=1,,6895,6906
+AS9,AS,level degree=2,,6909,8247
+AS10,AS,level degree=1,,8251,8629
+AS11,AS,analepsis,,8266,8317
+AS12,AS,level degree=2,,8633,9489
+AS13,AS,level degree=1,,9490,10930
+AS14,AS,analepsis,,9490,9530
+AS15,AS,analepsis,,9994,10285
+AS16,AS,analepsis,,10457,10604
+AS17,AS,analepsis,,10679,10789
+KH0,KH,level degree=1,,48,3515
+KH1,KH,level degree=2,,3519,5938
 KH2,KH,analepsis,,3519,5938
-KH3,KH,"Level, DEGREE= 1",,5942,6479
-KH4,KH,"Level, DEGREE= 2",,6480,6596
+KH3,KH,level degree=1,,5942,6479
+KH4,KH,level degree=2,,6480,6596
 KH5,KH,analepsis,,6480,6595
-KH6,KH,"Level, DEGREE= 1",,6597,7025
-KH7,KH,"Level, DEGREE= 2",,7026,7143
+KH6,KH,level degree=1,,6597,7025
+KH7,KH,level degree=2,,7026,7143
 KH8,KH,analepsis,,7026,7143
-KH9,KH,"Level, DEGREE= 1",,7144,7280
+KH9,KH,level degree=1,,7144,7280
 KH10,KH,analepsis,,7281,7669
-KH11,KH,"Level, DEGREE= 2",,7281,7669
-KH12,KH,"Level, DEGREE= 1",,7670,7696
+KH11,KH,level degree=2,,7281,7669
+KH12,KH,level degree=1,,7670,7696
 KH13,KH,analepsis,,7696,8024
-KH14,KH,"Level, DEGREE= 2",,7696,8024
-KH15,KH,"Level, DEGREE= 1",,8025,8101
-KH16,KH,"Level, DEGREE= 2",,8102,8247
+KH14,KH,level degree=2,,7696,8024
+KH15,KH,level degree=1,,8025,8101
+KH16,KH,level degree=2,,8102,8247
 KH17,KH,analepsis,,8102,8247
-KH18,KH,"Level, DEGREE= 1",,8251,8629
+KH18,KH,level degree=1,,8251,8629
 KH19,KH,analepsis,,8633,8836
-KH20,KH,"Level, DEGREE= 2",,8633,8836
-KH21,KH,"Level, DEGREE= 1",,8837,8949
+KH20,KH,level degree=2,,8633,8836
+KH21,KH,level degree=1,,8837,8949
 KH22,KH,analepsis,,8953,9530
-KH23,KH,"Level, DEGREE= 2",,8953,9530
-KH24,KH,"Level, DEGREE= 1",,9533,9754
-KH25,KH,"Level, DEGREE= 2",,9755,9827
+KH23,KH,level degree=2,,8953,9530
+KH24,KH,level degree=1,,9533,9754
+KH25,KH,level degree=2,,9755,9827
 KH26,KH,analepsis,,9755,9827
-KH27,KH,"Level, DEGREE= 1",,9828,10453
-KH28,KH,"Level, DEGREE= 2",,10457,10604
+KH27,KH,level degree=1,,9828,10453
+KH28,KH,level degree=2,,10457,10604
 KH29,KH,analepsis,,10457,10604
-KH30,KH,"Level, DEGREE= 1",,10605,10917
+KH30,KH,level degree=1,,10605,10917

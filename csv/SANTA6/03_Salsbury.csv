@@ -39,16 +39,16 @@ FP37,FP,narrative_levelchange completion=”never_closed”,,9881,10917
 FP38,FP,change_narratee,,9881,9885
 FP39,FP,level_change,,9881,9885
 FP40,FP,narrator_change,,9881,9885
-MS0,MS,"narrative_level number=""2""",,33,3515
-MS1,MS,"narrator participation=""autodiegetic""",,33,3515
-MS2,MS,"narrative_levelchange completion=""never opened""",,33,3515
-MS3,MS,"narrator participation=""homodiegetic""",,3519,9489
-MS4,MS,"narrative_level number=""1""",,3519,9489
-MS5,MS,"narrative_levelchange completion=""complete""",,3519,9489
+MS0,MS,narrative_level number=2,,33,3515
+MS1,MS,narrator participation=autodiegetic,,33,3515
+MS2,MS,narrative_levelchange completion=never opened,,33,3515
+MS3,MS,narrator participation=homodiegetic,,3519,9489
+MS4,MS,narrative_level number=1,,3519,9489
+MS5,MS,narrative_levelchange completion=complete,,3519,9489
 MS6,MS,level_change,,3519,3525
-MS7,MS,"narrative_level number=""1"" words=1057",,9482,9489
-MS8,MS,"narrator participation=""autodiegetic""",,9490,10917
-MS9,MS,"narrative_levelchange completion=""never closed""",,9490,10917
-MS10,MS,"boundary transgression=""metalepsis""",,9490,9530
+MS7,MS,narrative_level number=1 words=1057,,9482,9489
+MS8,MS,narrator participation=autodiegetic,,9490,10917
+MS9,MS,narrative_levelchange completion=never closed,,9490,10917
+MS10,MS,boundary transgression=metalepsis,,9490,9530
 MS11,MS,level_change,,9490,9494
-MS12,MS,"narrative_level number=""2"" words=936",,10911,10917
+MS12,MS,narrative_level number=2 words=936,,10911,10917

@@ -1,6 +1,6 @@
-AS0,AS,"Level DEGREE = ""1""",,13,9039
-AS1,AS,"Level DEGREE = ""2""",,9040,9402
-AS2,AS,"Level DEGREE = ""1""",,9408,10452
-AS3,AS,"Level DEGREE = ""2""",,10456,12798
-AS4,AS,"Level DEGREE = ""1""",,12798,13440
+AS0,AS,level degree=1,,13,9039
+AS1,AS,level degree=2,,9040,9402
+AS2,AS,level degree=1,,9408,10452
+AS3,AS,level degree=2,,10456,12798
+AS4,AS,level degree=1,,12798,13440
 KH0,KH,analepsis,,71,13440

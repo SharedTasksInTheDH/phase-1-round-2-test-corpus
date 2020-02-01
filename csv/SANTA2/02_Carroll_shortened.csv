@@ -1,71 +1,71 @@
-AS0,AS,"level DEGREE = ""1""",,60,700
-AS1,AS,"level DEGREE = ""2""",,701,826
-AS2,AS,Prolepsis,,828,968
-AS3,AS,"level DEGREE = ""1""",,828,968
-AS4,AS,"level DEGREE = ""2""",,971,1893
-AS5,AS,"level DEGREE = ""2""",,1900,2404
-AS6,AS,"fid PERS = ""Alice""",,2160,2214
-AS7,AS,"level DEGREE = ""2""",,2411,7188
-AS8,AS,"fid PERS = ""Alice""",,2635,2652
-AS9,AS,"fid PERS = ""Alice""",,5461,5509
-AS10,AS,Analepsis,,5557,5620
-AS11,AS,Analepsis,,6316,6824
-AS12,AS,"level DEGREE = ""2""",,7195,8342
-AS13,AS,"level DEGREE = ""2""",,8349,8467
-AS14,AS,"level DEGREE = ""2""",,8476,8801
-AS15,AS,"level DEGREE = ""2""",,8808,14760
-AS16,AS,"level DEGREE = ""2""",,14767,16270
-AS17,AS,"level DEGREE = ""2""",,16277,18782
-AS18,AS,Analepsis,,16772,16814
-AS19,AS,"level DEGREE = ""2""",,18789,19635
-AS20,AS,"level DEGREE = ""2""",,19642,19827
-AS21,AS,"level DEGREE = ""2""",,19834,20212
-AS22,AS,"level DEGREE = ""1""",,20213,20969
-AS23,AS,"level DEGREE = ""1""",,21431,21588
-AS24,AS,"level DEGREE = ""1""",,22063,22616
-KH0,KH,"Level, DEGREE= 1",,60,592
-KH1,KH,"fid, PERS= Alice",,60,164
-KH2,KH,"fid, PERS= Alice",,364,592
-KH3,KH,"Level, DEGREE= 2",,593,20035
-KH4,KH,"fid, PERS= Alice",,701,785
+AS0,AS,level degree=1,,60,700
+AS1,AS,level degree=2,,701,826
+AS2,AS,prolepsis,,828,968
+AS3,AS,level degree=1,,828,968
+AS4,AS,level degree=2,,971,1893
+AS5,AS,level degree=2,,1900,2404
+AS6,AS,fid pers=alice,,2160,2214
+AS7,AS,level degree=2,,2411,7188
+AS8,AS,fid pers=alice,,2635,2652
+AS9,AS,fid pers=alice,,5461,5509
+AS10,AS,analepsis,,5557,5620
+AS11,AS,analepsis,,6316,6824
+AS12,AS,level degree=2,,7195,8342
+AS13,AS,level degree=2,,8349,8467
+AS14,AS,level degree=2,,8476,8801
+AS15,AS,level degree=2,,8808,14760
+AS16,AS,level degree=2,,14767,16270
+AS17,AS,level degree=2,,16277,18782
+AS18,AS,analepsis,,16772,16814
+AS19,AS,level degree=2,,18789,19635
+AS20,AS,level degree=2,,19642,19827
+AS21,AS,level degree=2,,19834,20212
+AS22,AS,level degree=1,,20213,20969
+AS23,AS,level degree=1,,21431,21588
+AS24,AS,level degree=1,,22063,22616
+KH0,KH,level degree=1,,60,592
+KH1,KH,fid pers=alice,,60,164
+KH2,KH,fid pers=alice,,364,592
+KH3,KH,level degree=2,,593,20035
+KH4,KH,fid pers=alice,,701,785
 KH5,KH,prolepsis,,827,970
-KH6,KH,"fid, PERS= Alice",,827,970
-KH7,KH,"fid, PERS= Alice",,1144,1269
-KH8,KH,"fid, PERS= Alice",,1426,1491
-KH9,KH,"fid, PERS= Alice",,2178,2214
-KH10,KH,"fid, PERS= Alice",,2509,2634
-KH11,KH,"fid, PERS= Alice",,3233,3313
-KH12,KH,"fid, PERS= Alice",,3314,3347
-KH13,KH,"fid, PERS= Alice",,4384,4428
-KH14,KH,"fid, PERS= Alice",,4557,4635
-KH15,KH,"fid, PERS= Alice",,5167,5289
-KH16,KH,"fid, PERS= Alice",,5704,5908
-KH17,KH,"fid, PERS= Alice",,6320,6451
+KH6,KH,fid pers=alice,,827,970
+KH7,KH,fid pers=alice,,1144,1269
+KH8,KH,fid pers=alice,,1426,1491
+KH9,KH,fid pers=alice,,2178,2214
+KH10,KH,fid pers=alice,,2509,2634
+KH11,KH,fid pers=alice,,3233,3313
+KH12,KH,fid pers=alice,,3314,3347
+KH13,KH,fid pers=alice,,4384,4428
+KH14,KH,fid pers=alice,,4557,4635
+KH15,KH,fid pers=alice,,5167,5289
+KH16,KH,fid pers=alice,,5704,5908
+KH17,KH,fid pers=alice,,6320,6451
 KH18,KH,analepsis,,6320,6451
-KH19,KH,"fid, PERS= Alice",,6686,6824
+KH19,KH,fid pers=alice,,6686,6824
 KH20,KH,analepsis,,6686,6824
-KH21,KH,"fid, PERS= Alice",,8002,8129
+KH21,KH,fid pers=alice,,8002,8129
 KH22,KH,analepsis,,8002,8129
-KH23,KH,"fid, PERS= Alice",,9562,9615
-KH24,KH,"fid, PERS= Alice",,10295,10313
+KH23,KH,fid pers=alice,,9562,9615
+KH24,KH,fid pers=alice,,10295,10313
 KH25,KH,analepsis,,10295,10313
-KH26,KH,"fid, PERS= Alice",,10419,10452
-KH27,KH,"fid, PERS= Alice",,10913,10947
+KH26,KH,fid pers=alice,,10419,10452
+KH27,KH,fid pers=alice,,10913,10947
 KH28,KH,analepsis,,10913,10947
-KH29,KH,"fid, PERS= Alice",,11850,11997
-KH30,KH,"fid, PERS= Alice",,13293,13345
-KH31,KH,"fid, PERS= Alice",,13389,13469
-KH32,KH,"fid, PERS= Alice",,14040,14154
-KH33,KH,"fid, PERS= Alice",,15213,15361
-KH34,KH,"fid, PERS= Alice",,16772,16814
+KH29,KH,fid pers=alice,,11850,11997
+KH30,KH,fid pers=alice,,13293,13345
+KH31,KH,fid pers=alice,,13389,13469
+KH32,KH,fid pers=alice,,14040,14154
+KH33,KH,fid pers=alice,,15213,15361
+KH34,KH,fid pers=alice,,16772,16814
 KH35,KH,analepsis,,16772,16814
-KH36,KH,"fid, PERS= Alice",,17159,17199
-KH37,KH,"fid, PERS= Alice",,18789,18962
-KH38,KH,"Level, DEGREE= 1",,20036,20969
-KH39,KH,"fid, PERS= Alice",,20655,20733
-KH40,KH,"fid, PERS= Sister",,20842,20899
-KH41,KH,"Level, DEGREE= 2",,20971,21424
-KH42,KH,"Level, DEGREE= 1",,21431,22094
-KH43,KH,"fid, PERS= Sister",,21512,21588
-KH44,KH,"fid, PERS= Sister",,21905,21915
-KH45,KH,"Level, DEGREE= 2",,22095,22616
+KH36,KH,fid pers=alice,,17159,17199
+KH37,KH,fid pers=alice,,18789,18962
+KH38,KH,level degree=1,,20036,20969
+KH39,KH,fid pers=alice,,20655,20733
+KH40,KH,fid pers=sister,,20842,20899
+KH41,KH,level degree=2,,20971,21424
+KH42,KH,level degree=1,,21431,22094
+KH43,KH,fid pers=sister,,21512,21588
+KH44,KH,fid pers=sister,,21905,21915
+KH45,KH,level degree=2,,22095,22616

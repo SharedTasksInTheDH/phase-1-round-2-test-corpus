@@ -1,87 +1,87 @@
-AS0,AS,"Level DEGREE = ""1""",,39,5867
-AS1,AS,"Level DEGREE = ""2""",,5864,5903
-AS2,AS,"Level DEGREE = ""1""",,5903,5923
-AS3,AS,"Level DEGREE = ""2""",,5919,6107
-AS4,AS,"Level DEGREE = ""1""",,6107,6318
-AS5,AS,"Level DEGREE = ""2""",,6319,7155
-AS6,AS,Analepsis,,6411,7155
-AS7,AS,"Level DEGREE = ""1""",,7155,8472
-AS8,AS,"Level DEGREE = ""2""",,8473,8992
-AS9,AS,"Level DEGREE = ""1""",,8992,9275
-AS10,AS,"Level DEGREE = ""2""",,9276,9956
-AS11,AS,"Level DEGREE = ""1""",,9956,10331
-AS12,AS,"Level DEGREE = ""2""",,10332,10846
-AS13,AS,"Level DEGREE = ""1""",,10846,10965
-AS14,AS,"Level DEGREE = ""2""",,10964,10991
-AS15,AS,"Level DEGREE = ""1""",,10991,11015
-AS16,AS,"Level DEGREE = ""2""",,11014,11261
-AS17,AS,"Level DEGREE = ""1""",,11261,11551
-AS18,AS,"Level DEGREE = ""2""",,11550,11574
-AS19,AS,"Level DEGREE = ""1""",,11574,11599
-AS20,AS,"Level DEGREE = ""2""",,11598,11714
-AS21,AS,"Level DEGREE = ""1""",,11714,15689
-AS22,AS,"Level DEGREE = ""2""",,15690,16146
-AS23,AS,Prolepsis,,15749,15790
-AS24,AS,Analepsis,,15951,16096
-AS25,AS,"Level DEGREE = ""1""",,16146,16306
-AS26,AS,"Level DEGREE = ""2""",,16305,16610
-AS27,AS,"Level DEGREE = ""1""",,16610,17205
-AS28,AS,"Level DEGREE = ""2""",,17206,17840
-AS29,AS,"Level DEGREE = ""1""",,17840,18054
-AS30,AS,"Level DEGREE = ""2""",,18053,18326
-AS31,AS,Prolepsis,,18053,18127
-AS32,AS,"Level DEGREE = ""1""",,18326,18483
-AS33,AS,"Level DEGREE = ""2""",,18480,18519
-AS34,AS,"Level DEGREE = ""1""",,18519,18540
-AS35,AS,"Level DEGREE = ""2""",,18539,18693
-AS36,AS,Prolepsis,,18641,18693
-AS37,AS,"Level DEGREE = ""1""",,18693,19157
-AS38,AS,"Level DEGREE = ""2""",,19158,19378
-AS39,AS,"Level DEGREE = ""1""",,19378,19629
-AS40,AS,"Level DEGREE = ""2""",,19627,19644
-AS41,AS,"Level DEGREE = ""1""",,19644,19698
-AS42,AS,"Level DEGREE = ""2""",,19697,20077
-AS43,AS,"Level DEGREE = ""1""",,20077,20331
-AS44,AS,"Level DEGREE = ""2""",,20330,20609
-AS45,AS,"Level DEGREE = ""1""",,20609,20616
-AS46,AS,"Level DEGREE = ""2""",,20615,20666
-AS47,AS,"Level DEGREE = ""1""",,20666,20693
-AS48,AS,"Level DEGREE = ""2""",,20688,20959
-AS49,AS,"Level DEGREE = ""1""",,20959,20966
-AS50,AS,"Level DEGREE = ""2""",,20965,20991
-AS51,AS,"Level DEGREE = ""1""",,20991,21014
-AS52,AS,"Level DEGREE = ""2""",,21011,21284
-AS53,AS,Prolepsis,,21167,21197
-AS54,AS,"Level DEGREE = ""1""",,21284,22498
-AS55,AS,"Level DEGREE = ""2""",,22494,22571
-AS56,AS,Prolepsis,,22494,22571
-AS57,AS,"Level DEGREE = ""1""",,22571,22823
-AS58,AS,"Level DEGREE = ""2""",,22820,22839
-AS59,AS,"Level DEGREE = ""1""",,22839,22898
-AS60,AS,"Level DEGREE = ""2""",,22897,23030
-AS61,AS,Prolepsis,,22904,23030
-AS62,AS,"Level DEGREE = ""1""",,23030,23120
-AS63,AS,"Level DEGREE = ""2""",,23119,23173
-AS64,AS,Prolepsis,,23119,23152
-AS65,AS,"Level DEGREE = ""1""",,23173,23273
-AS66,AS,"Level DEGREE = ""2""",,23270,23296
-AS67,AS,Prolepsis,,23270,23296
-AS68,AS,"Level DEGREE = ""1""",,23296,23310
-AS69,AS,Prolepsis,,23309,23428
-AS70,AS,"Level DEGREE = ""2""",,23309,23428
-AS71,AS,"Level DEGREE = ""1""",,23428,23927
-KH0,KH,"Level, DEGREE= 1",,39,3466
-KH1,KH,"fid, PERS= King",,2427,2503
-KH2,KH,"Level, DEGREE= 2",,3470,12549
-KH3,KH,"fid, PERS= Catherine Wheel",,4053,4092
-KH4,KH,"fid, PERS= Catherine Wheel",,4789,4920
-KH5,KH,"fid, PERS= Benghal Light",,7375,7517
-KH6,KH,"fid, PERS= Catherine Wheel",,12295,12326
-KH7,KH,"Level, DEGREE= 1",,12553,13331
-KH8,KH,"Level, DEGREE= 2",,13335,14053
-KH9,KH,"fid, PERS= Remarkable Rocket",,13905,14053
-KH10,KH,"Level, DEGREE= 1",,14054,14131
-KH11,KH,"Level, DEGREE= 2",,14135,23927
-KH12,KH,"fid, PERS= Remarkable Rocket",,16190,16247
-KH13,KH,"fid, PERS= Remarkable Rocket",,21727,21777
-KH14,KH,"fid, PERS= Remarkable Rocket",,23201,23265
+AS0,AS,level degree=1,,39,5867
+AS1,AS,level degree=2,,5864,5903
+AS2,AS,level degree=1,,5903,5923
+AS3,AS,level degree=2,,5919,6107
+AS4,AS,level degree=1,,6107,6318
+AS5,AS,level degree=2,,6319,7155
+AS6,AS,analepsis,,6411,7155
+AS7,AS,level degree=1,,7155,8472
+AS8,AS,level degree=2,,8473,8992
+AS9,AS,level degree=1,,8992,9275
+AS10,AS,level degree=2,,9276,9956
+AS11,AS,level degree=1,,9956,10331
+AS12,AS,level degree=2,,10332,10846
+AS13,AS,level degree=1,,10846,10965
+AS14,AS,level degree=2,,10964,10991
+AS15,AS,level degree=1,,10991,11015
+AS16,AS,level degree=2,,11014,11261
+AS17,AS,level degree=1,,11261,11551
+AS18,AS,level degree=2,,11550,11574
+AS19,AS,level degree=1,,11574,11599
+AS20,AS,level degree=2,,11598,11714
+AS21,AS,level degree=1,,11714,15689
+AS22,AS,level degree=2,,15690,16146
+AS23,AS,prolepsis,,15749,15790
+AS24,AS,analepsis,,15951,16096
+AS25,AS,level degree=1,,16146,16306
+AS26,AS,level degree=2,,16305,16610
+AS27,AS,level degree=1,,16610,17205
+AS28,AS,level degree=2,,17206,17840
+AS29,AS,level degree=1,,17840,18054
+AS30,AS,level degree=2,,18053,18326
+AS31,AS,prolepsis,,18053,18127
+AS32,AS,level degree=1,,18326,18483
+AS33,AS,level degree=2,,18480,18519
+AS34,AS,level degree=1,,18519,18540
+AS35,AS,level degree=2,,18539,18693
+AS36,AS,prolepsis,,18641,18693
+AS37,AS,level degree=1,,18693,19157
+AS38,AS,level degree=2,,19158,19378
+AS39,AS,level degree=1,,19378,19629
+AS40,AS,level degree=2,,19627,19644
+AS41,AS,level degree=1,,19644,19698
+AS42,AS,level degree=2,,19697,20077
+AS43,AS,level degree=1,,20077,20331
+AS44,AS,level degree=2,,20330,20609
+AS45,AS,level degree=1,,20609,20616
+AS46,AS,level degree=2,,20615,20666
+AS47,AS,level degree=1,,20666,20693
+AS48,AS,level degree=2,,20688,20959
+AS49,AS,level degree=1,,20959,20966
+AS50,AS,level degree=2,,20965,20991
+AS51,AS,level degree=1,,20991,21014
+AS52,AS,level degree=2,,21011,21284
+AS53,AS,prolepsis,,21167,21197
+AS54,AS,level degree=1,,21284,22498
+AS55,AS,level degree=2,,22494,22571
+AS56,AS,prolepsis,,22494,22571
+AS57,AS,level degree=1,,22571,22823
+AS58,AS,level degree=2,,22820,22839
+AS59,AS,level degree=1,,22839,22898
+AS60,AS,level degree=2,,22897,23030
+AS61,AS,prolepsis,,22904,23030
+AS62,AS,level degree=1,,23030,23120
+AS63,AS,level degree=2,,23119,23173
+AS64,AS,prolepsis,,23119,23152
+AS65,AS,level degree=1,,23173,23273
+AS66,AS,level degree=2,,23270,23296
+AS67,AS,prolepsis,,23270,23296
+AS68,AS,level degree=1,,23296,23310
+AS69,AS,prolepsis,,23309,23428
+AS70,AS,level degree=2,,23309,23428
+AS71,AS,level degree=1,,23428,23927
+KH0,KH,level degree=1,,39,3466
+KH1,KH,fid pers=king,,2427,2503
+KH2,KH,level degree=2,,3470,12549
+KH3,KH,fid pers=catherine wheel,,4053,4092
+KH4,KH,fid pers=catherine wheel,,4789,4920
+KH5,KH,fid pers=benghal light,,7375,7517
+KH6,KH,fid pers=catherine wheel,,12295,12326
+KH7,KH,level degree=1,,12553,13331
+KH8,KH,level degree=2,,13335,14053
+KH9,KH,fid pers=remarkable rocket,,13905,14053
+KH10,KH,level degree=1,,14054,14131
+KH11,KH,level degree=2,,14135,23927
+KH12,KH,fid pers=remarkable rocket,,16190,16247
+KH13,KH,fid pers=remarkable rocket,,21727,21777
+KH14,KH,fid pers=remarkable rocket,,23201,23265

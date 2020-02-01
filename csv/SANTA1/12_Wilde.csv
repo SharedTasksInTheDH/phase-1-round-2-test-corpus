@@ -1,11 +1,11 @@
-AJ0,AJ,Original,,39,3466
-AJ1,AJ,Interruptive,,3470,12549
-AJ2,AJ,Embedded,,6411,7155
-AJ3,AJ,Original,,12553,13331
-AJ4,AJ,Interruptive,,13335,23927
-MS0,MS,"Original ",,39,3466
-MS1,MS,"Interruptive ",,3470,12549
-MS2,MS,"Original ",,12553,13331
-MS3,MS,"Original ",,13335,14131
-MS4,MS,"Embedded ",,13335,14131
-MS5,MS,"Interruptive ",,14135,23927
+AJ0,AJ,original,,39,3466
+AJ1,AJ,interruptive,,3470,12549
+AJ2,AJ,embedded,,6411,7155
+AJ3,AJ,original,,12553,13331
+AJ4,AJ,interruptive,,13335,23927
+MS0,MS,"original ",,39,3466
+MS1,MS,"interruptive ",,3470,12549
+MS2,MS,"original ",,12553,13331
+MS3,MS,"original ",,13335,14131
+MS4,MS,"embedded ",,13335,14131
+MS5,MS,"interruptive ",,14135,23927

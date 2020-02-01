@@ -2,6 +2,6 @@ FP0,FP,narrative_level number=”3”,,60,22616
 FP1,FP,narrative_level number=”3” words=4286,,60,22616
 FP2,FP,narrative_levelchange completion=“complete“,,60,22616
 FP3,FP,narrator participation=”heterodiegetic”,,60,2129
-MS0,MS,"narratorparticipation=""heterodiegetic""",,60,22616
-MS1,MS,"narrative_level number=""1""",,60,22616
-MS2,MS,"narrative_level number=""1"" words=4286",,22611,22616
+MS0,MS,narratorparticipation=heterodiegetic,,60,22616
+MS1,MS,narrative_level number=1,,60,22616
+MS2,MS,narrative_level number=1 words=4286,,22611,22616

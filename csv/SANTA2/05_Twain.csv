@@ -1,20 +1,20 @@
-AS0,AS,"Levle DEGREE=""1""",,187,2216
-AS1,AS,Prolepsis,,322,404
-AS2,AS,"fid PERS=""1st person narrator""",,490,537
-AS3,AS,Analepsis,,574,727
-AS4,AS,Analepsis,,1288,1408
-AS5,AS,Analepsis,,2066,2134
-AS6,AS,"Level DEGREE=""2""",,2220,9695
-AS7,AS,Prolepsis,,2868,3019
-AS8,AS,Analepsis,,3480,3632
-AS9,AS,Analepsis,,4395,4569
-AS10,AS,Analepsis,,4641,4724
-AS11,AS,Analepsis,,4844,4880
-AS12,AS,Analepsis,,5736,5799
-AS13,AS,Analepsis,,6027,6118
-AS14,AS,Analepsis,,8491,8616
-AS15,AS,Analepsis,,8968,9345
-KH0,KH,"Level, DEGREE= 1",,187,2216
+AS0,AS,levle degree=1,,187,2216
+AS1,AS,prolepsis,,322,404
+AS2,AS,fid pers=1st person narrator,,490,537
+AS3,AS,analepsis,,574,727
+AS4,AS,analepsis,,1288,1408
+AS5,AS,analepsis,,2066,2134
+AS6,AS,level degree=2,,2220,9695
+AS7,AS,prolepsis,,2868,3019
+AS8,AS,analepsis,,3480,3632
+AS9,AS,analepsis,,4395,4569
+AS10,AS,analepsis,,4641,4724
+AS11,AS,analepsis,,4844,4880
+AS12,AS,analepsis,,5736,5799
+AS13,AS,analepsis,,6027,6118
+AS14,AS,analepsis,,8491,8616
+AS15,AS,analepsis,,8968,9345
+KH0,KH,level degree=1,,187,2216
 KH1,KH,analepsis,,187,2216
-KH2,KH,"Level, DEGREE= 2",,2220,9695
+KH2,KH,level degree=2,,2220,9695
 KH3,KH,analepsis,,2220,9695

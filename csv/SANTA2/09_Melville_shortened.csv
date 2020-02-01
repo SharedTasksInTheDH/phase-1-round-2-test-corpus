@@ -1,41 +1,41 @@
-AS0,AS,"Level DEGREE = ""1""",,76,373
-AS1,AS,"Level DEGREE = ""2""",,380,518
-AS2,AS,"Level DEGREE = ""1""",,519,656
-AS3,AS,Prolepsis,,624,655
-AS4,AS,"Level DEGREE = ""2""",,665,22566
-AS5,AS,"fid PERS = ""1st person narrator""",,4153,4430
-AS6,AS,"fid PERS = ""1st person narrator""",,13680,13693
-AS7,AS,Analepsis,,19942,20098
-AS8,AS,"Level DEGREE = ""1""",,22584,24493
-AS9,AS,Analepsis,,23140,23204
-AS10,AS,Analepsis,,23508,23666
-AS11,AS,"fid PERS = ""1st person narrator""",,23754,23800
-AS12,AS,"soc PERS = ""1st person narrator""",,24058,24493
-KH0,KH,"Level, DEGREE= 1",,76,373
+AS0,AS,level degree=1,,76,373
+AS1,AS,level degree=2,,380,518
+AS2,AS,level degree=1,,519,656
+AS3,AS,prolepsis,,624,655
+AS4,AS,level degree=2,,665,22566
+AS5,AS,fid pers=1st person narrator,,4153,4430
+AS6,AS,fid pers=1st person narrator,,13680,13693
+AS7,AS,analepsis,,19942,20098
+AS8,AS,level degree=1,,22584,24493
+AS9,AS,analepsis,,23140,23204
+AS10,AS,analepsis,,23508,23666
+AS11,AS,fid pers=1st person narrator,,23754,23800
+AS12,AS,soc pers=1st person narrator,,24058,24493
+KH0,KH,level degree=1,,76,373
 KH1,KH,analepsis,,380,1301
-KH2,KH,"Level, DEGREE= 2",,380,1301
-KH3,KH,"Level, DEGREE= 1",,1302,1327
-KH4,KH,"Level, DEGREE= 2",,1328,1400
+KH2,KH,level degree=2,,380,1301
+KH3,KH,level degree=1,,1302,1327
+KH4,KH,level degree=2,,1328,1400
 KH5,KH,analepsis,,1328,1400
-KH6,KH,"Level, DEGREE= 1",,1409,1441
-KH7,KH,"Level, DEGREE= 2",,1442,4151
+KH6,KH,level degree=1,,1409,1441
+KH7,KH,level degree=2,,1442,4151
 KH8,KH,analepsis,,1442,4151
-KH9,KH,"Level, DEGREE= 1",,4153,4299
-KH10,KH,"Level, DEGREE= 2",,4300,5264
+KH9,KH,level degree=1,,4153,4299
+KH10,KH,level degree=2,,4300,5264
 KH11,KH,analepsis,,4300,5264
-KH12,KH,"Level, DEGREE= 1",,5273,5296
-KH13,KH,"Level, DEGREE= 2",,5297,5988
+KH12,KH,level degree=1,,5273,5296
+KH13,KH,level degree=2,,5297,5988
 KH14,KH,analepsis,,5297,5988
-KH15,KH,"Level, DEGREE= 1",,5997,6126
-KH16,KH,"Level, DEGREE= 2",,6127,17459
+KH15,KH,level degree=1,,5997,6126
+KH16,KH,level degree=2,,6127,17459
 KH17,KH,analepsis,,6127,17459
-KH18,KH,"Level, DEGREE= 1",,17460,17474
-KH19,KH,"Level, DEGREE= 2",,17475,19915
+KH18,KH,level degree=1,,17460,17474
+KH19,KH,level degree=2,,17475,19915
 KH20,KH,analepsis,,17475,19915
-KH21,KH,"Level, DEGREE= 1",,19917,19941
-KH22,KH,"Level, DEGREE= 2",,19942,22566
+KH21,KH,level degree=1,,19917,19941
+KH22,KH,level degree=2,,19942,22566
 KH23,KH,analepsis,,19942,22566
-KH24,KH,"Level, DEGREE= 1",,22584,22684
-KH25,KH,"Level, DEGREE= 2",,22685,22733
+KH24,KH,level degree=1,,22584,22684
+KH25,KH,level degree=2,,22685,22733
 KH26,KH,analepsis,,22685,22733
-KH27,KH,"Level, DEGREE= 1",,22734,24493
+KH27,KH,level degree=1,,22734,24493

@@ -1,55 +1,55 @@
-AS0,AS,"Level DEGREE = ""1""",,70,7393
-AS1,AS,Analepsis,,3888,3930
-AS2,AS,"Level DEGREE = ""1""",,7400,8745
-AS3,AS,"Level DEGREE = ""1""",,8753,9753
-AS4,AS,Analepsis,,9134,9184
-AS5,AS,"Level DEGREE = ""1""",,9762,9873
-AS6,AS,"Level DEGREE = ""2""",,9875,10085
-AS7,AS,"Level DEGREE = ""1""",,10086,10633
-AS8,AS,Analepsis,,10148,10305
-AS9,AS,Analepsis,,10517,10633
-AS10,AS,"Level DEGREE = ""1""",,10641,12257
-AS11,AS,Analepsis,,10753,10807
-AS12,AS,Analepsis,,11013,11047
-AS13,AS,"Level DEGREE = ""1""",,12266,12762
-AS14,AS,Analepsis,,12328,12397
-AS15,AS,Analepsis,,12462,12497
-AS16,AS,Analepsis,,12539,12581
-AS17,AS,"Level DEGREE = ""1""",,12770,13918
-AS18,AS,"Level DEGREE = ""1""",,13926,14274
-AS19,AS,Analepsis,,14016,14063
-AS20,AS,"Level DEGREE = ""1""",,14282,14489
-AS21,AS,"Level DEGREE = ""1""",,14497,15867
-KH0,KH,"Level, DEGREE= 1",,70,15889
-KH1,KH,"fid, PERS= Lenz",,523,766
-KH2,KH,"fid, PERS= Lenz",,876,1252
-KH3,KH,"fid, PERS= Lenz",,2207,2419
-KH4,KH,"fid, PERS= Lenz",,2461,2529
-KH5,KH,"fid, PERS= Lenz",,2619,2789
-KH6,KH,"fid, PERS= Lenz",,2903,2932
-KH7,KH,"fid, PERS= Lenz",,3277,3559
-KH8,KH,"fid, PERS= Lenz",,3659,3827
-KH9,KH,"fid, PERS= Lenz",,3868,3887
-KH10,KH,"fid, PERS= Lenz",,4134,4150
-KH11,KH,"fid, PERS= Lenz",,4744,4796
-KH12,KH,"fid, PERS= Lenz",,5149,5177
-KH13,KH,"fid, PERS= Lenz",,5233,5373
-KH14,KH,"fid, PERS= Lenz",,5774,6003
-KH15,KH,"fid, PERS= Lenz",,6087,6348
-KH16,KH,"fid, PERS= Lenz",,6409,6452
-KH17,KH,"fid, PERS= Lenz",,6659,6790
-KH18,KH,"fid, PERS= Lenz",,6671,6744
-KH19,KH,"fid, PERS= Lenz",,7517,7809
-KH20,KH,"fid, PERS= Oberlin",,7858,7961
-KH21,KH,"fid, PERS= Lenz",,7963,8563
-KH22,KH,"fid, PERS= Lenz",,8647,8751
-KH23,KH,"fid, PERS= Lenz",,9134,9297
-KH24,KH,"fid, PERS= Lenz",,9359,9575
-KH25,KH,"fid, PERS= Lenz",,10709,10983
-KH26,KH,"fid, PERS= Oberlin",,11049,11247
-KH27,KH,"fid, PERS= Lenz",,14082,14274
-KH28,KH,"fid, PERS= Oberlin",,14361,14432
-KH29,KH,"fid, PERS= Lenz",,14590,14633
-KH30,KH,"fid, PERS= Lenz",,14740,14771
-KH31,KH,"fid, PERS= Lenz",,15373,15489
-KH32,KH,"fid, PERS= Lenz",,15751,15867
+AS0,AS,level degree=1,,70,7393
+AS1,AS,analepsis,,3888,3930
+AS2,AS,level degree=1,,7400,8745
+AS3,AS,level degree=1,,8753,9753
+AS4,AS,analepsis,,9134,9184
+AS5,AS,level degree=1,,9762,9873
+AS6,AS,level degree=2,,9875,10085
+AS7,AS,level degree=1,,10086,10633
+AS8,AS,analepsis,,10148,10305
+AS9,AS,analepsis,,10517,10633
+AS10,AS,level degree=1,,10641,12257
+AS11,AS,analepsis,,10753,10807
+AS12,AS,analepsis,,11013,11047
+AS13,AS,level degree=1,,12266,12762
+AS14,AS,analepsis,,12328,12397
+AS15,AS,analepsis,,12462,12497
+AS16,AS,analepsis,,12539,12581
+AS17,AS,level degree=1,,12770,13918
+AS18,AS,level degree=1,,13926,14274
+AS19,AS,analepsis,,14016,14063
+AS20,AS,level degree=1,,14282,14489
+AS21,AS,level degree=1,,14497,15867
+KH0,KH,level degree=1,,70,15889
+KH1,KH,fid pers=lenz,,523,766
+KH2,KH,fid pers=lenz,,876,1252
+KH3,KH,fid pers=lenz,,2207,2419
+KH4,KH,fid pers=lenz,,2461,2529
+KH5,KH,fid pers=lenz,,2619,2789
+KH6,KH,fid pers=lenz,,2903,2932
+KH7,KH,fid pers=lenz,,3277,3559
+KH8,KH,fid pers=lenz,,3659,3827
+KH9,KH,fid pers=lenz,,3868,3887
+KH10,KH,fid pers=lenz,,4134,4150
+KH11,KH,fid pers=lenz,,4744,4796
+KH12,KH,fid pers=lenz,,5149,5177
+KH13,KH,fid pers=lenz,,5233,5373
+KH14,KH,fid pers=lenz,,5774,6003
+KH15,KH,fid pers=lenz,,6087,6348
+KH16,KH,fid pers=lenz,,6409,6452
+KH17,KH,fid pers=lenz,,6659,6790
+KH18,KH,fid pers=lenz,,6671,6744
+KH19,KH,fid pers=lenz,,7517,7809
+KH20,KH,fid pers=oberlin,,7858,7961
+KH21,KH,fid pers=lenz,,7963,8563
+KH22,KH,fid pers=lenz,,8647,8751
+KH23,KH,fid pers=lenz,,9134,9297
+KH24,KH,fid pers=lenz,,9359,9575
+KH25,KH,fid pers=lenz,,10709,10983
+KH26,KH,fid pers=oberlin,,11049,11247
+KH27,KH,fid pers=lenz,,14082,14274
+KH28,KH,fid pers=oberlin,,14361,14432
+KH29,KH,fid pers=lenz,,14590,14633
+KH30,KH,fid pers=lenz,,14740,14771
+KH31,KH,fid pers=lenz,,15373,15489
+KH32,KH,fid pers=lenz,,15751,15867

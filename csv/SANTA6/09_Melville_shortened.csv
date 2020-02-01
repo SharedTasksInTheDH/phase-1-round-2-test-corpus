@@ -10,47 +10,47 @@ FP8,FP,narrative_level number=”2”,,22584,24493
 FP9,FP,narrative_level number=”2” words=438,,22584,24493
 FP10,FP,narrative_levelchange completion=”never_closed”,,22584,24493
 FP11,FP,level_change,,22584,22589
-MS0,MS,"narrative_level number=""3""",,76,656
-MS1,MS,"narrative_level completion=""never opened""",,76,656
-MS2,MS,"narrator participation=""homodiegetic""",,76,656
-MS3,MS,"narrative_level number=""2""",,665,16536
-MS4,MS,"narrator participation=""homodiegetic""",,665,16536
-MS5,MS,"narrative_levelchange completion=""complete""",,665,16536
+MS0,MS,narrative_level number=3,,76,656
+MS1,MS,narrative_level completion=never opened,,76,656
+MS2,MS,narrator participation=homodiegetic,,76,656
+MS3,MS,narrative_level number=2,,665,16536
+MS4,MS,narrator participation=homodiegetic,,665,16536
+MS5,MS,narrative_levelchange completion=complete,,665,16536
 MS6,MS,level_change,,665,667
-MS7,MS,"narrative_level number=""1""",,16537,16602
-MS8,MS,"narrator participation=""homodiegetic""",,16537,16602
-MS9,MS,"narrative_levelchange completion=""complete""",,16537,16602
+MS7,MS,narrative_level number=1,,16537,16602
+MS8,MS,narrator participation=homodiegetic,,16537,16602
+MS9,MS,narrative_levelchange completion=complete,,16537,16602
 MS10,MS,level_change,,16537,16543
 MS11,MS,narrator_change,,16537,16543
 MS12,MS,change_narratee,,16537,16543
-MS13,MS,"narrative_level number=""2""",,16603,16626
-MS14,MS,"narrator participation=""homodiegetic""",,16603,16626
-MS15,MS,"narrative_levelchange completion=""complete""",,16603,16626
+MS13,MS,narrative_level number=2,,16603,16626
+MS14,MS,narrator participation=homodiegetic,,16603,16626
+MS15,MS,narrative_levelchange completion=complete,,16603,16626
 MS16,MS,level_change,,16603,16611
 MS17,MS,narrator_change,,16603,16611
 MS18,MS,change_narratee,,16603,16611
-MS19,MS,"narrative_level number=""1""",,16627,16943
-MS20,MS,"narrator participation=""homodiegetic""",,16627,16943
-MS21,MS,"narrative_levelchange completion=""complete""",,16627,16943
+MS19,MS,narrative_level number=1,,16627,16943
+MS20,MS,narrator participation=homodiegetic,,16627,16943
+MS21,MS,narrative_levelchange completion=complete,,16627,16943
 MS22,MS,level_change,,16627,16631
 MS23,MS,narrator_change,,16627,16631
 MS24,MS,change_narratee,,16627,16631
-MS25,MS,"narrative_level number=""1"" words=68",,16936,16943
-MS26,MS,"narrative_level number=""2""",,16945,22566
-MS27,MS,"narrator participation=""homodiegetic""",,16945,22566
-MS28,MS,"narrative_levelchange completion=""complete""",,16945,22566
+MS25,MS,narrative_level number=1 words=68,,16936,16943
+MS26,MS,narrative_level number=2,,16945,22566
+MS27,MS,narrator participation=homodiegetic,,16945,22566
+MS28,MS,narrative_levelchange completion=complete,,16945,22566
 MS29,MS,level_change,,16945,16951
-MS30,MS,"narrative_level number=""3""",,22584,23507
-MS31,MS,"narrator participation=""homodiegetic""",,22584,23507
-MS32,MS,"narrative_levelchange completion=""complete""",,22584,23507
+MS30,MS,narrative_level number=3,,22584,23507
+MS31,MS,narrator participation=homodiegetic,,22584,23507
+MS32,MS,narrative_levelchange completion=complete,,22584,23507
 MS33,MS,level_change,,22584,22589
-MS34,MS,"narrative_level number=""2""",,23508,23666
-MS35,MS,"narrator participation=""homodiegetic""",,23508,23666
-MS36,MS,"narrative_levelchange completion=""complete""",,23508,23666
+MS34,MS,narrative_level number=2,,23508,23666
+MS35,MS,narrator participation=homodiegetic,,23508,23666
+MS36,MS,narrative_levelchange completion=complete,,23508,23666
 MS37,MS,level_change,,23508,23512
-MS38,MS,"narrative_level number=""2"" words=3846",,23651,23666
-MS39,MS,"narrator participation=""homodiegetic""",,23667,24466
-MS40,MS,"narrative_level number=""3""",,23667,24466
-MS41,MS,"narrative_levelchange completion=""never closed""",,23667,24466
+MS38,MS,narrative_level number=2 words=3846,,23651,23666
+MS39,MS,narrator participation=homodiegetic,,23667,24466
+MS40,MS,narrative_level number=3,,23667,24466
+MS41,MS,narrative_levelchange completion=never closed,,23667,24466
 MS42,MS,level_change,,23667,23671
-MS43,MS,"narrative_level number=""3"" words=407",,24460,24466
+MS43,MS,narrative_level number=3 words=407,,24460,24466

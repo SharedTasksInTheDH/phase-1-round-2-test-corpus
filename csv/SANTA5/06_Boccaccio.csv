@@ -1,8 +1,8 @@
-JH0,JH,"L1N1|n_id:a,n_d:he,t:undef",,44,8525
-JH1,JH,"L1N1|n_id:a,n_d:he,t:id",,8526,8797
-JH2,JH,"L1N1|n_id:a,n_d:he,t:undef",,8798,10069
-JH3,JH,"L1N1|n_id:a,n_d:he,t:id",,10070,10556
-JH4,JH,"L1N1|n_id:a,n_d:he,t:undef",,10557,12068
-YH0,YH,"L1N1|n_id:a,n_d:he,t:undef",,44,8810
-YH1,YH,"L2N1|n_id:b,n_d:ho,t:dsa,b_t:i/a,b_sc:L1N1",,8814,9960
-YH2,YH,"L1N1|n_id:a,n_d:he,t:undef",,9964,12068
+JH0,JH,l1n1,,44,8525
+JH1,JH,l1n1,,8526,8797
+JH2,JH,l1n1,,8798,10069
+JH3,JH,l1n1,,10070,10556
+JH4,JH,l1n1,,10557,12068
+YH0,YH,l1n1,,44,8810
+YH1,YH,l2n1,,8814,9960
+YH2,YH,l1n1,,9964,12068

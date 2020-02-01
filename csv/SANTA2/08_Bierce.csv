@@ -1,78 +1,78 @@
-AS0,AS,"Level DEGREE = ""1""",,74,5481
-AS1,AS,Analepsis,,645,775
-AS2,AS,Analepsis,,805,1033
-AS3,AS,Analepsis,,1066,2396
-AS4,AS,Analepsis,,2429,2635
-AS5,AS,Analepsis,,2672,3192
-AS6,AS,"fid PERS = ""Joel Hatman, Jr""",,3305,3408
-AS7,AS,Analepsis,,4340,4362
-AS8,AS,Analepsis,,4588,4622
-AS9,AS,"Level DEGREE = ""1""",,5524,7850
-AS10,AS,Prolepsis,,5550,5819
-AS11,AS,"fid PERS = ""Caspar Grattan""",,5900,5930
-AS12,AS,Analepsis,,5931,6084
-AS13,AS,Analepsis,,6266,6658
-AS14,AS,"soc PERS = ""Caspar Grattan""",,6662,6952
-AS15,AS,Prolepsis,,6963,6988
-AS16,AS,Schwer zu entscheiden,,7685,7796
-AS17,AS,"Level DEGREE = ""1""",,7894,12715
-AS18,AS,Analepsis,,8425,8792
-AS19,AS,Prolepsis,,8817,8866
-AS20,AS,Analepsis,,9080,10961
-AS21,AS,Analepsis,,11571,12078
-AS22,AS,"Level DEGREE = ""2""",,12796,14614
-AS23,AS,Analepsis,,12796,13781
-AS24,AS,"fid PERS = ""Julia Hetman""",,13782,13838
-AS25,AS,Analepsis,,13867,14060
-AS26,AS,Analepsis,,14110,14256
-AS27,AS,Analepsis,,14393,14589
-AS28,AS,"Level DEGREE = ""1""",,14615,16120
-AS29,AS,"soc PERS = ""Bayrolles""",,14615,15384
-AS30,AS,"fid PERS = ""Bayrolles""",,16000,16120
-AS31,AS,"Level DEGREE = ""2""",,16124,19852
-AS32,AS,Analepsis,,16124,16894
-AS33,AS,"fid PERS = ""Julia Hetman""",,17401,17454
-AS34,AS,Analepsis,,17734,18403
-AS35,AS,Analepsis,,18601,19640
-AS36,AS,"fid PERS = ""Julia Hetman""",,19070,19121
-AS37,AS,Prolepsis,,19779,19852
-KH0,KH,"Level, DEGREE= 1",,74,644
+AS0,AS,level degree=1,,74,5481
+AS1,AS,analepsis,,645,775
+AS2,AS,analepsis,,805,1033
+AS3,AS,analepsis,,1066,2396
+AS4,AS,analepsis,,2429,2635
+AS5,AS,analepsis,,2672,3192
+AS6,AS,fid pers=joel hatman jr,,3305,3408
+AS7,AS,analepsis,,4340,4362
+AS8,AS,analepsis,,4588,4622
+AS9,AS,level degree=1,,5524,7850
+AS10,AS,prolepsis,,5550,5819
+AS11,AS,fid pers=caspar grattan,,5900,5930
+AS12,AS,analepsis,,5931,6084
+AS13,AS,analepsis,,6266,6658
+AS14,AS,soc pers=caspar grattan,,6662,6952
+AS15,AS,prolepsis,,6963,6988
+AS16,AS,schwer zu entscheiden,,7685,7796
+AS17,AS,level degree=1,,7894,12715
+AS18,AS,analepsis,,8425,8792
+AS19,AS,prolepsis,,8817,8866
+AS20,AS,analepsis,,9080,10961
+AS21,AS,analepsis,,11571,12078
+AS22,AS,level degree=2,,12796,14614
+AS23,AS,analepsis,,12796,13781
+AS24,AS,fid pers=julia hetman,,13782,13838
+AS25,AS,analepsis,,13867,14060
+AS26,AS,analepsis,,14110,14256
+AS27,AS,analepsis,,14393,14589
+AS28,AS,level degree=1,,14615,16120
+AS29,AS,soc pers=bayrolles,,14615,15384
+AS30,AS,fid pers=bayrolles,,16000,16120
+AS31,AS,level degree=2,,16124,19852
+AS32,AS,analepsis,,16124,16894
+AS33,AS,fid pers=julia hetman,,17401,17454
+AS34,AS,analepsis,,17734,18403
+AS35,AS,analepsis,,18601,19640
+AS36,AS,fid pers=julia hetman,,19070,19121
+AS37,AS,prolepsis,,19779,19852
+KH0,KH,level degree=1,,74,644
 KH1,KH,analepsis,,645,5481
-KH2,KH,"Level, DEGREE= 2",,645,5481
-KH3,KH,"Level, DEGREE= 1",,5524,6262
+KH2,KH,level degree=2,,645,5481
+KH3,KH,level degree=1,,5524,6262
 KH4,KH,analepsis,,6266,6812
-KH5,KH,"Level, DEGREE= 2",,6266,6812
-KH6,KH,"Level, DEGREE= 1",,6813,8311
+KH5,KH,level degree=2,,6266,6812
+KH6,KH,level degree=1,,6813,8311
 KH7,KH,analepsis,,8312,8816
-KH8,KH,"Level, DEGREE= 2",,8312,8816
-KH9,KH,"Level, DEGREE= 1",,8817,9076
+KH8,KH,level degree=2,,8312,8816
+KH9,KH,level degree=1,,8817,9076
 KH10,KH,analepsis,,9080,10961
-KH11,KH,"Level, DEGREE= 2",,9080,10961
-KH12,KH,"Level, DEGREE= 1",,10965,11570
+KH11,KH,level degree=2,,9080,10961
+KH12,KH,level degree=1,,10965,11570
 KH13,KH,analepsis,,11571,12078
-KH14,KH,"Level, DEGREE= 2",,11571,12078
-KH15,KH,"Level, DEGREE= 1",,12079,12715
+KH14,KH,level degree=2,,11571,12078
+KH15,KH,level degree=1,,12079,12715
 KH16,KH,analepsis,,12796,13594
-KH17,KH,"Level, DEGREE= 2",,12796,13594
-KH18,KH,"Level, DEGREE= 1",,13595,13863
-KH19,KH,"Level, DEGREE= 2",,13867,14060
+KH17,KH,level degree=2,,12796,13594
+KH18,KH,level degree=1,,13595,13863
+KH19,KH,level degree=2,,13867,14060
 KH20,KH,analepsis,,13867,14060
-KH21,KH,"Level, DEGREE= 1",,14061,14106
-KH22,KH,"Level, DEGREE= 2",,14110,14589
+KH21,KH,level degree=1,,14061,14106
+KH22,KH,level degree=2,,14110,14589
 KH23,KH,analepsis,,14110,14589
-KH24,KH,"Level, DEGREE= 1",,14590,16152
-KH25,KH,"Level, DEGREE= 2",,16153,16894
+KH24,KH,level degree=1,,14590,16152
+KH25,KH,level degree=2,,16153,16894
 KH26,KH,analepsis,,16153,16894
-KH27,KH,"Level, DEGREE= 1",,16898,17733
-KH28,KH,"Level, DEGREE= 2",,17734,17821
+KH27,KH,level degree=1,,16898,17733
+KH28,KH,level degree=2,,17734,17821
 KH29,KH,analepsis,,17734,17821
-KH30,KH,"Level, DEGREE= 1",,17822,17869
-KH31,KH,"Level, DEGREE= 2",,17870,18403
+KH30,KH,level degree=1,,17822,17869
+KH31,KH,level degree=2,,17870,18403
 KH32,KH,analepsis,,17870,18403
-KH33,KH,"Level, DEGREE= 1",,18404,18597
-KH34,KH,"Level, DEGREE= 2",,18601,19151
+KH33,KH,level degree=1,,18404,18597
+KH34,KH,level degree=2,,18601,19151
 KH35,KH,analepsis,,18601,19151
-KH36,KH,"Level, DEGREE= 1",,19152,19172
-KH37,KH,"Level, DEGREE= 2",,19173,19640
+KH36,KH,level degree=1,,19152,19172
+KH37,KH,level degree=2,,19173,19640
 KH38,KH,analepsis,,19173,19640
-KH39,KH,"Level, DEGREE= 1",,19641,19852
+KH39,KH,level degree=1,,19641,19852

@@ -1,145 +1,145 @@
-AS0,AS,"Level DEGREE = ""1""",,43,10783
-AS1,AS,"fid PERS = ""Adam""",,51,114
-AS2,AS,"fid PERS = ""Adam""",,332,362
-AS3,AS,Analepsis,,424,459
-AS4,AS,"fid PERS = ""Adam""",,611,671
-AS5,AS,Prolepsis,,976,1017
-AS6,AS,Analepsis,,1141,1447
-AS7,AS,Analepsis,,1582,1624
-AS8,AS,Analepsis,,2032,2116
-AS9,AS,"fid PERS = ""Adam""",,2551,2585
-AS10,AS,Analepsis,,2916,2957
-AS11,AS,"fid PERS = ""Adam""",,2987,3034
-AS12,AS,Analepsis,,3035,3139
-AS13,AS,"fid PERS = ""Adam""",,3600,3675
-AS14,AS,Analepsis,,3690,3766
-AS15,AS,"soc PERS = ""Adam""",,3934,4094
-AS16,AS,Analepsis,,4108,4168
-AS17,AS,"fid PERS = ""Adam""",,4169,4190
-AS18,AS,Analepsis,,4232,4359
-AS19,AS,Analepsis,,4525,4701
-AS20,AS,Analepsis,,4827,5191
-AS21,AS,Prolepsis,,5192,5248
-AS22,AS,Prolepsis,,5192,5248
-AS23,AS,Analepsis,,5641,5661
-AS24,AS,Analepsis,,5894,5984
-AS25,AS,Analepsis,,6069,6171
-AS26,AS,Analepsis,,6187,6244
-AS27,AS,"fid PERS = ""Adam""",,6245,6294
-AS28,AS,Analepsis,,6295,6320
-AS29,AS,"fid PERS = ""Adam""",,6484,6612
-AS30,AS,Analepsis,,6628,6842
-AS31,AS,Analepsis,,7056,7198
-AS32,AS,Prolepsis,,7331,7364
-AS33,AS,Analepsis,,7493,7527
-AS34,AS,Analepsis,,7556,7618
-AS35,AS,"fid PERS = ""Adam""",,7924,8108
-AS36,AS,"fid PERS = ""Adam""",,8109,8109
-AS37,AS,Analepsis,,8224,9384
-AS38,AS,Analepsis,,9496,10318
-AS39,AS,"fid PERS = ""Adam""",,10371,10407
-AS40,AS,"Level DEGREE = ""2""",,10784,10866
-AS41,AS,"Level DEGREE = ""1""",,10785,10785
-AS42,AS,"Level DEGREE = ""1""",,10867,10935
-AS43,AS,"Level DEGREE = ""2""",,10936,11031
-AS44,AS,"Level DEGREE = ""1""",,11032,11829
-AS45,AS,Analepsis,,11059,11220
-AS46,AS,Analepsis,,11317,11360
-AS47,AS,"Level DEGREE = ""2""",,11830,11943
-AS48,AS,"Level DEGREE = ""1""",,11943,22472
-AS49,AS,Analepsis,,12071,12336
-AS50,AS,Analepsis,,12517,12672
-AS51,AS,"fid PERS = ""Adam""",,13012,13055
-AS52,AS,Analepsis,,13468,13562
-AS53,AS,"fid PERS = ""Adam""",,14133,14149
-AS54,AS,"fid PERS = ""Adam""",,14271,14429
-AS55,AS,Analepsis,,14643,14734
-AS56,AS,Analepsis,,14993,15025
-AS57,AS,Analepsis,,15645,15801
-AS58,AS,Analepsis,,15809,16043
-AS59,AS,Analepsis,,16210,16357
-AS60,AS,Analepsis,,16426,16548
-AS61,AS,"fid PERS = ""Adam""",,16549,16619
-AS62,AS,"fid PERS = ""Adam""",,16694,16804
-AS63,AS,Analepsis,,16805,16851
-AS64,AS,Analepsis,,17502,17974
-AS65,AS,Analepsis,,18238,18260
-AS66,AS,"fid PERS = ""Adam""",,18352,18434
-AS67,AS,"fid PERS = ""Adam""",,18459,18480
-AS68,AS,"fid PERS = ""Adam""",,18598,18633
-AS69,AS,"fid PERS = ""Adam""",,18722,18799
-AS70,AS,Analepsis,,18946,19031
-AS71,AS,"fid PERS = ""Adam""",,19102,19149
-AS72,AS,Analepsis,,19174,19195
-AS73,AS,"fid PERS = ""Adam""",,19196,19219
-AS74,AS,Analepsis,,19328,19345
-AS75,AS,"fid PERS = ""Adam""",,19424,19560
-AS76,AS,Analepsis,,19585,19670
-AS77,AS,Analepsis,,19745,19853
-AS78,AS,"fid PERS = ""Adam""",,19854,20075
-AS79,AS,Prolepsis,,20229,20571
-AS80,AS,Analepsis,,20597,20741
-AS81,AS,Analepsis,,20872,21123
-AS82,AS,"fid PERS = ""Adam""",,21634,21689
-AS83,AS,Analepsis,,21841,21866
-AS84,AS,Analepsis,,22216,22255
-KH0,KH,"soc, PERS= Adam",,51,409
+AS0,AS,level degree=1,,43,10783
+AS1,AS,fid pers=adam,,51,114
+AS2,AS,fid pers=adam,,332,362
+AS3,AS,analepsis,,424,459
+AS4,AS,fid pers=adam,,611,671
+AS5,AS,prolepsis,,976,1017
+AS6,AS,analepsis,,1141,1447
+AS7,AS,analepsis,,1582,1624
+AS8,AS,analepsis,,2032,2116
+AS9,AS,fid pers=adam,,2551,2585
+AS10,AS,analepsis,,2916,2957
+AS11,AS,fid pers=adam,,2987,3034
+AS12,AS,analepsis,,3035,3139
+AS13,AS,fid pers=adam,,3600,3675
+AS14,AS,analepsis,,3690,3766
+AS15,AS,soc pers=adam,,3934,4094
+AS16,AS,analepsis,,4108,4168
+AS17,AS,fid pers=adam,,4169,4190
+AS18,AS,analepsis,,4232,4359
+AS19,AS,analepsis,,4525,4701
+AS20,AS,analepsis,,4827,5191
+AS21,AS,prolepsis,,5192,5248
+AS22,AS,prolepsis,,5192,5248
+AS23,AS,analepsis,,5641,5661
+AS24,AS,analepsis,,5894,5984
+AS25,AS,analepsis,,6069,6171
+AS26,AS,analepsis,,6187,6244
+AS27,AS,fid pers=adam,,6245,6294
+AS28,AS,analepsis,,6295,6320
+AS29,AS,fid pers=adam,,6484,6612
+AS30,AS,analepsis,,6628,6842
+AS31,AS,analepsis,,7056,7198
+AS32,AS,prolepsis,,7331,7364
+AS33,AS,analepsis,,7493,7527
+AS34,AS,analepsis,,7556,7618
+AS35,AS,fid pers=adam,,7924,8108
+AS36,AS,fid pers=adam,,8109,8109
+AS37,AS,analepsis,,8224,9384
+AS38,AS,analepsis,,9496,10318
+AS39,AS,fid pers=adam,,10371,10407
+AS40,AS,level degree=2,,10784,10866
+AS41,AS,level degree=1,,10785,10785
+AS42,AS,level degree=1,,10867,10935
+AS43,AS,level degree=2,,10936,11031
+AS44,AS,level degree=1,,11032,11829
+AS45,AS,analepsis,,11059,11220
+AS46,AS,analepsis,,11317,11360
+AS47,AS,level degree=2,,11830,11943
+AS48,AS,level degree=1,,11943,22472
+AS49,AS,analepsis,,12071,12336
+AS50,AS,analepsis,,12517,12672
+AS51,AS,fid pers=adam,,13012,13055
+AS52,AS,analepsis,,13468,13562
+AS53,AS,fid pers=adam,,14133,14149
+AS54,AS,fid pers=adam,,14271,14429
+AS55,AS,analepsis,,14643,14734
+AS56,AS,analepsis,,14993,15025
+AS57,AS,analepsis,,15645,15801
+AS58,AS,analepsis,,15809,16043
+AS59,AS,analepsis,,16210,16357
+AS60,AS,analepsis,,16426,16548
+AS61,AS,fid pers=adam,,16549,16619
+AS62,AS,fid pers=adam,,16694,16804
+AS63,AS,analepsis,,16805,16851
+AS64,AS,analepsis,,17502,17974
+AS65,AS,analepsis,,18238,18260
+AS66,AS,fid pers=adam,,18352,18434
+AS67,AS,fid pers=adam,,18459,18480
+AS68,AS,fid pers=adam,,18598,18633
+AS69,AS,fid pers=adam,,18722,18799
+AS70,AS,analepsis,,18946,19031
+AS71,AS,fid pers=adam,,19102,19149
+AS72,AS,analepsis,,19174,19195
+AS73,AS,fid pers=adam,,19196,19219
+AS74,AS,analepsis,,19328,19345
+AS75,AS,fid pers=adam,,19424,19560
+AS76,AS,analepsis,,19585,19670
+AS77,AS,analepsis,,19745,19853
+AS78,AS,fid pers=adam,,19854,20075
+AS79,AS,prolepsis,,20229,20571
+AS80,AS,analepsis,,20597,20741
+AS81,AS,analepsis,,20872,21123
+AS82,AS,fid pers=adam,,21634,21689
+AS83,AS,analepsis,,21841,21866
+AS84,AS,analepsis,,22216,22255
+KH0,KH,soc pers=adam,,51,409
 KH1,KH,analepsis,,51,409
-KH2,KH,"soc, PERS= Adam",,424,1124
+KH2,KH,soc pers=adam,,424,1124
 KH3,KH,analepsis,,424,1124
-KH4,KH,"soc, PERS= Adam",,1141,1956
+KH4,KH,soc pers=adam,,1141,1956
 KH5,KH,analepsis,,1141,1956
-KH6,KH,"soc, PERS= Adam",,1970,2585
+KH6,KH,soc pers=adam,,1970,2585
 KH7,KH,analepsis,,1970,2585
-KH8,KH,"soc, PERS= Adam",,2599,2957
+KH8,KH,soc pers=adam,,2599,2957
 KH9,KH,analepsis,,2599,2957
-KH10,KH,"soc, PERS= Adam",,2971,3226
+KH10,KH,soc pers=adam,,2971,3226
 KH11,KH,analepsis,,2971,3226
-KH12,KH,"soc, PERS= Adam",,3240,3675
+KH12,KH,soc pers=adam,,3240,3675
 KH13,KH,analepsis,,3240,3675
-KH14,KH,"soc, PERS= Adam",,3690,4094
+KH14,KH,soc pers=adam,,3690,4094
 KH15,KH,analepsis,,3690,4094
-KH16,KH,"soc, PERS= Adam",,4108,4811
+KH16,KH,soc pers=adam,,4108,4811
 KH17,KH,analepsis,,4108,4811
-KH18,KH,"soc, PERS= Adam",,4827,5726
+KH18,KH,soc pers=adam,,4827,5726
 KH19,KH,analepsis,,4827,5726
 KH20,KH,analepsis,,5740,5755
-KH21,KH,"soc, PERS= Adam",,5740,5755
+KH21,KH,soc pers=adam,,5740,5755
 KH22,KH,analepsis,,5769,6171
-KH23,KH,"soc, PERS= Adam",,5769,6171
+KH23,KH,soc pers=adam,,5769,6171
 KH24,KH,analepsis,,6187,6612
-KH25,KH,"soc, PERS= Adam",,6187,6612
+KH25,KH,soc pers=adam,,6187,6612
 KH26,KH,analepsis,,6628,7449
-KH27,KH,"soc, PERS= Adam",,6628,7449
+KH27,KH,soc pers=adam,,6628,7449
 KH28,KH,analepsis,,7463,7478
-KH29,KH,"soc, PERS= Adam",,7463,7478
+KH29,KH,soc pers=adam,,7463,7478
 KH30,KH,analepsis,,7493,7693
-KH31,KH,"soc, PERS= Adam",,7493,7693
+KH31,KH,soc pers=adam,,7493,7693
 KH32,KH,analepsis,,7707,8207
-KH33,KH,"soc, PERS= Adam",,7707,8207
+KH33,KH,soc pers=adam,,7707,8207
 KH34,KH,analepsis,,8224,10661
-KH35,KH,"soc, PERS= Adam",,8224,10661
+KH35,KH,soc pers=adam,,8224,10661
 KH36,KH,analepsis,,10683,12054
-KH37,KH,"soc, PERS= Adam",,10683,12054
+KH37,KH,soc pers=adam,,10683,12054
 KH38,KH,analepsis,,12071,13662
-KH39,KH,"soc, PERS= Adam",,12071,13662
+KH39,KH,soc pers=adam,,12071,13662
 KH40,KH,analepsis,,13676,14116
-KH41,KH,"soc, PERS= Adam",,13676,14116
+KH41,KH,soc pers=adam,,13676,14116
 KH42,KH,analepsis,,14133,14899
-KH43,KH,"soc, PERS= Adam",,14133,14899
+KH43,KH,soc pers=adam,,14133,14899
 KH44,KH,analepsis,,14925,17013
-KH45,KH,"soc, PERS= Adam",,14925,17013
+KH45,KH,soc pers=adam,,14925,17013
 KH46,KH,analepsis,,17039,18434
-KH47,KH,"soc, PERS= Adam",,17039,18434
+KH47,KH,soc pers=adam,,17039,18434
 KH48,KH,analepsis,,18459,19149
-KH49,KH,"soc, PERS= Adam",,18459,19149
+KH49,KH,soc pers=adam,,18459,19149
 KH50,KH,analepsis,,19174,19560
-KH51,KH,"soc, PERS= Adam",,19174,19560
+KH51,KH,soc pers=adam,,19174,19560
 KH52,KH,analepsis,,19585,20571
-KH53,KH,"soc, PERS= Adam",,19585,20571
+KH53,KH,soc pers=adam,,19585,20571
 KH54,KH,analepsis,,20597,20856
-KH55,KH,"soc, PERS= Adam",,20597,20856
+KH55,KH,soc pers=adam,,20597,20856
 KH56,KH,analepsis,,20872,21803
-KH57,KH,"soc, PERS= Adam",,20872,21803
+KH57,KH,soc pers=adam,,20872,21803
 KH58,KH,analepsis,,21826,22472
-KH59,KH,"soc, PERS= Adam",,21826,22472
+KH59,KH,soc pers=adam,,21826,22472

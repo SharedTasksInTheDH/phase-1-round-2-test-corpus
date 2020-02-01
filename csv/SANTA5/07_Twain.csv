@@ -1,5 +1,5 @@
-JH0,JH,"L1N1|n_id:a,n_d:ho,t:n",,43,8870
-JH1,JH,"L1N2|n_id:a,d:ho,t:n",,8871,22472
-YH0,YH,"L1N1|n_id:a,n_d:ho,t:undef",,43,8207
-YH1,YH,"L1N2|n_id:a,n_d:ho,t:undef",,8213,12054
-YH2,YH,"L1N3|n_id:a,n_d:ho,t:undef",,12060,22472
+JH0,JH,l1n1,,43,8870
+JH1,JH,l1n2,,8871,22472
+YH0,YH,l1n1,,43,8207
+YH1,YH,l1n2,,8213,12054
+YH2,YH,l1n3,,12060,22472

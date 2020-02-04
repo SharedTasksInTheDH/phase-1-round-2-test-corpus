@@ -1,7 +1,7 @@
 {
     "items": {
         "JH": {
-            "L1N1|n_id:a,n_d:he,t:undef": [
+            "l1n1": [
                 60,
                 6013,
                 2769,
@@ -10,36 +10,36 @@
                 132,
                 181
             ],
-            "L1N2|n_id:a,n_d:he,t:undef": [
+            "l1n2": [
                 6084,
                 2746,
                 12582
             ],
-            "L1N3|n_id:a,n_d:he,t:undef": [
+            "l1n3": [
                 8954,
                 12142,
                 316
             ]
         },
         "YH": {
-            "L1N1|n_id:a,n_d:he,t:undef": [
+            "l1n1": [
                 55,
                 6018,
                 15339
             ],
-            "L1N2|n_id:a,n_d:he,t:undef": [
+            "l1n2": [
                 6078,
                 2752,
                 12582
             ],
-            "L1N3|n_id:a,n_d:he,t:undef": [
+            "l1n3": [
                 8835,
                 11457,
                 807,
                 132,
                 181
             ],
-            "L2N1|n_id:a,n_d:he,t:undef,b_t:i/v,b_sc:L1N3": [
+            "l2n1": [
                 20292,
                 804,
                 316

@@ -1,13 +1,13 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
 level_change, FP, MS, N/A, N/A
-narrative_level number="1", FP, MS, N/A, N/A
-narrative_level number="1" words=1488, FP, MS, N/A, N/A
-narrative_level number="2", FP, MS, N/A, N/A
-narrative_level number="2" words=86, FP, MS, N/A, N/A
+narrative_level number=1, FP, MS, N/A, N/A
+narrative_level number=1 words=1488, FP, MS, N/A, N/A
+narrative_level number=2, FP, MS, N/A, N/A
+narrative_level number=2 words=86, FP, MS, N/A, N/A
 narrative_level number=”3”, FP, MS, N/A, N/A
 narrative_level number=”3” words=1574, FP, MS, N/A, N/A
-narrative_levelchange completion="never closed", FP, MS, N/A, N/A
-narrative_levelchange completion="never opened", FP, MS, N/A, N/A
+narrative_levelchange completion=never closed, FP, MS, N/A, N/A
+narrative_levelchange completion=never opened, FP, MS, N/A, N/A
 narrative_levelchange completion=”complete”, FP, MS, N/A, N/A
-narrator participation="heterodiegetic", FP, MS, N/A, N/A
+narrator participation=heterodiegetic, FP, MS, N/A, N/A
 narrator participation=”heterodiegetic”, FP, MS, N/A, N/A

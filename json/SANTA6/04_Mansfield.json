@@ -226,7 +226,7 @@
                 4,
                 10715
             ],
-            "narrative_level number=\"1\"": [
+            "narrative_level number=1": [
                 3646,
                 47,
                 17,
@@ -243,12 +243,12 @@
                 690,
                 10722
             ],
-            "narrative_level number=\"1\" words=351": [
+            "narrative_level number=1 words=351": [
                 16537,
                 10,
                 10722
             ],
-            "narrative_level number=\"2\"": [
+            "narrative_level number=2": [
                 32,
                 3611,
                 50,
@@ -267,7 +267,7 @@
                 9642,
                 1077
             ],
-            "narrative_level number=\"2\" words=4440": [
+            "narrative_level number=2 words=4440": [
                 26185,
                 7,
                 1077
@@ -303,17 +303,17 @@
                 4,
                 10715
             ],
-            "narrative_levelchange completion=\"never closed\"": [
+            "narrative_levelchange completion=never closed": [
                 16550,
                 9642,
                 1077
             ],
-            "narrative_levelchange completion=\"never opened\"": [
+            "narrative_levelchange completion=never opened": [
                 32,
                 3611,
                 23626
             ],
-            "narrative_levelchnage completion=\"complete\"": [
+            "narrative_levelchnage completion=complete": [
                 3646,
                 47,
                 17,
@@ -336,14 +336,14 @@
                 690,
                 10722
             ],
-            "narrator participation=\"autodiegetic\"": [
+            "narrator participation=autodiegetic": [
                 10391,
                 376,
                 1064,
                 257,
                 15181
             ],
-            "narrator participation=\"heterodiegetic\"": [
+            "narrator participation=heterodiegetic": [
                 32,
                 3611,
                 50,
@@ -362,7 +362,7 @@
                 9642,
                 1077
             ],
-            "narrator participation=\"homodiegetic\"": [
+            "narrator participation=homodiegetic": [
                 3646,
                 47,
                 17,

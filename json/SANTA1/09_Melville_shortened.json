@@ -1,24 +1,24 @@
 {
     "items": {
         "AJ": {
-            "Embedded": [
+            "embedded": [
                 665,
                 21902,
                 2221
             ],
-            "Original": [
+            "original": [
                 76,
                 24418,
                 294
             ]
         },
         "MS": {
-            "Embedded": [
+            "embedded": [
                 665,
                 21902,
                 2221
             ],
-            "Original": [
+            "original": [
                 76,
                 24418,
                 294

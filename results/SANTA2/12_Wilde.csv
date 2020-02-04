@@ -1,11 +1,9 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-Analepsis, AS, KH, N/A, N/A
-Level DEGREE = "1", AS, KH, N/A, N/A
-Level DEGREE = "2", AS, KH, N/A, N/A
-Level, DEGREE= 1, AS, KH, N/A, N/A
-Level, DEGREE= 2, AS, KH, N/A, N/A
-Prolepsis, AS, KH, N/A, N/A
-fid, PERS= Benghal Light, AS, KH, N/A, N/A
-fid, PERS= Catherine Wheel, AS, KH, N/A, N/A
-fid, PERS= King, AS, KH, N/A, N/A
-fid, PERS= Remarkable Rocket, AS, KH, N/A, N/A
+analepsis, AS, KH, N/A, N/A
+fid pers=benghal light, AS, KH, N/A, N/A
+fid pers=catherine wheel, AS, KH, N/A, N/A
+fid pers=king, AS, KH, N/A, N/A
+fid pers=remarkable rocket, AS, KH, N/A, N/A
+level degree=1, AS, KH, 0.9972532045946395871483269519, 0.01492537313432835820895522388
+level degree=2, AS, KH, 0.9972532045946395871483269519, 0
+prolepsis, AS, KH, N/A, N/A

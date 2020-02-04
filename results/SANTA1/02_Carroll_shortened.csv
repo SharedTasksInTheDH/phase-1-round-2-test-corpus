@@ -1,7 +1,7 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-Dream, AJ, MS, N/A, N/A
-Dream_2, AJ, MS, N/A, N/A
-Embedded, AJ, MS, N/A, N/A
-Flashforward, AJ, MS, N/A, N/A
-Interruptive, AJ, MS, 0.9997356478829801295325373397, 0
-Original, AJ, MS, 0.9997356478829801295325373397, 0.25
+dream, AJ, MS, N/A, N/A
+dream_2, AJ, MS, N/A, N/A
+embedded, AJ, MS, N/A, N/A
+flashforward, AJ, MS, N/A, N/A
+interruptive, AJ, MS, 0.9997356478829801295325373397, 0
+original, AJ, MS, 0.9997356478829801295325373397, 0.25

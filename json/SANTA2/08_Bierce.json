@@ -1,7 +1,7 @@
 {
     "items": {
         "AS": {
-            "Analepsis": [
+            "analepsis": [
                 645,
                 131,
                 29,
@@ -42,7 +42,31 @@
                 1040,
                 337
             ],
-            "Level DEGREE = \"1\"": [
+            "fid pers=bayrolles": [
+                16000,
+                121,
+                3857
+            ],
+            "fid pers=caspar grattan": [
+                5900,
+                31,
+                14047
+            ],
+            "fid pers=joel hatman jr": [
+                3305,
+                104,
+                16569
+            ],
+            "fid pers=julia hetman": [
+                13782,
+                57,
+                3562,
+                54,
+                1615,
+                52,
+                856
+            ],
+            "level degree=1": [
                 74,
                 5408,
                 42,
@@ -53,14 +77,14 @@
                 1506,
                 3857
             ],
-            "Level DEGREE = \"2\"": [
+            "level degree=2": [
                 12796,
                 1819,
                 1509,
                 3729,
                 125
             ],
-            "Prolepsis": [
+            "prolepsis": [
                 5550,
                 270,
                 1143,
@@ -71,48 +95,53 @@
                 74,
                 125
             ],
-            "Schwer zu entscheiden": [
+            "schwer zu entscheiden": [
                 7685,
                 112,
                 12181
             ],
-            "fid PERS = \"Bayrolles\"": [
-                16000,
-                121,
-                3857
-            ],
-            "fid PERS = \"Caspar Grattan\"": [
-                5900,
-                31,
-                14047
-            ],
-            "fid PERS = \"Joel Hatman, Jr\"": [
-                3305,
-                104,
-                16569
-            ],
-            "fid PERS = \"Julia Hetman\"": [
-                13782,
-                57,
-                3562,
-                54,
-                1615,
-                52,
-                856
-            ],
-            "soc PERS = \"Bayrolles\"": [
+            "soc pers=bayrolles": [
                 14615,
                 770,
                 4593
             ],
-            "soc PERS = \"Caspar Grattan\"": [
+            "soc pers=caspar grattan": [
                 6662,
                 291,
                 13025
             ]
         },
         "KH": {
-            "Level, DEGREE= 1": [
+            "analepsis": [
+                645,
+                4837,
+                784,
+                547,
+                1499,
+                505,
+                263,
+                1882,
+                609,
+                508,
+                717,
+                799,
+                272,
+                194,
+                49,
+                480,
+                1563,
+                742,
+                839,
+                88,
+                48,
+                534,
+                197,
+                551,
+                21,
+                468,
+                337
+            ],
+            "level degree=1": [
                 74,
                 571,
                 4879,
@@ -143,36 +172,7 @@
                 212,
                 125
             ],
-            "Level, DEGREE= 2": [
-                645,
-                4837,
-                784,
-                547,
-                1499,
-                505,
-                263,
-                1882,
-                609,
-                508,
-                717,
-                799,
-                272,
-                194,
-                49,
-                480,
-                1563,
-                742,
-                839,
-                88,
-                48,
-                534,
-                197,
-                551,
-                21,
-                468,
-                337
-            ],
-            "analepsis": [
+            "level degree=2": [
                 645,
                 4837,
                 784,

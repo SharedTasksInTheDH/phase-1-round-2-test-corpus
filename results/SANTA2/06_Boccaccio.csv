@@ -1,8 +1,7 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-Analepsis, AS, KH, N/A, N/A
-Level DEGREE = "1", AS, KH, N/A, N/A
-Level DEGREE = "2", AS, KH, N/A, N/A
-analepsis, AS, KH, N/A, N/A
-fid, PERS= Federigo, AS, KH, N/A, N/A
-fid, PERS= Giovanna's son, AS, KH, N/A, N/A
-fid, PERS= Monna Giovanna , AS, KH, N/A, N/A
+analepsis, AS, KH, 0.9991821378915514844197268341, 0
+fid pers=federigo, AS, KH, N/A, N/A
+fid pers=giovanna's son, AS, KH, N/A, N/A
+fid pers=monna giovanna , AS, KH, N/A, N/A
+level degree=1, AS, KH, N/A, N/A
+level degree=2, AS, KH, N/A, N/A

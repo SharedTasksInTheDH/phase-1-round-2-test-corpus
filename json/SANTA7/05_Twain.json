@@ -1,37 +1,37 @@
 {
     "items": {
         "CB": {
-            "CHARACTERS_0": [
+            "characters_0": [
                 1612,
                 35,
                 8136
             ],
-            "FOC_INT": [
+            "foc_int": [
                 40,
                 9656,
                 87
             ],
-            "FOC_UNR": [
+            "foc_unr": [
                 2220,
                 7476,
                 87
             ],
-            "NARRATOR_0": [
+            "narrator_0": [
                 40,
                 9656,
                 87
             ],
-            "NARRATOR_1": [
+            "narrator_1": [
                 2220,
                 7476,
                 87
             ],
-            "TURN": [
+            "turn": [
                 1612,
                 35,
                 8136
             ],
-            "VOICE_1": [
+            "voice_1": [
                 40,
                 2180,
                 7476,
@@ -39,58 +39,58 @@
             ]
         },
         "MM": {
-            "CHARACTERS_0": [
+            "characters_0": [
                 1612,
                 35,
                 5625,
                 60,
                 2451
             ],
-            "FOC_EXT": [
+            "foc_ext": [
                 21,
                 9675,
                 87
             ],
-            "FOC_INT": [
+            "foc_int": [
                 187,
                 9509,
                 87
             ],
-            "NARRATOR_0": [
+            "narrator_0": [
                 22,
                 9674,
                 87
             ],
-            "NARRATOR_1": [
+            "narrator_1": [
                 187,
                 9509,
                 87
             ],
-            "NARRATOR_2": [
+            "narrator_2": [
                 2220,
                 3758,
                 642,
                 3008,
                 155
             ],
-            "NC": [
+            "nc": [
                 7287,
                 18,
                 2478
             ],
-            "TURN": [
+            "turn": [
                 1612,
                 35,
                 5625,
                 60,
                 2451
             ],
-            "VOICE_1": [
+            "voice_1": [
                 187,
                 9509,
                 87
             ],
-            "VOICE_3": [
+            "voice_3": [
                 21,
                 9675,
                 87

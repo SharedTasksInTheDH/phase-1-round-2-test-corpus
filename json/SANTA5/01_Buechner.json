@@ -1,19 +1,19 @@
 {
     "items": {
         "JH": {
-            "L1N1|n_id:a,n_d:he,t:undef": [
+            "l1n1": [
                 70,
                 9691,
                 6191
             ],
-            "L1N2|n_id:a,n_d:he,t:undef": [
+            "l1n2": [
                 9762,
                 6128,
                 62
             ]
         },
         "YH": {
-            "L1N1|n_id:a,n_d:he,t:undef": [
+            "l1n1": [
                 70,
                 4727,
                 238,
@@ -30,7 +30,7 @@
                 1608,
                 62
             ],
-            "L2N1|n_id:b,n_d:he,t:id,b_t:o/a,b_sc:L1N1": [
+            "l2n1": [
                 4797,
                 238,
                 932,

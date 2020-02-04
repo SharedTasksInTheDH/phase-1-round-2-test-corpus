@@ -1,7 +1,7 @@
 {
     "items": {
         "AJ": {
-            "Embedded": [
+            "embedded": [
                 51,
                 359,
                 14,
@@ -64,19 +64,19 @@
                 647,
                 144
             ],
-            "Embedded_2": [
+            "embedded_2": [
                 11374,
                 405,
                 10838
             ],
-            "Original": [
+            "original": [
                 43,
                 22441,
                 133
             ]
         },
         "MS": {
-            " Flashback": [
+            " flashback": [
                 4827,
                 900,
                 901,
@@ -87,7 +87,7 @@
                 86,
                 2946
             ],
-            "Original": [
+            "original": [
                 43,
                 367,
                 5,

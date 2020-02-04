@@ -1,6 +1,4 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-1, MH, RF, N/A, N/A
-Ebene 1, MH, RF, N/A, N/A
-Ebene 2, MH, RF, N/A, N/A
-n, MH, RF, N/A, N/A
-non-narrative, MH, RF, N/A, N/A
+1, MH, RF, 1, 1
+2, MH, RF, N/A, N/A
+n, MH, RF, 0.9997799618600557429954525451, 0

@@ -1,7 +1,7 @@
 {
     "items": {
         "AS": {
-            "Level DEGREE = \"1\"": [
+            "level degree=1": [
                 13,
                 9027,
                 368,
@@ -10,7 +10,7 @@
                 643,
                 66
             ],
-            "Level DEGREE = \"2\"": [
+            "level degree=2": [
                 9040,
                 363,
                 1053,

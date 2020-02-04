@@ -1,14 +1,14 @@
 {
     "items": {
         "AJ": {
-            "Interruptive": [
+            "interruptive": [
                 6084,
                 2746,
                 12269,
                 132,
                 181
             ],
-            "Original": [
+            "original": [
                 60,
                 6013,
                 2769,
@@ -17,17 +17,17 @@
             ]
         },
         "MS": {
-            " Flashback": [
+            " flashback": [
                 6078,
                 2752,
                 12582
             ],
-            "Dream": [
+            "dream": [
                 8842,
                 12254,
                 316
             ],
-            "Original": [
+            "original": [
                 55,
                 6018,
                 5,

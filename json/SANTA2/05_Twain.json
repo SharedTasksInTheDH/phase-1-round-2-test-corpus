@@ -1,7 +1,7 @@
 {
     "items": {
         "AS": {
-            "Analepsis": [
+            "analepsis": [
                 574,
                 154,
                 560,
@@ -26,44 +26,44 @@
                 378,
                 437
             ],
-            "Level DEGREE=\"2\"": [
+            "fid pers=1st person narrator": [
+                490,
+                48,
+                9245
+            ],
+            "level degree=2": [
                 2220,
                 7476,
                 87
             ],
-            "Levle DEGREE=\"1\"": [
+            "levle degree=1": [
                 187,
                 2030,
                 7566
             ],
-            "Prolepsis": [
+            "prolepsis": [
                 322,
                 83,
                 2463,
                 152,
                 6763
-            ],
-            "fid PERS=\"1st person narrator\"": [
-                490,
-                48,
-                9245
             ]
         },
         "KH": {
-            "Level, DEGREE= 1": [
-                187,
-                2030,
-                7566
-            ],
-            "Level, DEGREE= 2": [
-                2220,
-                7476,
-                87
-            ],
             "analepsis": [
                 187,
                 2030,
                 3,
+                7476,
+                87
+            ],
+            "level degree=1": [
+                187,
+                2030,
+                7566
+            ],
+            "level degree=2": [
+                2220,
                 7476,
                 87
             ]

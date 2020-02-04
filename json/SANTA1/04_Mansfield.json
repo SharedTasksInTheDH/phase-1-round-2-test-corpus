@@ -1,7 +1,7 @@
 {
     "items": {
         "AJ": {
-            "Embedded": [
+            "embedded": [
                 3711,
                 165,
                 3180,
@@ -22,14 +22,14 @@
                 210,
                 11201
             ],
-            "Original": [
+            "original": [
                 32,
                 26160,
                 1077
             ]
         },
         "MS": {
-            "Original": [
+            "original": [
                 32,
                 26160,
                 1077

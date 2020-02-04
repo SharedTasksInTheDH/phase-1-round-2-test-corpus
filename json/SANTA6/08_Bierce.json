@@ -88,7 +88,7 @@
                 2,
                 2242
             ],
-            "narrative_level number=\"1\"": [
+            "narrative_level number=1": [
                 1469,
                 1244,
                 3,
@@ -107,12 +107,12 @@
                 2119,
                 125
             ],
-            "narrative_level number=\"1\" words=2131": [
+            "narrative_level number=1 words=2131": [
                 19465,
                 6,
                 507
             ],
-            "narrative_level number=\"2\"": [
+            "narrative_level number=2": [
                 74,
                 1392,
                 4058,
@@ -129,12 +129,12 @@
                 836,
                 2244
             ],
-            "narrative_level number=\"2\" words=1443": [
+            "narrative_level number=2 words=1443": [
                 17727,
                 7,
                 2244
             ],
-            "narrative_levelchange completion=\"complete\"": [
+            "narrative_levelchange completion=complete": [
                 1469,
                 1244,
                 3,
@@ -159,17 +159,17 @@
                 836,
                 2244
             ],
-            "narrative_levelchange completion=\"never closed\"": [
+            "narrative_levelchange completion=never closed": [
                 17734,
                 2119,
                 125
             ],
-            "narrative_levelchange completion=\"never opened\"": [
+            "narrative_levelchange completion=never opened": [
                 74,
                 1392,
                 18512
             ],
-            "narrator participation=\"autodiegetic\"": [
+            "narrator participation=autodiegetic": [
                 74,
                 1392,
                 1250,
@@ -180,7 +180,7 @@
                 7057,
                 125
             ],
-            "narrator participation=\"homodiegetic\"": [
+            "narrator participation=homodiegetic": [
                 1469,
                 1244,
                 17265

@@ -1,14 +1,14 @@
 {
     "items": {
         "AS": {
-            "Analepsis": [
+            "analepsis": [
                 6411,
                 745,
                 8795,
                 146,
                 7932
             ],
-            "Level DEGREE = \"1\"": [
+            "level degree=1": [
                 39,
                 5829,
                 35,
@@ -73,7 +73,7 @@
                 500,
                 101
             ],
-            "Level DEGREE = \"2\"": [
+            "level degree=2": [
                 5864,
                 40,
                 15,
@@ -136,7 +136,7 @@
                 120,
                 600
             ],
-            "Prolepsis": [
+            "prolepsis": [
                 15749,
                 42,
                 2262,
@@ -159,30 +159,12 @@
             ]
         },
         "KH": {
-            "Level, DEGREE= 1": [
-                39,
-                3428,
-                9086,
-                779,
-                722,
-                78,
-                9897
-            ],
-            "Level, DEGREE= 2": [
-                3470,
-                9080,
-                785,
-                719,
-                81,
-                9793,
-                101
-            ],
-            "fid, PERS= Benghal Light": [
+            "fid pers=benghal light": [
                 7375,
                 143,
                 16511
             ],
-            "fid, PERS= Catherine Wheel": [
+            "fid pers=catherine wheel": [
                 4053,
                 40,
                 696,
@@ -191,12 +173,12 @@
                 32,
                 11702
             ],
-            "fid, PERS= King": [
+            "fid pers=king": [
                 2427,
                 77,
                 21525
             ],
-            "fid, PERS= Remarkable Rocket": [
+            "fid pers=remarkable rocket": [
                 13905,
                 149,
                 2136,
@@ -206,6 +188,24 @@
                 1423,
                 65,
                 763
+            ],
+            "level degree=1": [
+                39,
+                3428,
+                9086,
+                779,
+                722,
+                78,
+                9897
+            ],
+            "level degree=2": [
+                3470,
+                9080,
+                785,
+                719,
+                81,
+                9793,
+                101
             ]
         }
     },

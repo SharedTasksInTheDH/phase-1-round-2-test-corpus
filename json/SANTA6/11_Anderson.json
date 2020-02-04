@@ -28,37 +28,37 @@
                 2,
                 8356
             ],
-            "narrative_level number=\"1\"": [
+            "narrative_level number=1": [
                 549,
                 8282,
                 76
             ],
-            "narrative_level number=\"1\" words=1488": [
+            "narrative_level number=1 words=1488": [
                 8824,
                 7,
                 76
             ],
-            "narrative_level number=\"2\"": [
+            "narrative_level number=2": [
                 96,
                 450,
                 8361
             ],
-            "narrative_level number=\"2\" words=86": [
+            "narrative_level number=2 words=86": [
                 541,
                 5,
                 8361
             ],
-            "narrative_levelchange completion=\"never closed\"": [
+            "narrative_levelchange completion=never closed": [
                 549,
                 8282,
                 76
             ],
-            "narrative_levelchange completion=\"never opened\"": [
+            "narrative_levelchange completion=never opened": [
                 96,
                 450,
                 8361
             ],
-            "narrator participation=\"heterodiegetic\"": [
+            "narrator participation=heterodiegetic": [
                 96,
                 450,
                 3,

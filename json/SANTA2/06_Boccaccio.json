@@ -1,7 +1,7 @@
 {
     "items": {
         "AS": {
-            "Analepsis": [
+            "analepsis": [
                 1915,
                 56,
                 853,
@@ -12,14 +12,14 @@
                 26,
                 309
             ],
-            "Level DEGREE = \"1\"": [
+            "level degree=1": [
                 44,
                 9294,
                 621,
                 2110,
                 159
             ],
-            "Level DEGREE = \"2\"": [
+            "level degree=2": [
                 9338,
                 622,
                 2268
@@ -31,7 +31,7 @@
                 12010,
                 159
             ],
-            "fid, PERS= Federigo": [
+            "fid pers=federigo": [
                 982,
                 106,
                 4345,
@@ -40,12 +40,12 @@
                 117,
                 3783
             ],
-            "fid, PERS= Giovanna's son": [
+            "fid pers=giovanna's son": [
                 1971,
                 146,
                 10111
             ],
-            "fid, PERS= Monna Giovanna ": [
+            "fid pers=monna giovanna ": [
                 2707,
                 927,
                 5023,

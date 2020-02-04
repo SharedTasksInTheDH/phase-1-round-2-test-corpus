@@ -23,17 +23,17 @@
             ]
         },
         "MS": {
-            "narrative_level number=\"1\"": [
+            "narrative_level number=1": [
                 43,
                 22430,
                 144
             ],
-            "narrative_level number=\"1\" words=4358": [
+            "narrative_level number=1 words=4358": [
                 22465,
                 8,
                 144
             ],
-            "narrator participation=\"autodiegetic\"": [
+            "narrator participation=autodiegetic": [
                 43,
                 22430,
                 144

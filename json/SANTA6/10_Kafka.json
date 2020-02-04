@@ -130,7 +130,7 @@
                 9,
                 695
             ],
-            "narrative_level number=\"1\"": [
+            "narrative_level number=1": [
                 6368,
                 565,
                 2107,
@@ -139,12 +139,12 @@
                 2898,
                 707
             ],
-            "narrative_level number=\"1\" words=727": [
+            "narrative_level number=1 words=727": [
                 12794,
                 6,
                 707
             ],
-            "narrative_level number=\"2\"": [
+            "narrative_level number=2": [
                 49,
                 6319,
                 568,
@@ -155,12 +155,12 @@
                 638,
                 66
             ],
-            "narrative_level number=\"2\" words=1850": [
+            "narrative_level number=2 words=1850": [
                 13435,
                 6,
                 66
             ],
-            "narrative_levelchange completion=\"complete\"": [
+            "narrative_levelchange completion=complete": [
                 6368,
                 565,
                 3,
@@ -172,17 +172,17 @@
                 2898,
                 707
             ],
-            "narrative_levelchange completion=\"never closed\"": [
+            "narrative_levelchange completion=never closed": [
                 12803,
                 638,
                 66
             ],
-            "narrative_levelchange completion=\"never opened\"": [
+            "narrative_levelchange completion=never opened": [
                 49,
                 6319,
                 7139
             ],
-            "narrator participation=\"autodiegetic\"": [
+            "narrator participation=autodiegetic": [
                 49,
                 6319,
                 565,
@@ -196,7 +196,7 @@
                 638,
                 66
             ],
-            "narrator participation=\"homodiegetic\"": [
+            "narrator participation=homodiegetic": [
                 9040,
                 364,
                 4103

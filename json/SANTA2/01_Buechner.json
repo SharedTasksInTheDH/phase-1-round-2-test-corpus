@@ -1,7 +1,7 @@
 {
     "items": {
         "AS": {
-            "Analepsis": [
+            "analepsis": [
                 3888,
                 43,
                 5203,
@@ -24,7 +24,7 @@
                 48,
                 1888
             ],
-            "Level DEGREE = \"1\"": [
+            "level degree=1": [
                 70,
                 7324,
                 6,
@@ -49,19 +49,14 @@
                 1371,
                 84
             ],
-            "Level DEGREE = \"2\"": [
+            "level degree=2": [
                 9875,
                 211,
                 5866
             ]
         },
         "KH": {
-            "Level, DEGREE= 1": [
-                70,
-                15820,
-                62
-            ],
-            "fid, PERS= Lenz": [
+            "fid pers=lenz": [
                 523,
                 244,
                 109,
@@ -122,7 +117,7 @@
                 117,
                 84
             ],
-            "fid, PERS= Oberlin": [
+            "fid pers=oberlin": [
                 7858,
                 104,
                 3087,
@@ -130,6 +125,11 @@
                 3113,
                 72,
                 1519
+            ],
+            "level degree=1": [
+                70,
+                15820,
+                62
             ]
         }
     },

@@ -1,16 +1,16 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
 change_narratee, FP, MS, N/A, N/A
 level_change, FP, MS, N/A, N/A
-narrative_level number="1", FP, MS, N/A, N/A
-narrative_level number="1" words=196, FP, MS, N/A, N/A
-narrative_level number="2", FP, MS, N/A, N/A
-narrative_level number="2" words=2692, FP, MS, N/A, N/A
+narrative_level number=1, FP, MS, N/A, N/A
+narrative_level number=1 words=196, FP, MS, N/A, N/A
+narrative_level number=2, FP, MS, N/A, N/A
+narrative_level number=2 words=2692, FP, MS, N/A, N/A
 narrative_level number=”3”, FP, MS, N/A, N/A
 narrative_level number=”3” words=2888, FP, MS, N/A, N/A
-narrative_levelchange completion="complete", FP, MS, N/A, N/A
-narrative_levelchange completion="never opened", FP, MS, N/A, N/A
+narrative_levelchange completion=complete, FP, MS, N/A, N/A
+narrative_levelchange completion=never opened, FP, MS, N/A, N/A
 narrative_levelchange completion=“complete“, FP, MS, N/A, N/A
-narrator participation="autodiegetic", FP, MS, N/A, N/A
-narrator participation="heterodiegetic", FP, MS, N/A, N/A
+narrator participation=autodiegetic, FP, MS, N/A, N/A
+narrator participation=heterodiegetic, FP, MS, N/A, N/A
 narrator participation=”heterodiegetic”, FP, MS, N/A, N/A
 narrator_change, FP, MS, N/A, N/A

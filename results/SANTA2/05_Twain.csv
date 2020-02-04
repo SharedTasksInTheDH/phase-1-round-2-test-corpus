@@ -1,9 +1,7 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-Analepsis, AS, KH, N/A, N/A
-Level DEGREE="2", AS, KH, N/A, N/A
-Level, DEGREE= 1, AS, KH, N/A, N/A
-Level, DEGREE= 2, AS, KH, N/A, N/A
-Levle DEGREE="1", AS, KH, N/A, N/A
-Prolepsis, AS, KH, N/A, N/A
-analepsis, AS, KH, N/A, N/A
-fid PERS="1st person narrator", AS, KH, N/A, N/A
+analepsis, AS, KH, 0.9973420568390922101819668779, 0
+fid pers=1st person narrator, AS, KH, N/A, N/A
+level degree=1, AS, KH, N/A, N/A
+level degree=2, AS, KH, 1, 1
+levle degree=1, AS, KH, N/A, N/A
+prolepsis, AS, KH, N/A, N/A

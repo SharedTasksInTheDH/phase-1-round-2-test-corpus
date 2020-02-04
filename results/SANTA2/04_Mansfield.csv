@@ -1,12 +1,9 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-Analepsis, AS, KH, N/A, N/A
-Level DEGREE = "2", AS, KH, N/A, N/A
-Level DEGREE = "3", AS, KH, N/A, N/A
-Soc PERS = "Bertha", AS, KH, N/A, N/A
-analepsis, AS, KH, N/A, N/A
-fid PERS = "Bertha", AS, KH, N/A, N/A
-fid, PERS= Bertha, AS, KH, N/A, N/A
-fid, PERS= Eddie, AS, KH, N/A, N/A
-level DEGREE = "1", AS, KH, N/A, N/A
+analepsis, AS, KH, 0.9995599237201114859909050902, 0.07692307692307692307692307692
+fid pers=bertha, AS, KH, 0.9977262725539093442863429661, 0.1014492753623188405797101449
+fid pers=eddie, AS, KH, N/A, N/A
+level degree=1, AS, KH, N/A, N/A
+level degree=2, AS, KH, N/A, N/A
+level degree=3, AS, KH, N/A, N/A
 prolepsis, AS, KH, N/A, N/A
-soc, PERS= Bertha, AS, KH, N/A, N/A
+soc pers=bertha, AS, KH, 0.9993398855801672289863576353, 0.1428571428571428571428571429

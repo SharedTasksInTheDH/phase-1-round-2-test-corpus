@@ -1,5 +1,5 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
- Flashback, AJ, MS, N/A, N/A
-Embedded, AJ, MS, N/A, N/A
-Embedded_2, AJ, MS, N/A, N/A
-Original, AJ, MS, 0.9981429076759816059426954369, 0.02325581395348837209302325581
+ flashback, AJ, MS, N/A, N/A
+embedded, AJ, MS, N/A, N/A
+embedded_2, AJ, MS, N/A, N/A
+original, AJ, MS, 0.9981429076759816059426954369, 0.02325581395348837209302325581

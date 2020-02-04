@@ -1,12 +1,8 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-Analepsis, AS, KH, N/A, N/A
-Level DEGREE = "1", AS, KH, N/A, N/A
-Level DEGREE = "2", AS, KH, N/A, N/A
-Level, DEGREE= 1, AS, KH, N/A, N/A
-Level, DEGREE= 2, AS, KH, N/A, N/A
-Level, DEGREE= 3, AS, KH, N/A, N/A
-analepsis, AS, KH, N/A, N/A
-fid PERS = "Peyton", AS, KH, N/A, N/A
-fid PERS = "captain", AS, KH, N/A, N/A
-fid, PERS= Peyton, AS, KH, N/A, N/A
-soc PERS = "Peyton", AS, KH, N/A, N/A
+analepsis, AS, KH, 1, 1
+fid pers=captain, AS, KH, N/A, N/A
+fid pers=peyton, AS, KH, 0.9974779319041614123581336696, 0.01818181818181818181818181818
+level degree=1, AS, KH, 0.9991126056699827191630470319, 0.1739130434782608695652173913
+level degree=2, AS, KH, 0.9995329503526224837700247536, 0
+level degree=3, AS, KH, N/A, N/A
+soc pers=peyton, AS, KH, N/A, N/A

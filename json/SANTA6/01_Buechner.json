@@ -53,7 +53,7 @@
                 3,
                 3683
             ],
-            "narrative_level number=\"1\"": [
+            "narrative_level number=1": [
                 4390,
                 280,
                 6852,
@@ -62,12 +62,12 @@
                 579,
                 3686
             ],
-            "narrative_level number=\"1\" words=196": [
+            "narrative_level number=1 words=196": [
                 12251,
                 15,
                 3686
             ],
-            "narrative_level number=\"2\"": [
+            "narrative_level number=2": [
                 70,
                 4320,
                 280,
@@ -78,12 +78,12 @@
                 3624,
                 62
             ],
-            "narrative_level number=\"2\" words=2692": [
+            "narrative_level number=2 words=2692": [
                 15886,
                 4,
                 62
             ],
-            "narrative_levelchange completion=\"complete\"": [
+            "narrative_levelchange completion=complete": [
                 4390,
                 280,
                 6852,
@@ -93,12 +93,12 @@
                 3624,
                 62
             ],
-            "narrative_levelchange completion=\"never opened\"": [
+            "narrative_levelchange completion=never opened": [
                 70,
                 4320,
                 11562
             ],
-            "narrator participation=\"autodiegetic\"": [
+            "narrator participation=autodiegetic": [
                 4390,
                 280,
                 6852,
@@ -107,7 +107,7 @@
                 579,
                 3686
             ],
-            "narrator participation=\"heterodiegetic\"": [
+            "narrator participation=heterodiegetic": [
                 70,
                 4320,
                 280,

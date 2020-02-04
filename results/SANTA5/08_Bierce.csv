@@ -1,11 +1,8 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-L1N1|n_id:a,n_d:ho,t:undef, JH, YH, N/A, N/A
-L1N1|n_id:a,n_d:ts, JH, YH, N/A, N/A
-L1N1|n_id:b,n_d:ts, JH, YH, N/A, N/A
-L1N1|n_id:c,n_d:ts, JH, YH, N/A, N/A
-L1N2|n_id:a,n_d:ho,t:undef, JH, YH, N/A, N/A
-L1N3|n_id:a,n_d:ho,t:undef, JH, YH, N/A, N/A
-L2N1|n_id:b,n_d:he,t:ts,b_t:o/v,b_sc:L1N1, JH, YH, N/A, N/A
-L2N2|n_id:a,n_d:ho,t:dsa,b_t:i/v,b_sc:L1N2, JH, YH, N/A, N/A
-L2N3|n_id:a,n_d:ho,t:undef,b_t:i/v,b_sc:L1N2, JH, YH, N/A, N/A
-L2N4|n_id:a,n_d:ho,t:undef,b_t:i/v:b_sc:L1N2, JH, YH, N/A, N/A
+l1n1, JH, YH, 0.9995995394703909495920308355, 0.1111111111111111111111111111
+l1n2, JH, YH, N/A, N/A
+l1n3, JH, YH, N/A, N/A
+l2n1, JH, YH, N/A, N/A
+l2n2, JH, YH, N/A, N/A
+l2n3, JH, YH, N/A, N/A
+l2n4, JH, YH, N/A, N/A

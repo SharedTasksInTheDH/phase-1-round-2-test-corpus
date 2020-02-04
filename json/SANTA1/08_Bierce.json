@@ -1,21 +1,21 @@
 {
     "items": {
         "AJ": {
-            "Dream": [
+            "dream": [
                 9080,
                 1882,
                 609,
                 508,
                 7899
             ],
-            "Embedded": [
+            "embedded": [
                 1469,
                 1244,
                 15554,
                 1414,
                 297
             ],
-            "Interruptive": [
+            "interruptive": [
                 74,
                 5408,
                 42,
@@ -24,49 +24,49 @@
                 7057,
                 125
             ],
-            "Original": [
+            "original": [
                 36,
                 19817,
                 125
             ]
         },
         "MS": {
-            "Dream_1": [
+            "dream_1": [
                 9080,
                 1882,
                 9016
             ],
-            "Dream_2": [
+            "dream_2": [
                 11571,
                 508,
                 7899
             ],
-            "Embedded_1": [
+            "embedded_1": [
                 1469,
                 1244,
                 17265
             ],
-            "Embedded_2": [
+            "embedded_2": [
                 6266,
                 687,
                 13025
             ],
-            "Embedded_3": [
+            "embedded_3": [
                 17734,
                 1947,
                 297
             ],
-            "Original_1": [
+            "original_1": [
                 74,
                 5408,
                 14496
             ],
-            "Original_2": [
+            "original_2": [
                 5493,
                 7223,
                 7262
             ],
-            "Original_3": [
+            "original_3": [
                 12796,
                 7057,
                 125

@@ -1,31 +1,31 @@
 {
     "items": {
         "AJ": {
-            "Dream": [
+            "dream": [
                 8753,
                 1008,
                 6191
             ],
-            "Embedded": [
+            "embedded": [
                 9875,
                 210,
                 58,
                 163,
                 5646
             ],
-            "Original": [
+            "original": [
                 70,
                 15820,
                 62
             ]
         },
         "MS": {
-            "Embedded": [
+            "embedded": [
                 5069,
                 39,
                 10844
             ],
-            "Embedded Dream/(psychotic scene)": [
+            "embedded dream/(psychotic scene)": [
                 665,
                 211,
                 116,
@@ -47,7 +47,7 @@
                 265,
                 1671
             ],
-            "Original": [
+            "original": [
                 6,
                 64,
                 15820

@@ -103,7 +103,7 @@
             ]
         },
         "MS": {
-            "boundary transgression=\"metalepsis\"": [
+            "boundary transgression=metalepsis": [
                 9490,
                 41,
                 1449
@@ -115,49 +115,49 @@
                 5,
                 1485
             ],
-            "narrative_level number=\"1\"": [
+            "narrative_level number=1": [
                 3519,
                 5971,
                 1490
             ],
-            "narrative_level number=\"1\" words=1057": [
+            "narrative_level number=1 words=1057": [
                 9482,
                 8,
                 1490
             ],
-            "narrative_level number=\"2\"": [
+            "narrative_level number=2": [
                 33,
                 3483,
                 7464
             ],
-            "narrative_level number=\"2\" words=936": [
+            "narrative_level number=2 words=936": [
                 10911,
                 7,
                 62
             ],
-            "narrative_levelchange completion=\"complete\"": [
+            "narrative_levelchange completion=complete": [
                 3519,
                 5971,
                 1490
             ],
-            "narrative_levelchange completion=\"never closed\"": [
+            "narrative_levelchange completion=never closed": [
                 9490,
                 1428,
                 62
             ],
-            "narrative_levelchange completion=\"never opened\"": [
+            "narrative_levelchange completion=never opened": [
                 33,
                 3483,
                 7464
             ],
-            "narrator participation=\"autodiegetic\"": [
+            "narrator participation=autodiegetic": [
                 33,
                 3483,
                 5974,
                 1428,
                 62
             ],
-            "narrator participation=\"homodiegetic\"": [
+            "narrator participation=homodiegetic": [
                 3519,
                 5971,
                 1490

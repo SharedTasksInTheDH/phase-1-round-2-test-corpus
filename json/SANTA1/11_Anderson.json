@@ -1,24 +1,24 @@
 {
     "items": {
         "AJ": {
-            "Embedded": [
+            "embedded": [
                 549,
                 8282,
                 76
             ],
-            "Original": [
+            "original": [
                 96,
                 8735,
                 76
             ]
         },
         "MS": {
-            "Flashback": [
+            "flashback": [
                 549,
                 8282,
                 76
             ],
-            "Original": [
+            "original": [
                 96,
                 450,
                 8290,

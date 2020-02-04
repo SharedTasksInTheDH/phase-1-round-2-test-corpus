@@ -1,6 +1,4 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
-L1N1|n_id:a,n_d:ho,t:l, JH, YH, 0.9992713361872665998724838328, 0.5
-L1N1|n_id:a,n_d:ho,t:l,m&m:mn, JH, YH, N/A, N/A
-L1N1|n_id:a,n_d:ho,t:p,m&m:mn, JH, YH, N/A, N/A
-L1N2|n_id:a,n_d:ho,t:undef,b_t:o/v,b_sc:L1N1, JH, YH, N/A, N/A
-L2N1|n_id:a,n_d:he,t:o/v,b_sc:L1N1, JH, YH, N/A, N/A
+l1n1, JH, YH, 0.9993624191638582748884233537, 0.5882352941176470588235294118
+l1n2, JH, YH, N/A, N/A
+l2n1, JH, YH, N/A, N/A

@@ -1,22 +1,22 @@
 Category, Annotator 1, Annotator 2, SegSim, BoundSim
 change_narratee, FP, MS, 0.9985330790670382866363503007, 0.1836734693877551020408163265
 level_change, FP, MS, N/A, N/A
-narrative_level number="1", FP, MS, N/A, N/A
-narrative_level number="1" words=351, FP, MS, N/A, N/A
-narrative_level number="2", FP, MS, N/A, N/A
-narrative_level number="2" words=4440, FP, MS, N/A, N/A
+narrative_level number=1, FP, MS, N/A, N/A
+narrative_level number=1 words=351, FP, MS, N/A, N/A
+narrative_level number=2, FP, MS, N/A, N/A
+narrative_level number=2 words=4440, FP, MS, N/A, N/A
 narrative_level number=”2”, FP, MS, N/A, N/A
 narrative_level number=”2” words=167, FP, MS, N/A, N/A
 narrative_level number=”3”, FP, MS, N/A, N/A
 narrative_level number=”3” words=4624, FP, MS, N/A, N/A
 narrative_levelchange, FP, MS, N/A, N/A
-narrative_levelchange completion="never closed", FP, MS, N/A, N/A
-narrative_levelchange completion="never opened", FP, MS, N/A, N/A
+narrative_levelchange completion=never closed, FP, MS, N/A, N/A
+narrative_levelchange completion=never opened, FP, MS, N/A, N/A
 narrative_levelchange completion=”complete”, FP, MS, N/A, N/A
-narrative_levelchnage completion="complete", FP, MS, N/A, N/A
-narrator participation="autodiegetic", FP, MS, N/A, N/A
-narrator participation="heterodiegetic", FP, MS, N/A, N/A
-narrator participation="homodiegetic", FP, MS, N/A, N/A
+narrative_levelchnage completion=complete, FP, MS, N/A, N/A
+narrator participation=autodiegetic, FP, MS, N/A, N/A
+narrator participation=heterodiegetic, FP, MS, N/A, N/A
+narrator participation=homodiegetic, FP, MS, N/A, N/A
 narrator participation=”heterodiegetic”, FP, MS, N/A, N/A
 narrator participation=”homodiegetic”, FP, MS, N/A, N/A
 narrator_change, FP, MS, 0.9985514155787003080533959220, 0.21

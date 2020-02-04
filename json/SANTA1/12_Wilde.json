@@ -1,19 +1,19 @@
 {
     "items": {
         "AJ": {
-            "Embedded": [
+            "embedded": [
                 6411,
                 745,
                 16873
             ],
-            "Interruptive": [
+            "interruptive": [
                 3470,
                 9080,
                 785,
                 10593,
                 101
             ],
-            "Original": [
+            "original": [
                 39,
                 3428,
                 9086,
@@ -22,19 +22,19 @@
             ]
         },
         "MS": {
-            "Embedded ": [
+            "embedded ": [
                 13335,
                 797,
                 9897
             ],
-            "Interruptive ": [
+            "interruptive ": [
                 3470,
                 9080,
                 1585,
                 9793,
                 101
             ],
-            "Original ": [
+            "original ": [
                 39,
                 3428,
                 9086,

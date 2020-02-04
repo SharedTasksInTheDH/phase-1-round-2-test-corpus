@@ -1,24 +1,24 @@
 {
     "items": {
         "AJ": {
-            "Embedded": [
+            "embedded": [
                 2220,
                 7476,
                 87
             ],
-            "Frame": [
+            "frame": [
                 187,
                 9509,
                 87
             ]
         },
         "MS": {
-            "Interruptive": [
+            "interruptive": [
                 2220,
                 7476,
                 87
             ],
-            "Original": [
+            "original": [
                 187,
                 2030,
                 7566

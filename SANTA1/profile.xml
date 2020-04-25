@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile xmlns="https://nilsreiter.de/code/corefannotator-1.12.0/profile" name="SANTA1">
+<forbidden>
+	<!-- flags -->
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.AddFlag" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.DeleteFlag" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.UpdateFlag" />
+
+	<!-- entities -->
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.AddMentionsToNewEntity" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.RemoveEntities" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.UpdateEntityName" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.RemoveSingletons" />
+	
+	<!-- entity groups -->
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.AddEntityToEntityGroup" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.RemoveEntitiesFromEntityGroup" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.GroupEntities" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.MergeEntities" />
+
+	<!-- misc -->
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.RenameAllEntities" />
+	<operation class="de.unistuttgart.ims.coref.annotator.document.op.Clear" />
+</forbidden>
+<entities>
+	<entity label="Original_0" />
+	<entity label="Embedded_1" />
+	<entity label="Embedded_2" />
+	<entity label="Embedded_3" />
+	<entity label="Embedded_4" />
+	<entity label="Embedded_5" />
+	<entity label="Embedded_6" />
+	<entity label="Interruptive_1" />
+	<entity label="Interruptive_2" />
+	<entity label="Interruptive_3" />
+	<entity label="Interruptive_4" />
+	<entity label="Interruptive_5" />
+	<entity label="Interruptive_6" />	
+</entities>
+<flags>
+</flags>
+<preferences>
+	<preference key="CFG_ENTITY_SORT_ORDER" value="Alphabet" />
+	<preference key="CFG_ENTITY_SORT_DESCENDING" value="false" />
+	<preference key="CFG_KEEP_TREE_SORTED" value="true" />
+	<preference key="CFG_COMPARE_BY_ENTITY_NAME" value="true" />
+	<preference key="CFG_IGNORE_SINGLETONS_WHEN_COMPARING" value="false" />
+</preferences>
+</profile>

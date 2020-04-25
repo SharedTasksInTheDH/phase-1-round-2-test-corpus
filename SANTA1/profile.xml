@@ -23,7 +23,7 @@
 	<operation class="de.unistuttgart.ims.coref.annotator.document.op.Clear" />
 </forbidden>
 <entities>
-	<entity label="Original_0" />
+	<entity label="Original" />
 	<entity label="Embedded_1" />
 	<entity label="Embedded_2" />
 	<entity label="Embedded_3" />

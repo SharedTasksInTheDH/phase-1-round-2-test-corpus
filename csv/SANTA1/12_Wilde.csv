@@ -5,7 +5,6 @@ AJ3,AJ,original,,12553,13331
 AJ4,AJ,interruptive,,13335,23927
 MS0,MS,"original ",,39,3466
 MS1,MS,"interruptive ",,3470,12549
-MS2,MS,"original ",,12553,13331
-MS3,MS,"original ",,13335,14131
-MS4,MS,"embedded ",,13335,14131
-MS5,MS,"interruptive ",,14135,23927
+MS2,MS,"original ",,12553,14131
+MS3,MS,"embedded ",,13335,14131
+MS4,MS,"interruptive ",,14135,23927

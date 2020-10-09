@@ -1,32 +1,32 @@
-FP0,FP,narrative_level number=”2”,,49,8993
-FP1,FP,narrator participation=”autodiegetic”,,49,8993
-FP2,FP,narrative_levelchange completion=”never_opened”,,49,8993
-FP3,FP,narrative_level number=”2” words=1953,,49,8993
-FP4,FP,narrative_level number=”1”,,8997,9403
-FP5,FP,narrative_levelchange completion=”complete”,,8997,9403
-FP6,FP,narrator participation=”autodiegetic”,,8997,9403
-FP7,FP,narrative_level number=”1” words=624,,8997,9403
+FP0,FP,narrative_level number=2,,49,8993
+FP1,FP,narrator participation=autodiegetic,,49,8993
+FP2,FP,narrative_levelchange completion=never_opened,,49,8993
+FP3,FP,narrative_level number=2 words=1953,,49,8993
+FP4,FP,narrative_level number=1,,8997,9403
+FP5,FP,narrative_levelchange completion=complete,,8997,9403
+FP6,FP,narrator participation=autodiegetic,,8997,9403
+FP7,FP,narrative_level number=1 words=624,,8997,9403
 FP8,FP,narrator_change,,8997,9001
 FP9,FP,level_change,,8997,9001
 FP10,FP,change_narratee,,8997,9001
-FP11,FP,narrative_level number=”2”,,9408,9897
-FP12,FP,narrator participation=”autodiegetic”,,9408,9897
-FP13,FP,narrative_levelchange completion=”never_closed”,,9408,9897
-FP14,FP,narrative_level number=”2” words=1953,,9408,9897
+FP11,FP,narrative_level number=2,,9408,9897
+FP12,FP,narrator participation=autodiegetic,,9408,9897
+FP13,FP,narrative_levelchange completion=never_closed,,9408,9897
+FP14,FP,narrative_level number=2 words=1953,,9408,9897
 FP15,FP,narrator_change,,9408,9409
 FP16,FP,change_narratee,,9408,9409
 FP17,FP,level_change,,9408,9409
-FP18,FP,narrative_level number=”1”,,9902,12799
-FP19,FP,narrative_levelchange completion=”complete”,,9902,12799
-FP20,FP,narrator participation=”autodiegetic”,,9902,12799
-FP21,FP,narrative_level number=”1” words=624,,9902,12799
+FP18,FP,narrative_level number=1,,9902,12799
+FP19,FP,narrative_levelchange completion=complete,,9902,12799
+FP20,FP,narrator participation=autodiegetic,,9902,12799
+FP21,FP,narrative_level number=1 words=624,,9902,12799
 FP22,FP,narrator_change,,9902,9905
 FP23,FP,level_change,,9902,9905
 FP24,FP,change_narratee,,9902,9905
-FP25,FP,narrative_level number=”2”,,12803,13440
-FP26,FP,narrator participation=”autodiegetic”,,12803,13440
-FP27,FP,narrative_levelchange completion=”never_closed”,,12803,13440
-FP28,FP,narrative_level number=”2” words=1953,,12803,13440
+FP25,FP,narrative_level number=2,,12803,13440
+FP26,FP,narrator participation=autodiegetic,,12803,13440
+FP27,FP,narrative_levelchange completion=never_closed,,12803,13440
+FP28,FP,narrative_level number=2 words=1953,,12803,13440
 FP29,FP,level_change,,12803,12811
 FP30,FP,change_narratee,,12803,12811
 FP31,FP,narrator_change,,12803,12811

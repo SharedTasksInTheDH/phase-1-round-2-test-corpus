@@ -1,7 +1,7 @@
-FP0,FP,"narrative_levelchange completion=” complete” ",,60,21230
-FP1,FP,"narrative_level number=” 3” ",,60,21230
-FP2,FP,narrator participation=”heterodiegetic”,,60,21230
-FP3,FP,narrative_level number=”3” words=3765,,60,21230
+FP0,FP,"narrative_levelchange completion=complete ",,60,21230
+FP1,FP,"narrative_level number=3 ",,60,21230
+FP2,FP,narrator participation=heterodiegetic,,60,21230
+FP3,FP,narrative_level number=3 words=3765,,60,21230
 MS0,MS,narrative_level number=4,,60,6072
 MS1,MS,narrator participation=heterodiegetic,,60,6072
 MS2,MS,narrative_levelchange completion=never opened,,60,6072

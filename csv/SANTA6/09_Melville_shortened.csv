@@ -1,14 +1,14 @@
-FP0,FP,narrator participation=”homodiegetic”,,76,24493
-FP1,FP,narrative_level number=”2”,,76,656
-FP2,FP,narrative_level number=”2” words=438,,76,656
-FP3,FP,narrative_levelchange completion=”never_opened”,,76,656
-FP4,FP,narrative_level number=”1”,,658,22566
-FP5,FP,narrative_level number=”1” words=3888,,658,22566
-FP6,FP,narrative_levelchange completion=”complete”,,658,22566
+FP0,FP,narrator participation=homodiegetic,,76,24493
+FP1,FP,narrative_level number=2,,76,656
+FP2,FP,narrative_level number=2 words=438,,76,656
+FP3,FP,narrative_levelchange completion=never_opened,,76,656
+FP4,FP,narrative_level number=1,,658,22566
+FP5,FP,narrative_level number=1 words=3888,,658,22566
+FP6,FP,narrative_levelchange completion=complete,,658,22566
 FP7,FP,level_change,,665,667
-FP8,FP,narrative_level number=”2”,,22584,24493
-FP9,FP,narrative_level number=”2” words=438,,22584,24493
-FP10,FP,narrative_levelchange completion=”never_closed”,,22584,24493
+FP8,FP,narrative_level number=2,,22584,24493
+FP9,FP,narrative_level number=2 words=438,,22584,24493
+FP10,FP,narrative_levelchange completion=never_closed,,22584,24493
 FP11,FP,level_change,,22584,22589
 MS0,MS,narrative_level number=3,,76,656
 MS1,MS,narrative_level completion=never opened,,76,656

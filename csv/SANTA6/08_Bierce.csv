@@ -1,17 +1,17 @@
-FP0,FP,narrator participation=”autodiegetic”,,74,5481
-FP1,FP,narrative_level number=”2”,,74,5481
-FP2,FP,narrative_level number=”2” words=3574,,74,5481
-FP3,FP,narrative_levelchange completion=”never_opened”,,74,5481
+FP0,FP,narrator participation=autodiegetic,,74,5481
+FP1,FP,narrative_level number=2,,74,5481
+FP2,FP,narrative_level number=2 words=3574,,74,5481
+FP3,FP,narrative_levelchange completion=never_opened,,74,5481
 FP4,FP,narrator_change,,5487,5489
-FP5,FP,narrator participation=”autodiegetic”,,5524,12715
-FP6,FP,narrative_level number=”2”,,5524,12715
-FP7,FP,narrative_level number=”2” words=3574,,5524,12715
-FP8,FP,narrative_levelchange completion=”complete”,,5524,12715
+FP5,FP,narrator participation=autodiegetic,,5524,12715
+FP6,FP,narrative_level number=2,,5524,12715
+FP7,FP,narrative_level number=2 words=3574,,5524,12715
+FP8,FP,narrative_levelchange completion=complete,,5524,12715
 FP9,FP,narrator_change,,12721,12724
-FP10,FP,narrator participation=”autodiegetic”,,12796,19852
-FP11,FP,narrative_level number=”2”,,12796,19852
-FP12,FP,narrative_level number=”2” words=3574,,12796,19852
-FP13,FP,narrative_levelchange completion=”never_closed”,,12796,19852
+FP10,FP,narrator participation=autodiegetic,,12796,19852
+FP11,FP,narrative_level number=2,,12796,19852
+FP12,FP,narrative_level number=2 words=3574,,12796,19852
+FP13,FP,narrative_levelchange completion=never_closed,,12796,19852
 MS0,MS,narrative_level number=2,,74,1465
 MS1,MS,narrator participation=autodiegetic,,74,1465
 MS2,MS,narrative_levelchange completion=never opened,,74,1465

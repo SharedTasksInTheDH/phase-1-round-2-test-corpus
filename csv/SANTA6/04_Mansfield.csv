@@ -1,82 +1,82 @@
-FP0,FP,narrative_level number=”3”,,32,3642
-FP1,FP,narrative_level number=”3” words=4624,,32,3642
-FP2,FP,narrator participation=”heterodiegetic”,,32,3642
-FP3,FP,narrative_levelchange completion=”complete”,,32,3642
-FP4,FP,narrative_level number=”2”,,3646,3692
-FP5,FP,narrative_level number=”2” words=167,,3646,3692
-FP6,FP,narrator participation=”homodiegetic”,,3646,3692
-FP7,FP,narrative_levelchange completion=”complete”,,3646,3692
+FP0,FP,narrative_level number=3,,32,3642
+FP1,FP,narrative_level number=3 words=4624,,32,3642
+FP2,FP,narrator participation=heterodiegetic,,32,3642
+FP3,FP,narrative_levelchange completion=complete,,32,3642
+FP4,FP,narrative_level number=2,,3646,3692
+FP5,FP,narrative_level number=2 words=167,,3646,3692
+FP6,FP,narrator participation=homodiegetic,,3646,3692
+FP7,FP,narrative_levelchange completion=complete,,3646,3692
 FP8,FP,level_change,,3646,3650
 FP9,FP,narrator_change,,3646,3650
 FP10,FP,change_narratee,,3646,3650
-FP11,FP,narrative_level number=”3” words=4624,,3693,3709
-FP12,FP,narrator participation=”heterodiegetic”,,3693,3709
-FP13,FP,narrative_levelchange completion=”complete”,,3693,3709
-FP14,FP,narrative_level number=”3” words=4624,,3693,3709
+FP11,FP,narrative_level number=3 words=4624,,3693,3709
+FP12,FP,narrator participation=heterodiegetic,,3693,3709
+FP13,FP,narrative_levelchange completion=complete,,3693,3709
+FP14,FP,narrative_level number=3 words=4624,,3693,3709
 FP15,FP,level_change,,3693,3702
 FP16,FP,narrator_change,,3693,3702
 FP17,FP,change_narratee,,3693,3702
-FP18,FP,narrative_level number=”2”,,3710,3906
-FP19,FP,narrative_level number=”2” words=167,,3710,3906
-FP20,FP,narrator participation=”homodiegetic”,,3710,3906
-FP21,FP,narrative_levelchange completion=”complete”,,3710,3906
+FP18,FP,narrative_level number=2,,3710,3906
+FP19,FP,narrative_level number=2 words=167,,3710,3906
+FP20,FP,narrator participation=homodiegetic,,3710,3906
+FP21,FP,narrative_levelchange completion=complete,,3710,3906
 FP22,FP,narrator_change,,3710,3713
 FP23,FP,change_narratee,,3710,3713
 FP24,FP,level_change,,3710,3713
 FP25,FP,change_narratee,,3901,3906
 FP26,FP,level_change,,3901,3906
 FP27,FP,narrator_change,,3901,3906
-FP28,FP,narrative_level number=”3”,,3910,10394
-FP29,FP,narrative_levelchange completion=”complete”,,3910,10394
-FP30,FP,narrator participation=”heterodiegetic”,,3910,10394
-FP31,FP,narrative_level number=”3” words=4624,,3910,10394
-FP32,FP,narrative_level number=”2”,,10391,10784
-FP33,FP,narrative_levelchange completion=”complete”,,10391,10784
-FP34,FP,narrator participation=”homodiegetic”,,10391,10784
-FP35,FP,narrative_level number=”2” words=167,,10391,10784
+FP28,FP,narrative_level number=3,,3910,10394
+FP29,FP,narrative_levelchange completion=complete,,3910,10394
+FP30,FP,narrator participation=heterodiegetic,,3910,10394
+FP31,FP,narrative_level number=3 words=4624,,3910,10394
+FP32,FP,narrative_level number=2,,10391,10784
+FP33,FP,narrative_levelchange completion=complete,,10391,10784
+FP34,FP,narrator participation=homodiegetic,,10391,10784
+FP35,FP,narrative_level number=2 words=167,,10391,10784
 FP36,FP,narrator_change,,10768,10770
 FP37,FP,change_narratee,,10768,10770
 FP38,FP,level_change,,10768,10770
-FP39,FP,narrative_level number=”2”,,10770,10796
-FP40,FP,narrative_levelchange completion=”complete”,,10770,10796
-FP41,FP,narrator participation=”homodiegetic”,,10770,10796
-FP42,FP,narrative_level number=”2” words=167,,10770,10796
+FP39,FP,narrative_level number=2,,10770,10796
+FP40,FP,narrative_levelchange completion=complete,,10770,10796
+FP41,FP,narrator participation=homodiegetic,,10770,10796
+FP42,FP,narrative_level number=2 words=167,,10770,10796
 FP43,FP,narrator_change,,10770,10774
-FP44,FP,narrative_level number=”3”,,10797,10869
-FP45,FP,narrative_levelchange completion=”complete”,,10797,10869
-FP46,FP,narrator participation=”heterodiegetic”,,10797,10869
-FP47,FP,narrative_level number=”3” words=4624,,10797,10869
+FP44,FP,narrative_level number=3,,10797,10869
+FP45,FP,narrative_levelchange completion=complete,,10797,10869
+FP46,FP,narrator participation=heterodiegetic,,10797,10869
+FP47,FP,narrative_level number=3 words=4624,,10797,10869
 FP48,FP,narrator_change,,10797,10801
 FP49,FP,change_narratee,,10797,10801
 FP50,FP,level_change,,10797,10801
 FP51,FP,narrator_change,,10869,10870
 FP52,FP,change_narratee,,10869,10870
 FP53,FP,level_change,,10869,10870
-FP54,FP,narrative_level number=”2”,,10870,10917
-FP55,FP,narrative_levelchange completion=”complete”,,10870,10917
-FP56,FP,narrator participation=”homodiegetic”,,10870,10917
-FP57,FP,narrative_level number=”2” words=167,,10870,10917
+FP54,FP,narrative_level number=2,,10870,10917
+FP55,FP,narrative_levelchange completion=complete,,10870,10917
+FP56,FP,narrator participation=homodiegetic,,10870,10917
+FP57,FP,narrative_level number=2 words=167,,10870,10917
 FP58,FP,narrator_change,,10917,10918
 FP59,FP,change_narratee,,10917,10918
 FP60,FP,level_change,,10917,10918
-FP61,FP,narrative_level number=”3”,,10918,10994
-FP62,FP,narrative_levelchange completion=”complete”,,10918,10994
-FP63,FP,narrator participation=”heterodiegetic”,,10918,10994
-FP64,FP,narrative_level number=”3” words=4624,,10918,10994
+FP61,FP,narrative_level number=3,,10918,10994
+FP62,FP,narrative_levelchange completion=complete,,10918,10994
+FP63,FP,narrator participation=heterodiegetic,,10918,10994
+FP64,FP,narrative_level number=3 words=4624,,10918,10994
 FP65,FP,change_narratee,,10994,10995
 FP66,FP,level_change,,10994,10995
 FP67,FP,narrator_change,,10994,10995
-FP68,FP,narrative_level number=”2”,,10995,11124
-FP69,FP,narrative_levelchange completion=”complete”,,10995,11124
-FP70,FP,narrator participation=”homodiegetic”,,10995,11124
-FP71,FP,narrative_level number=”2” words=167,,10995,11124
+FP68,FP,narrative_level number=2,,10995,11124
+FP69,FP,narrative_levelchange completion=complete,,10995,11124
+FP70,FP,narrator participation=homodiegetic,,10995,11124
+FP71,FP,narrative_level number=2 words=167,,10995,11124
 FP72,FP,change_narratee,,11124,11125
 FP73,FP,narrator_change,,11124,11125
 FP74,FP,level_change,,11124,11125
-FP75,FP,narrative_level number=”3”,,11222,26191
-FP76,FP,narrative_levelchange completion=”complete”,,11222,26191
-FP77,FP,narrator participation=”heterodiegetic”,,11222,26191
-FP78,FP,narrative_level number=”3” words=4624,,11222,26191
+FP75,FP,narrative_level number=3,,11222,26191
+FP76,FP,narrative_levelchange completion=complete,,11222,26191
+FP77,FP,narrator participation=heterodiegetic,,11222,26191
+FP78,FP,narrative_level number=3 words=4624,,11222,26191
 MS0,MS,narrative_level number=2,,32,3642
 MS1,MS,narrator participation=heterodiegetic,,32,3642
 MS2,MS,narrative_levelchange completion=never opened,,32,3642

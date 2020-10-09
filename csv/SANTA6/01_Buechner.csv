@@ -1,6 +1,6 @@
-FP0,FP,narrative_level number=”3”,,70,15889
-FP1,FP,narrator participation=”heterodiegetic”,,70,15889
-FP2,FP,narrative_level number=”3” words=2888,,70,15889
+FP0,FP,narrative_level number=3,,70,15889
+FP1,FP,narrator participation=heterodiegetic,,70,15889
+FP2,FP,narrative_level number=3 words=2888,,70,15889
 FP3,FP,narrative_levelchange completion=“complete“,,70,15889
 MS0,MS,narrator participation=heterodiegetic,,70,4389
 MS1,MS,narrative_level number=2,,70,4389

@@ -1,7 +1,7 @@
-FP0,FP,narrator participation=”autodiegetic”,,43,22472
-FP1,FP,narrative_level number=”2”,,43,22472
-FP2,FP,narrative_level number=”2” words=4358,,43,22472
-FP3,FP,narrative_levelchange completion=”complete”,,43,22472
+FP0,FP,narrator participation=autodiegetic,,43,22472
+FP1,FP,narrative_level number=2,,43,22472
+FP2,FP,narrative_level number=2 words=4358,,43,22472
+FP3,FP,narrative_levelchange completion=complete,,43,22472
 MS0,MS,narrator participation=autodiegetic,,43,22472
 MS1,MS,narrative_level number=1,,43,22472
 MS2,MS,narrative_level number=1 words=4358,,22465,22472

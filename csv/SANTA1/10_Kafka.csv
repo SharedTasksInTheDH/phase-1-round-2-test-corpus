@@ -1,9 +1,6 @@
 AJ0,AJ,original,,49,13440
-AJ1,AJ,embedded,,8302,8781
-AJ2,AJ,embedded,,9040,9402
-AJ3,AJ,embedded,,10457,12797
-MS0,MS,"original ",,49,8181
-MS1,MS,"original ",,8186,8993
-MS2,MS,embedded,,8997,13221
-MS3,MS,"original ",,8997,13221
-MS4,MS,"original ",,13226,13440
+AJ1,AJ,embedded_1,,8302,8781
+AJ2,AJ,embedded_1,,9040,9402
+AJ3,AJ,embedded_1,,10457,12797
+MS0,MS,original,,49,13440
+MS1,MS,embedded_1,,8997,13221
